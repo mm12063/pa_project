@@ -1,0 +1,413 @@
+{
+  "ticker_data": {
+    "current_price": "\u20a9603,000.00",
+    "quote": "051910:KRX",
+    "title": "LG Chem Ltd"
+  },
+  "about_panel": {
+    "previous_close": "\u20a9598,000.00",
+    "day_range": "\u20a9595,000.00 - \u20a9605,000.00",
+    "year_range": "\u20a9437,000.00 - \u20a9910,000.00",
+    "market_cap": "42.57T KRW",
+    "avg_volume": "257.22K",
+    "p/e_ratio": "15.74",
+    "dividend_yield": "1.99%",
+    "ceo": "Hak Cheol Shin",
+    "founded": "1947",
+    "headquarters": "Seoul, South Korea",
+    "website": "lgchem.com",
+    "employees": "1,320",
+    "description": "LG Chem Ltd., often referred to as LG Chemical, is the largest Korean chemical company and is headquartered in Seoul, South Korea. It was the 10th largest chemical company in the world by sales in 2017. It was first established as the Lucky Chemical Industrial Corporation, which manufactured cosmetics. It is now solely a business-to-business company.\nThe company has eight factories in South Korea and a network of 29 business locations in 15 countries. This network includes a holding company in China, 14 overseas manufacturing subsidiaries, five marketing subsidiaries, seven representative offices, and two R&D centers. The Financial Times reported on April 2, 2017, that LG Chem would be expanding battery production in China. At the time, China accounted for one-third of the company's total sales. In April 2019, LG Chem sued rival SK Innovation for allegedly stealing trade secrets for manufacturing electric vehicle batteries. ",
+    "extensions": [
+      "Stock",
+      "KR headquartered"
+    ]
+  },
+  "news": {
+    "items": [
+      {
+        "position": 1,
+        "title": "Nasdaq Bear Market: 5 Tremendous Growth Stocks You'll Regret Not Buying on \nthe Dip",
+        "link": "https://www.fool.com/investing/2022/07/30/nasdaq-bear-market-5-growth-stocks-regret-not-buy/",
+        "source": "The Motley Fool",
+        "published": "23 hours ago",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxe8C3fXeHPn1SgwS3mALpNiRRrp5w2AwYIZi8CWEVrPiM4ev1NcKLfC2cBBs"
+      },
+      {
+        "position": 2,
+        "title": "The Boeing Company (NYSE:BA) Shares Could Be 47% Below Their Intrinsic \nValue Estimate",
+        "link": "https://www.yahoo.com/video/boeing-company-nyse-ba-shares-131058451.html",
+        "source": "Yahoo Finance",
+        "published": "19 hours ago",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVrV7hfqoB04haM-cEXZUZaNe1l0Do1wp5vZ54GLiVtGkCVhNnE8ijK_qZpzs"
+      },
+      {
+        "position": 3,
+        "title": "Amazon Stock Soars as Wall Street Sees Faster Growth Ahead",
+        "link": "https://www.barrons.com/articles/amazon-stock-earnings-51659113887",
+        "source": "Barron's",
+        "published": "1 day ago",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQK1jRSUAvCBglyW6YUICucDIhUwYRs805UHqyQFaEdkPcLeU9MqZ3qpZAoyD8"
+      },
+      {
+        "position": 4,
+        "title": "The S&P 500 had its best month since November 2020.",
+        "link": "https://www.nytimes.com/2022/07/29/business/stock-market-july.html",
+        "source": "The New York Times",
+        "published": "1 day ago",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRu3Fq1w_a0_4fttZdnKi8dKB5Au-x4EXmdt-dlbeN7u8pWUoy70RVM40yeMtY"
+      },
+      {
+        "position": 5,
+        "title": "The strange reason America's economy is shrinking",
+        "link": "https://www.cnn.com/2022/07/29/investing/premarket-stocks-trading/index.html",
+        "source": "CNN",
+        "published": "1 day ago",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2rtiXMMXBYHlgPWHfchBGNle0q8noVeepDiBgtJfV2feYlP2MsGPnckAgQgU"
+      },
+      {
+        "position": 6,
+        "title": "S&P 500: 7 Stocks Turned $10000 To $76175 In 7 Months | Investor's Business \nDaily",
+        "link": "https://www.investors.com/etfs-and-funds/sectors/stocks-turned-10000-to-thousands-7-months-2022/",
+        "source": "Investor's Business Daily",
+        "published": "1 day ago",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_qp1k1YcY_tkiwAkbs-SC6g8GcHTAAyo1quCICdjzRhTIgEYI0uIni766UJQ"
+      }
+    ]
+  },
+  "finance_perfomance": {
+    "table": []
+  },
+  "people_also_search_for": {
+    "items": [
+      {
+        "position": 1,
+        "ticker": "006400",
+        "ticker_link": "https://www.google.com/finance/quote/006400:KRX",
+        "title": "Samsung SDI Co Ltd",
+        "price": "\u20a9569,000.00",
+        "price_change": "Down by 1.56%",
+        "price_change_formatted": "1.56%"
+      },
+      {
+        "position": 2,
+        "ticker": "068270",
+        "ticker_link": "https://www.google.com/finance/quote/068270:KRX",
+        "title": "Celltrion, Inc.",
+        "price": "\u20a9190,000.00",
+        "price_change": "Changed by 0.00%",
+        "price_change_formatted": "0.00%"
+      },
+      {
+        "position": 3,
+        "ticker": "005930",
+        "ticker_link": "https://www.google.com/finance/quote/005930:KRX",
+        "title": "Samsung Electronics Co Ltd",
+        "price": "\u20a961,400.00",
+        "price_change": "Down by 0.81%",
+        "price_change_formatted": "0.81%"
+      },
+      {
+        "position": 4,
+        "ticker": "300750",
+        "ticker_link": "https://www.google.com/finance/quote/300750:SHE",
+        "title": "Contemporary Amperex Technology Co Ltd",
+        "price": "\u00a5508.60",
+        "price_change": "Down by 1.36%",
+        "price_change_formatted": "1.36%"
+      },
+      {
+        "position": 5,
+        "ticker": "096770",
+        "ticker_link": "https://www.google.com/finance/quote/096770:KRX",
+        "title": "SK Innovation Co Ltd",
+        "price": "\u20a9187,500.00",
+        "price_change": "Up by 3.02%",
+        "price_change_formatted": "3.02%"
+      },
+      {
+        "position": 6,
+        "ticker": "005490",
+        "ticker_link": "https://www.google.com/finance/quote/005490:KRX",
+        "title": "Posco Holdings Inc",
+        "price": "\u20a9242,000.00",
+        "price_change": "Up by 1.47%",
+        "price_change_formatted": "1.47%"
+      },
+      {
+        "position": 7,
+        "ticker": "373220",
+        "ticker_link": "https://www.google.com/finance/quote/373220:KRX",
+        "title": "LG Energy Solution Ltd",
+        "price": "\u20a9422,000.00",
+        "price_change": "Up by 1.56%",
+        "price_change_formatted": "1.56%"
+      },
+      {
+        "position": 8,
+        "ticker": "011170",
+        "ticker_link": "https://www.google.com/finance/quote/011170:KRX",
+        "title": "Lotte Chemical Corp",
+        "price": "\u20a9176,500.00",
+        "price_change": "Down by 0.28%",
+        "price_change_formatted": "0.28%"
+      },
+      {
+        "position": 9,
+        "ticker": "207940",
+        "ticker_link": "https://www.google.com/finance/quote/207940:KRX",
+        "title": "Samsung Biologics Co Ltd",
+        "price": "\u20a9865,000.00",
+        "price_change": "Up by 0.23%",
+        "price_change_formatted": "0.23%"
+      },
+      {
+        "position": 10,
+        "ticker": "003550",
+        "ticker_link": "https://www.google.com/finance/quote/003550:KRX",
+        "title": "LG Corp",
+        "price": "\u20a981,100.00",
+        "price_change": "Up by 0.75%",
+        "price_change_formatted": "0.75%"
+      },
+      {
+        "position": 11,
+        "ticker": "6762",
+        "ticker_link": "https://www.google.com/finance/quote/6762:TYO",
+        "title": "TDK Corp",
+        "price": "\u00a54,160.00",
+        "price_change": "Down by 1.19%",
+        "price_change_formatted": "1.19%"
+      },
+      {
+        "position": 12,
+        "ticker": "006405",
+        "ticker_link": "https://www.google.com/finance/quote/006405:KRX",
+        "title": "Samsung SDI Co Ltd Preferred Shares",
+        "price": "\u20a9293,500.00",
+        "price_change": "Down by 0.17%",
+        "price_change_formatted": "0.17%"
+      },
+      {
+        "position": 13,
+        "ticker": "002812",
+        "ticker_link": "https://www.google.com/finance/quote/002812:SHE",
+        "title": "Yunnan Energy New Material Co Ltd",
+        "price": "\u00a5213.98",
+        "price_change": "Down by 1.38%",
+        "price_change_formatted": "1.38%"
+      },
+      {
+        "position": 14,
+        "ticker": "015760",
+        "ticker_link": "https://www.google.com/finance/quote/015760:KRX",
+        "title": "Korea Electric Power Corporation",
+        "price": "\u20a922,350.00",
+        "price_change": "Up by 0.68%",
+        "price_change_formatted": "0.68%"
+      },
+      {
+        "position": 15,
+        "ticker": "1211",
+        "ticker_link": "https://www.google.com/finance/quote/1211:HKG",
+        "title": "BYD Ord Shs H",
+        "price": "$285.60",
+        "price_change": "Down by 1.24%",
+        "price_change_formatted": "1.24%"
+      },
+      {
+        "position": 16,
+        "ticker": "028260",
+        "ticker_link": "https://www.google.com/finance/quote/028260:KRX",
+        "title": "Samsung C&T Corp",
+        "price": "\u20a9120,500.00",
+        "price_change": "Up by 0.42%",
+        "price_change_formatted": "0.42%"
+      },
+      {
+        "position": 17,
+        "ticker": "096775",
+        "ticker_link": "https://www.google.com/finance/quote/096775:KRX",
+        "title": "SK Innovation Co Ltd Preference Shares",
+        "price": "\u20a9117,000.00",
+        "price_change": "Up by 3.54%",
+        "price_change_formatted": "3.54%"
+      },
+      {
+        "position": 18,
+        "ticker": "ALB",
+        "ticker_link": "https://www.google.com/finance/quote/ALB:NYSE",
+        "title": "Albemarle Corporation",
+        "price": "$244.31",
+        "price_change": "Up by 3.40%",
+        "price_change_formatted": "3.40%"
+      }
+    ]
+  },
+  "interested_in": {
+    "items": [
+      {
+        "position": 1,
+        "ticker": "Index",
+        "ticker_link": "https://www.google.com/finance/quote/.DJI:INDEXDJX",
+        "title": "Dow Jones Industrial Average",
+        "price": "32,845.13",
+        "price_change": "Up by 0.97%",
+        "price_change_formatted": "0.97%"
+      },
+      {
+        "position": 2,
+        "ticker": "Index",
+        "ticker_link": "https://www.google.com/finance/quote/.INX:INDEXSP",
+        "title": "S&P 500",
+        "price": "4,130.29",
+        "price_change": "Up by 1.42%",
+        "price_change_formatted": "1.42%"
+      },
+      {
+        "position": 3,
+        "ticker": "TSLA",
+        "ticker_link": "https://www.google.com/finance/quote/TSLA:NASDAQ",
+        "title": "Tesla Inc",
+        "price": "$891.45",
+        "price_change": "Up by 5.78%",
+        "price_change_formatted": "5.78%"
+      },
+      {
+        "position": 4,
+        "ticker": "AAPL",
+        "ticker_link": "https://www.google.com/finance/quote/AAPL:NASDAQ",
+        "title": "Apple Inc",
+        "price": "$162.51",
+        "price_change": "Up by 3.28%",
+        "price_change_formatted": "3.28%"
+      },
+      {
+        "position": 5,
+        "ticker": "AMZN",
+        "ticker_link": "https://www.google.com/finance/quote/AMZN:NASDAQ",
+        "title": "Amazon.com, Inc.",
+        "price": "$134.95",
+        "price_change": "Up by 10.36%",
+        "price_change_formatted": "10.36%"
+      },
+      {
+        "position": 6,
+        "ticker": "BABA",
+        "ticker_link": "https://www.google.com/finance/quote/BABA:NYSE",
+        "title": "Alibaba Group Holding Ltd - ADR",
+        "price": "$89.37",
+        "price_change": "Down by 11.12%",
+        "price_change_formatted": "11.12%"
+      },
+      {
+        "position": 7,
+        "ticker": "Index",
+        "ticker_link": "https://www.google.com/finance/quote/VIX:INDEXCBOE",
+        "title": "VIX",
+        "price": "21.33",
+        "price_change": "Down by 4.48%",
+        "price_change_formatted": "4.48%"
+      },
+      {
+        "position": 8,
+        "ticker": "SPY",
+        "ticker_link": "https://www.google.com/finance/quote/SPY:NYSEARCA",
+        "title": "SPDR S&P 500 ETF Trust",
+        "price": "$411.99",
+        "price_change": "Up by 1.46%",
+        "price_change_formatted": "1.46%"
+      },
+      {
+        "position": 9,
+        "ticker": "NXST",
+        "ticker_link": "https://www.google.com/finance/quote/NXST:NASDAQ",
+        "title": "Nexstar Media Group Inc",
+        "price": "$188.37",
+        "price_change": "Down by 2.29%",
+        "price_change_formatted": "2.29%"
+      },
+      {
+        "position": 10,
+        "ticker": "MSFT",
+        "ticker_link": "https://www.google.com/finance/quote/MSFT:NASDAQ",
+        "title": "Microsoft Corporation",
+        "price": "$280.74",
+        "price_change": "Up by 1.57%",
+        "price_change_formatted": "1.57%"
+      },
+      {
+        "position": 11,
+        "ticker": "F",
+        "ticker_link": "https://www.google.com/finance/quote/F:NYSE",
+        "title": "Ford Motor Company",
+        "price": "$14.69",
+        "price_change": "Up by 4.93%",
+        "price_change_formatted": "4.93%"
+      },
+      {
+        "position": 12,
+        "ticker": "NFLX",
+        "ticker_link": "https://www.google.com/finance/quote/NFLX:NASDAQ",
+        "title": "Netflix Inc",
+        "price": "$224.90",
+        "price_change": "Down by 0.50%",
+        "price_change_formatted": "0.50%"
+      },
+      {
+        "position": 13,
+        "ticker": "DIS",
+        "ticker_link": "https://www.google.com/finance/quote/DIS:NYSE",
+        "title": "Walt Disney Co",
+        "price": "$106.10",
+        "price_change": "Up by 1.14%",
+        "price_change_formatted": "1.14%"
+      },
+      {
+        "position": 14,
+        "ticker": "Index",
+        "ticker_link": "https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ",
+        "title": "Nasdaq Composite",
+        "price": "12,390.69",
+        "price_change": "Up by 1.88%",
+        "price_change_formatted": "1.88%"
+      },
+      {
+        "position": 15,
+        "ticker": "META",
+        "ticker_link": "https://www.google.com/finance/quote/META:NASDAQ",
+        "title": "Meta Platforms Inc",
+        "price": "$159.10",
+        "price_change": "Down by 1.01%",
+        "price_change_formatted": "1.01%"
+      },
+      {
+        "position": 16,
+        "ticker": "PFE",
+        "ticker_link": "https://www.google.com/finance/quote/PFE:NYSE",
+        "title": "Pfizer Inc.",
+        "price": "$50.51",
+        "price_change": "Down by 0.41%",
+        "price_change_formatted": "0.41%"
+      },
+      {
+        "position": 17,
+        "ticker": "BA",
+        "ticker_link": "https://www.google.com/finance/quote/BA:NYSE",
+        "title": "Boeing Co",
+        "price": "$159.31",
+        "price_change": "Up by 0.069%",
+        "price_change_formatted": "9%"
+      },
+      {
+        "position": 18,
+        "ticker": "GOOG",
+        "ticker_link": "https://www.google.com/finance/quote/GOOG:NASDAQ",
+        "title": "Alphabet Inc Class C",
+        "price": "$116.64",
+        "price_change": "Up by 1.79%",
+        "price_change_formatted": "1.79%"
+      }
+    ]
+  }
+}

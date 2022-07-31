@@ -1,0 +1,382 @@
+{
+  "ticker_data": {
+    "current_price": "$90.76",
+    "quote": "AESC:NYSE",
+    "title": "AES Units"
+  },
+  "about_panel": {
+    "previous_close": "$89.90",
+    "day_range": "$89.99 - $90.76",
+    "year_range": "$79.83 - $107.58",
+    "market_cap": "14.84B USD",
+    "avg_volume": "21.01K",
+    "p/e_ratio": "-",
+    "dividend_yield": "-",
+    "ceo": "Andres Gluski",
+    "founded": "Jan 28, 1981",
+    "headquarters": "Arlington County, VirginiaUnited States",
+    "website": "aes.com",
+    "employees": "8,450",
+    "description": "The AES Corporation is an American Fortune 500 company that generates and distributes electrical power. AES is headquartered in Arlington, Virginia, and is one of the world's leading power companies, generating and distributing electric power in 15 countries and employing 10,500 people worldwide. ",
+    "extensions": [
+      "Stock",
+      "US listed security",
+      "US headquartered"
+    ]
+  },
+  "news": {
+    "items": [
+      {
+        "position": 1,
+        "title": "AES Corp. stock rises Friday, still underperforms market",
+        "link": "https://www.marketwatch.com/story/aes-corp-stock-rises-friday-still-underperforms-market-01659126880-101f1428dfc7",
+        "source": "MarketWatch",
+        "published": "1 day ago",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4cyhwVCQZRZW_sjxDj4Ullqq78ZIaL6wyw9zRe6rhtg9_UaYMrpXERpUyboY"
+      },
+      {
+        "position": 2,
+        "title": "AES Ohio promotes four employees to leadership roles - Dayton Business \nJournal",
+        "link": "https://www.bizjournals.com/dayton/news/2022/07/28/aes-ohio-promotion.html",
+        "source": "The Business Journals",
+        "published": "2 days ago",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8hJfzI1dFfH5imaqJKL0_KBPHmBA87jDVzWFNjD4eoAx25bd_64cvoHFiak"
+      }
+    ]
+  },
+  "finance_perfomance": {
+    "table": []
+  },
+  "people_also_search_for": {
+    "items": [
+      {
+        "position": 1,
+        "ticker": "AES",
+        "ticker_link": "https://www.google.com/finance/quote/AES:NYSE",
+        "title": "AES Corp",
+        "price": "$22.22",
+        "price_change": "Down by 0.22%",
+        "price_change_formatted": "0.22%"
+      },
+      {
+        "position": 2,
+        "ticker": "ACR",
+        "ticker_link": "https://www.google.com/finance/quote/ACR:NYSE",
+        "title": "Acres Commercial Realty Corp",
+        "price": "$8.31",
+        "price_change": "Up by 1.47%",
+        "price_change_formatted": "1.47%"
+      },
+      {
+        "position": 3,
+        "ticker": "AFG",
+        "ticker_link": "https://www.google.com/finance/quote/AFG:NYSE",
+        "title": "American Financial Group Inc",
+        "price": "$133.68",
+        "price_change": "Up by 1.77%",
+        "price_change_formatted": "1.77%"
+      },
+      {
+        "position": 4,
+        "ticker": "ALE",
+        "ticker_link": "https://www.google.com/finance/quote/ALE:NYSE",
+        "title": "ALLETE Inc",
+        "price": "$62.07",
+        "price_change": "Up by 1.02%",
+        "price_change_formatted": "1.02%"
+      },
+      {
+        "position": 5,
+        "ticker": "AGR",
+        "ticker_link": "https://www.google.com/finance/quote/AGR:NYSE",
+        "title": "Avangrid Inc",
+        "price": "$48.73",
+        "price_change": "Up by 0.17%",
+        "price_change_formatted": "0.17%"
+      },
+      {
+        "position": 6,
+        "ticker": "AWK",
+        "ticker_link": "https://www.google.com/finance/quote/AWK:NYSE",
+        "title": "American Water Works Company Inc",
+        "price": "$155.44",
+        "price_change": "Up by 0.032%",
+        "price_change_formatted": "2%"
+      },
+      {
+        "position": 7,
+        "ticker": "AVA",
+        "ticker_link": "https://www.google.com/finance/quote/AVA:NYSE",
+        "title": "Avista Corp",
+        "price": "$42.26",
+        "price_change": "Down by 0.071%",
+        "price_change_formatted": "1%"
+      },
+      {
+        "position": 8,
+        "ticker": "AEE",
+        "ticker_link": "https://www.google.com/finance/quote/AEE:NYSE",
+        "title": "Ameren Corp",
+        "price": "$93.12",
+        "price_change": "Up by 1.16%",
+        "price_change_formatted": "1.16%"
+      },
+      {
+        "position": 9,
+        "ticker": "AZRE",
+        "ticker_link": "https://www.google.com/finance/quote/AZRE:NYSE",
+        "title": "Azure Power Global Ltd",
+        "price": "$12.24",
+        "price_change": "Up by 0.49%",
+        "price_change_formatted": "0.49%"
+      },
+      {
+        "position": 10,
+        "ticker": "AQNU",
+        "ticker_link": "https://www.google.com/finance/quote/AQNU:NYSE",
+        "title": "Algonquin Power and Utilities Units",
+        "price": "$45.88",
+        "price_change": "Up by 1.57%",
+        "price_change_formatted": "1.57%"
+      },
+      {
+        "position": 11,
+        "ticker": "AWR",
+        "ticker_link": "https://www.google.com/finance/quote/AWR:NYSE",
+        "title": "American States Water Co",
+        "price": "$87.17",
+        "price_change": "Down by 0.37%",
+        "price_change_formatted": "0.37%"
+      },
+      {
+        "position": 12,
+        "ticker": "ATO",
+        "ticker_link": "https://www.google.com/finance/quote/ATO:NYSE",
+        "title": "Atmos Energy Corporation",
+        "price": "$121.39",
+        "price_change": "Up by 1.25%",
+        "price_change_formatted": "1.25%"
+      },
+      {
+        "position": 13,
+        "ticker": "ACN",
+        "ticker_link": "https://www.google.com/finance/quote/ACN:NYSE",
+        "title": "Accenture Plc",
+        "price": "$306.26",
+        "price_change": "Up by 0.87%",
+        "price_change_formatted": "0.87%"
+      },
+      {
+        "position": 14,
+        "ticker": "ALIT",
+        "ticker_link": "https://www.google.com/finance/quote/ALIT:NYSE",
+        "title": "Alight Inc",
+        "price": "$7.54",
+        "price_change": "Up by 0.20%",
+        "price_change_formatted": "0.20%"
+      },
+      {
+        "position": 15,
+        "ticker": "AVAN",
+        "ticker_link": "https://www.google.com/finance/quote/AVAN:NYSE",
+        "title": "Avanti Acquisition Corp",
+        "price": "$9.96",
+        "price_change": "Up by 0.050%",
+        "price_change_formatted": "0%"
+      },
+      {
+        "position": 16,
+        "ticker": "ABM",
+        "ticker_link": "https://www.google.com/finance/quote/ABM:NYSE",
+        "title": "ABM Industries, Inc.",
+        "price": "$44.84",
+        "price_change": "Up by 0.81%",
+        "price_change_formatted": "0.81%"
+      },
+      {
+        "position": 17,
+        "ticker": "ABEV",
+        "ticker_link": "https://www.google.com/finance/quote/ABEV:NYSE",
+        "title": "Ambev SA",
+        "price": "$2.82",
+        "price_change": "Down by 2.42%",
+        "price_change_formatted": "2.42%"
+      },
+      {
+        "position": 18,
+        "ticker": "ADX",
+        "ticker_link": "https://www.google.com/finance/quote/ADX:NYSE",
+        "title": "Adams Diversified Equity Fund Inc",
+        "price": "$16.64",
+        "price_change": "Up by 1.22%",
+        "price_change_formatted": "1.22%"
+      }
+    ]
+  },
+  "interested_in": {
+    "items": [
+      {
+        "position": 1,
+        "ticker": "Index",
+        "ticker_link": "https://www.google.com/finance/quote/.DJI:INDEXDJX",
+        "title": "Dow Jones Industrial Average",
+        "price": "32,845.13",
+        "price_change": "Up by 0.97%",
+        "price_change_formatted": "0.97%"
+      },
+      {
+        "position": 2,
+        "ticker": "Index",
+        "ticker_link": "https://www.google.com/finance/quote/.INX:INDEXSP",
+        "title": "S&P 500",
+        "price": "4,130.29",
+        "price_change": "Up by 1.42%",
+        "price_change_formatted": "1.42%"
+      },
+      {
+        "position": 3,
+        "ticker": "TSLA",
+        "ticker_link": "https://www.google.com/finance/quote/TSLA:NASDAQ",
+        "title": "Tesla Inc",
+        "price": "$891.45",
+        "price_change": "Up by 5.78%",
+        "price_change_formatted": "5.78%"
+      },
+      {
+        "position": 4,
+        "ticker": "AAPL",
+        "ticker_link": "https://www.google.com/finance/quote/AAPL:NASDAQ",
+        "title": "Apple Inc",
+        "price": "$162.51",
+        "price_change": "Up by 3.28%",
+        "price_change_formatted": "3.28%"
+      },
+      {
+        "position": 5,
+        "ticker": "AMZN",
+        "ticker_link": "https://www.google.com/finance/quote/AMZN:NASDAQ",
+        "title": "Amazon.com, Inc.",
+        "price": "$134.95",
+        "price_change": "Up by 10.36%",
+        "price_change_formatted": "10.36%"
+      },
+      {
+        "position": 6,
+        "ticker": "BABA",
+        "ticker_link": "https://www.google.com/finance/quote/BABA:NYSE",
+        "title": "Alibaba Group Holding Ltd - ADR",
+        "price": "$89.37",
+        "price_change": "Down by 11.12%",
+        "price_change_formatted": "11.12%"
+      },
+      {
+        "position": 7,
+        "ticker": "Index",
+        "ticker_link": "https://www.google.com/finance/quote/VIX:INDEXCBOE",
+        "title": "VIX",
+        "price": "21.33",
+        "price_change": "Down by 4.48%",
+        "price_change_formatted": "4.48%"
+      },
+      {
+        "position": 8,
+        "ticker": "SPY",
+        "ticker_link": "https://www.google.com/finance/quote/SPY:NYSEARCA",
+        "title": "SPDR S&P 500 ETF Trust",
+        "price": "$411.99",
+        "price_change": "Up by 1.46%",
+        "price_change_formatted": "1.46%"
+      },
+      {
+        "position": 9,
+        "ticker": "NXST",
+        "ticker_link": "https://www.google.com/finance/quote/NXST:NASDAQ",
+        "title": "Nexstar Media Group Inc",
+        "price": "$188.37",
+        "price_change": "Down by 2.29%",
+        "price_change_formatted": "2.29%"
+      },
+      {
+        "position": 10,
+        "ticker": "MSFT",
+        "ticker_link": "https://www.google.com/finance/quote/MSFT:NASDAQ",
+        "title": "Microsoft Corporation",
+        "price": "$280.74",
+        "price_change": "Up by 1.57%",
+        "price_change_formatted": "1.57%"
+      },
+      {
+        "position": 11,
+        "ticker": "F",
+        "ticker_link": "https://www.google.com/finance/quote/F:NYSE",
+        "title": "Ford Motor Company",
+        "price": "$14.69",
+        "price_change": "Up by 4.93%",
+        "price_change_formatted": "4.93%"
+      },
+      {
+        "position": 12,
+        "ticker": "NFLX",
+        "ticker_link": "https://www.google.com/finance/quote/NFLX:NASDAQ",
+        "title": "Netflix Inc",
+        "price": "$224.90",
+        "price_change": "Down by 0.50%",
+        "price_change_formatted": "0.50%"
+      },
+      {
+        "position": 13,
+        "ticker": "DIS",
+        "ticker_link": "https://www.google.com/finance/quote/DIS:NYSE",
+        "title": "Walt Disney Co",
+        "price": "$106.10",
+        "price_change": "Up by 1.14%",
+        "price_change_formatted": "1.14%"
+      },
+      {
+        "position": 14,
+        "ticker": "Index",
+        "ticker_link": "https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ",
+        "title": "Nasdaq Composite",
+        "price": "12,390.69",
+        "price_change": "Up by 1.88%",
+        "price_change_formatted": "1.88%"
+      },
+      {
+        "position": 15,
+        "ticker": "META",
+        "ticker_link": "https://www.google.com/finance/quote/META:NASDAQ",
+        "title": "Meta Platforms Inc",
+        "price": "$159.10",
+        "price_change": "Down by 1.01%",
+        "price_change_formatted": "1.01%"
+      },
+      {
+        "position": 16,
+        "ticker": "PFE",
+        "ticker_link": "https://www.google.com/finance/quote/PFE:NYSE",
+        "title": "Pfizer Inc.",
+        "price": "$50.51",
+        "price_change": "Down by 0.41%",
+        "price_change_formatted": "0.41%"
+      },
+      {
+        "position": 17,
+        "ticker": "BA",
+        "ticker_link": "https://www.google.com/finance/quote/BA:NYSE",
+        "title": "Boeing Co",
+        "price": "$159.31",
+        "price_change": "Up by 0.069%",
+        "price_change_formatted": "9%"
+      },
+      {
+        "position": 18,
+        "ticker": "GOOG",
+        "ticker_link": "https://www.google.com/finance/quote/GOOG:NASDAQ",
+        "title": "Alphabet Inc Class C",
+        "price": "$116.64",
+        "price_change": "Up by 1.79%",
+        "price_change_formatted": "1.79%"
+      }
+    ]
+  }
+}
