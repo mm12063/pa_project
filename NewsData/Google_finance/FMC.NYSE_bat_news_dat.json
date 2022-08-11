@@ -1,4 +1,30 @@
 {
+  "ticker_data": {
+    "current_price": "$111.10",
+    "quote": "FMC:NYSE",
+    "title": "FMC Corp"
+  },
+  "about_panel": {
+    "previous_close": "$110.22",
+    "day_range": "$110.22 - $111.66",
+    "year_range": "$87.27 - $140.99",
+    "market_cap": "13.99B USD",
+    "avg_volume": "816.09K",
+    "p/e_ratio": "18.76",
+    "dividend_yield": "1.91%",
+    "primary_exchange": "NYSE",
+    "ceo": "Mark A. Douglas",
+    "founded": "1883",
+    "headquarters": "Philadelphia, PennsylvaniaUnited States",
+    "website": "fmc.com",
+    "employees": "6,400",
+    "description": "FMC Corporation is an American chemical manufacturing company headquartered in Philadelphia, Pennsylvania, which originated as an insecticide producer in 1883 and later diversified into other industries. In 1941 at the beginning of US involvement in WWII, the company received a contract to design and build amphibious tracked landing vehicles for the United States Department of War, and afterwards the company continued to diversify its products. FMC employs 7,000 people worldwide, and had gross revenues of US$4.7 billion in 2018. ",
+    "extensions": [
+      "Stock",
+      "US listed security",
+      "US headquartered"
+    ]
+  },
   "news": {
     "items": [
       {
