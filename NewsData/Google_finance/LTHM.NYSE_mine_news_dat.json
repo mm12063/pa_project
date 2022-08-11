@@ -1,4 +1,30 @@
 {
+   "ticker_data": {
+    "current_price": "$24.89",
+    "quote": "LTHM:NYSE",
+    "title": "Livent Corp"
+  },
+  "about_panel": {
+    "previous_close": "$24.25",
+    "day_range": "$24.11 - $24.92",
+    "year_range": "$18.49 - $34.61",
+    "market_cap": "4.46B USD",
+    "avg_volume": "2.82M",
+    "p/e_ratio": "95.56",
+    "dividend_yield": "-",
+    "primary_exchange": "NYSE",
+    "ceo": "Paul Graves",
+    "founded": "Oct 11, 2018",
+    "headquarters": "Philadelphia, PennsylvaniaUnited States",
+    "website": "livent.com",
+    "employees": "1,109",
+    "description": null,
+    "extensions": [
+      "Stock",
+      "US listed security",
+      "US headquartered"
+    ]
+  },
   "news": {
     "items": [
       {
