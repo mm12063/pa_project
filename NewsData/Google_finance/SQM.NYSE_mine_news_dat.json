@@ -1,4 +1,29 @@
 {
+  "ticker_data": {
+    "current_price": "$98.37",
+    "quote": "SQM:NYSE",
+    "title": "Sociedad Quimica y Minera de Chile"
+  },
+  "about_panel": {
+    "previous_close": "$97.26",
+    "day_range": "$97.30 - $99.72",
+    "year_range": "$45.91 - $115.76",
+    "market_cap": "26.10B USD",
+    "avg_volume": "1.32M",
+    "p/e_ratio": "21.39",
+    "dividend_yield": "3.05%",
+    "ceo": "Ricardo Ramos",
+    "founded": "Jun 11, 1968",
+    "headquarters": "Chile",
+    "website": "sqm.com",
+    "employees": "6,294",
+    "description": "Sociedad Qu\u00edmica y Minera de Chile is a Chilean chemical company and a supplier of plant nutrients, iodine, lithium and industrial chemicals. It is the world\u2019s biggest lithium producer.\nSQM's natural resources and its main production facilities are located in the Atacama Desert in Tarapac\u00e1 and Antofagasta regions. ",
+    "extensions": [
+      "Stock",
+      "US listed security",
+      "CL headquartered"
+    ]
+  },
   "news": {
     "items": [
       {
