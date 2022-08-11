@@ -1,4 +1,28 @@
 {
+  "ticker_data": {
+    "current_price": "$244.31",
+    "quote": "ALB:NYSE",
+    "title": "Albemarle Corporation"
+  },
+  "about_panel": {
+    "previous_close": "$236.28",
+    "day_range": "$237.00 - $245.71",
+    "year_range": "$169.93 - $291.48",
+    "market_cap": "28.61B USD",
+    "avg_volume": "1.16M",
+    "p/e_ratio": "102.72",
+    "dividend_yield": "0.65%",
+    "primary_exchange": "NYSE",
+    "ceo": "J Kent Masters",
+    "founded": "Feb 28, 1994",
+    "website": "albemarle.com",
+    "employees": "6,000",
+    "description": "Albemarle Corporation is a specialty chemicals manufacturing company based in Charlotte, North Carolina. It operates 3 divisions: lithium, bromine specialties and catalysts.\nAs of 2020, Albemarle was the largest provider of lithium for electric vehicle batteries. Albemarle, Sociedad Qu\u00edmica y Minera, and FMC Corporation collectively produce just over half of the world's lithium and lithium storage products, while just under half is produced by China.\nAlbemarle is a large developer of flame retardant chemicals technologies, with production plants in the United States, China, the Netherlands, Belgium, Germany, France, Austria, and the United Kingdom. It also has a line of antioxidants and blends which concentrate on improving storage life and stability of fuel and other lubricant products. It produces products used in rigid and flexible polyurethane foam applications and ammonium polyphosphate products, pigments for paper applications, aluminium oxides used for flame-retardant, polishing, catalyst, and niche ceramic applications, as well as magnesium hydroxide mainly used as a flame-retardant. ",
+    "extensions": [
+      "Stock",
+      "US listed security"
+    ]
+  },
   "news": {
     "items": [
       {
