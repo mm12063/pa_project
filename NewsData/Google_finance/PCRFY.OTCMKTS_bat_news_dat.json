@@ -1,4 +1,29 @@
 {
+  "ticker_data": {
+    "current_price": "$8.27",
+    "quote": "PCRFY:OTCMKTS",
+    "title": "Panasonic Holdings"
+  },
+  "about_panel": {
+    "previous_close": "$8.32",
+    "day_range": "$8.15 - $8.30",
+    "year_range": "$7.93 - $13.66",
+    "market_cap": "19.99B USD",
+    "avg_volume": "322.22K",
+    "p/e_ratio": "11.39",
+    "dividend_yield": "4.09%",
+    "ceo": "Yuki Kusumi",
+    "founded": "Mar 7, 1918",
+    "headquarters": "Kadoma, OsakaJapan",
+    "website": "holdings.panasonic/global",
+    "employees": "240,198",
+    "description": "Panasonic Holdings Corporation, formerly Matsushita Electric Industrial Co., Ltd. between 1935 and 2008 and the first incarnation of Panasonic Corporation between 2008 and 2022, is a major Japanese multinational conglomerate corporation, headquartered in Kadoma, Osaka. It was founded by K\u014dnosuke Matsushita in 1918 as a lightbulb socket manufacturer. In addition to consumer electronics, of which it was the world's largest maker in the late 20th century, Panasonic offers a wide range of products and services, including rechargeable batteries, automotive and avionic systems, industrial systems, as well as home renovation and construction.\nPanasonic has a primary listing on the Tokyo Stock Exchange and is a constituent of the Nikkei 225 and TOPIX 100 indices. It has a secondary listing on the Nagoya Stock Exchange. ",
+    "extensions": [
+      "Stock",
+      "US listed security",
+      "JP headquartered"
+    ]
+  },
   "news": {
     "items": [
       {
