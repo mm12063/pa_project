@@ -1,4 +1,28 @@
 {
+  "ticker_data": {
+    "current_price": "\u20ac109.60",
+    "quote": "XSDG:FRA",
+    "title": "Samsung SDI GDR"
+  },
+  "about_panel": {
+    "previous_close": "\u20ac108.00",
+    "day_range": "\u20ac105.00 - \u20ac109.60",
+    "year_range": "\u20ac86.00 - \u20ac152.80",
+    "market_cap": "39.60T KRW",
+    "p/e_ratio": "-",
+    "dividend_yield": "-",
+    "ceo": "Jun Young-hyun",
+    "founded": "1970",
+    "headquarters": "South Korea",
+    "website": "samsungsdi.co.kr",
+    "employees": "22,142",
+    "description": "Samsung SDI Co., Ltd. is a battery and electronic materials manufacturer headquartered in Yongin, Gyeonggi-do, South Korea. Samsung SDI operates its business with Energy Solutions and Electronic Materials segment. The Energy Solution segment manufactures rechargeable batteries used for IT device, automotive, and Energy Storage System applications, and the Electronic Materials segment produces materials for semiconductors and displays.\nIn 2012, Samsung SDI and several other major companies were fined by the European Commission for price fixing of TV cathode-ray tubes. ",
+    "extensions": [
+      "Stock",
+      "DE listed security",
+      "KR headquartered"
+    ]
+  },
   "news": {
     "items": [
       {
