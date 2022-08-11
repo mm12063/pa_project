@@ -1,4 +1,30 @@
 {
+  "ticker_data": {
+    "current_price": "$40.25",
+    "quote": "TOSBF:OTCMKTS",
+    "title": "Toshiba Corp"
+  },
+  "about_panel": {
+    "previous_close": "$39.65",
+    "day_range": "$40.15 - $40.25",
+    "year_range": "$34.87 - $46.25",
+    "market_cap": "17.37B USD",
+    "avg_volume": "260.00",
+    "p/e_ratio": "-",
+    "dividend_yield": "-",
+    "primary_exchange": "TYO",
+    "ceo": "Taro Shimada",
+    "founded": "Jul 1875",
+    "headquarters": "Minato City, TokyoJapan",
+    "website": "toshiba.co.jp",
+    "employees": "116,224",
+    "description": "Toshiba Corporation, commonly known as Toshiba and stylized as TOSHIBA, is a Japanese multinational conglomerate headquartered in Minato, Tokyo, Japan. Its diversified products and services include power, industrial and social infrastructure systems, elevators and escalators, electronic components, semiconductors, hard disk drives, printers, batteries, lighting, as well as IT solutions such as quantum cryptography which has been in development at Cambridge Research Laboratory, Toshiba Europe, located in the United Kingdom, now being commercialised. It was one of the biggest manufacturers of personal computers, consumer electronics, home appliances, and medical equipment. As a semiconductor company and the inventor of flash memory, Toshiba had been one of the top 10 in the chip industry until its flash memory unit was spun off as Toshiba Memory, later Kioxia, in the late 2010s.\nThe Toshiba name is derived from its former name, Tokyo Shibaura Denki K.K. which in turn was a 1939 merger between Shibaura Seisaku-sho and Tokyo Denki. The company name was officially changed to Toshiba Corporation in 1978. ",
+    "extensions": [
+      "Stock",
+      "US listed security",
+      "JP headquartered"
+    ]
+  },
   "news": {
     "items": [
       {
