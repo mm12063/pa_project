@@ -1,4 +1,29 @@
 {
+  "ticker_data": {
+    "current_price": "$25.41",
+    "quote": "LAC:NYSE",
+    "title": "Lithium Americas Corp"
+  },
+  "about_panel": {
+    "previous_close": "$24.96",
+    "day_range": "$24.73 - $25.78",
+    "year_range": "$13.37 - $41.56",
+    "market_cap": "4.30B CAD",
+    "avg_volume": "2.08M",
+    "p/e_ratio": "-",
+    "dividend_yield": "-",
+    "primary_exchange": "TSE",
+    "founded": "2007",
+    "headquarters": "Vancouver, British ColumbiaCanada",
+    "website": "lithiumamericas.com",
+    "employees": "351",
+    "description": "Lithium Corporation of America is a mining company which mined lithium-bearing spodumene and pegmatite ores near Bessemer City, Gaston County, North Carolina, United States and in the Black Hills of South Dakota.\nIn September 1959, Lithium Corporation of America was sued for breach of contract by a Canadian producer of lithium concentrate, Quebec Lithium Corporation, from which it had been buying lithium concentrate.\nIn 1985, Lithium Corporation of America was acquired by FMC Corporation, formerly known as Food Machinery and Chemical Corporation. At the time it was acquired, the company was the world's largest producer of lithium. FMC's lithium operations were known as FMC Lithium. In 2019 FMC completed the spin-off of its lithium operations as a new company, Livent Corporation ",
+    "extensions": [
+      "Stock",
+      "US listed security",
+      "CA headquartered"
+    ]
+  },
   "news": {
     "items": [
       {
