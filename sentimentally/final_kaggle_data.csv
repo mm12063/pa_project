@@ -1,0 +1,1496 @@
+idx,headline,date,ticker,source,headline_sentiment
+0,samsung display secures majority of panel orders for next-gen iphone,2020-05-27 05:27:00-04:00,alb,Kaggle,0.0|0.796|0.204|0.3182
+1,"samsung sdi, abb announce strategic microgrid commercial alliance",2015-03-25 06:17:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+2,"update: mylan's us license for humira will begin on jul. 31, 2023 and will not be accelerated by amgen, samsung bioepis entry",2018-07-17 08:07:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+3,"abbvie reports global resolution of humira patent disputes with samsung bioepis; deal provides non-exclusive license to samsung bioepis for humira-related ip in us, effective jun. 30, other markets on diff. dates",2018-04-05 08:07:00-04:00,alb,Kaggle,0.061|0.848|0.091|0.25
+4,"biogen, samsung bioepis reach deal with abbvie for commercialization of imraldi in europe",2018-04-05 08:06:00-04:00,alb,Kaggle,0.0|0.916|0.084|0.0258
+5,acacia research shares spike to high of $4.90 following 8k filing showing agreement with samsung,2016-05-17 13:26:00-04:00,alb,Kaggle,0.0|0.707|0.293|0.6597
+6,acacia research subsidiary entered into a license agreement with samsung electronics,2016-05-17 13:23:00-04:00,alb,Kaggle,0.0|0.738|0.262|0.4939
+7,acacia announces settlement and patent license agreement with samsung ,2014-04-16 06:01:00-04:00,alb,Kaggle,0.0|0.714|0.286|0.4939
+8,acacia subsidiary enters into license agreement with samsung ,2013-09-03 06:03:00-04:00,alb,Kaggle,0.0|0.686|0.314|0.4939
+9,"adobe reports black friday online sales record of $3.34b; apple ipad, samsung 4k tvs top selling electronics",2016-11-26 12:15:00-05:00,alb,Kaggle,0.0|0.899|0.101|0.2023
+10,"update: kodak license participants also include adobe, samsung, huawei, shutterfly",2012-12-19 09:29:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+11,apple's deadliest lawsuit has nothing to do with samsung or htc,2012-01-20 10:52:00-05:00,alb,Kaggle,0.16|0.84|0.0|-0.2263
+12,audience down 15% on lower chip demand from samsung,2014-08-01 16:22:00-04:00,alb,Kaggle,0.346|0.654|0.0|-0.4019
+13,hearing chip works reporting audience has samsung s5 contract,2014-04-02 10:45:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+14,barron's recap: apple vs. samsung,2012-11-18 12:07:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+15,samsung selects anadigics wifi front-end ics for galaxy note 10.1 ,2013-11-04 16:08:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+16,"update: d.a. davidson reiterates neutral rating, raises pt on anadigics on samsung exposure",2013-02-11 10:59:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+17,anadigics says powering new samsung galaxy express,2012-10-03 15:32:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+18,anadigics' mmpa powers samsung galaxy s relay 4g ,2012-09-11 10:01:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+19,aol hd launches on samsung smart tv and google tv   ,2011-10-28 11:03:00-04:00,alb,Kaggle,0.0|0.769|0.231|0.4019
+20,hearing samsung c&t considers purchase of apollo global management's parallel petroleum,2011-08-22 08:36:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+21,who's insulated from the samsung gs7 whiff?,2016-03-15 10:45:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+22,arm holdings announces long-term deal with samsung related to customers' visual experiences,2015-06-03 13:01:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+23,traders in arm holdings attributing weakness to confirmation from samsung of intel chips in new galaxy tablet,2013-06-03 12:03:00-04:00,alb,Kaggle,0.149|0.851|0.0|-0.4215
+24,arrowhead ceo comments on $4.5m alliance between unidym and samsung electronics   ,2010-12-09 08:40:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+25,samsung offsetting recall costs by selling stakes in other tech companies,2016-09-19 11:09:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+26,samsung to sell $681m stake in asml holding -dj,2016-09-08 06:40:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+27,sources say samsung obtains processor orders for apple watch -digitimes,2015-01-09 06:21:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+28,suppliers to samsung decline as jp morgan sees weaker momentum in galaxy 4,2013-06-07 12:09:00-04:00,alb,Kaggle,0.197|0.68|0.122|-0.2732
+29,"samsung galaxy s4 smartphone includes chips from broadcom, qualcomm, atmel corp. and skyworks ",2013-04-26 14:37:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+30,update: blaylock robert van raises pt to $9 on atmel corporation on samsung device ramp-up  ,2013-01-07 14:10:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+31,"samsung selects atmel maxtouch s controller to power galaxy note's 10.1"" touchscreen",2012-09-11 08:07:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+32,samsung's new tech is 133 times faster than 4g,2013-05-13 13:17:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+33,"keybanc ahead of q1 results sees more favorable risk/reward in broadcom, cirrus logic, skyworks solutions given 'stabilizing iphone trends', 'better than expected demand for the samsung gs10', and 'pull-ins at huawei'",2019-04-11 10:38:00-04:00,alb,Kaggle,0.041|0.74|0.219|0.7574
+34,"3 stocks to play the trends in iphone, samsung galaxy inventories",2018-05-16 16:38:00-04:00,alb,Kaggle,0.0|0.789|0.211|0.34
+35,toshiba demise could help nand chip competitors close gap with samsung,2017-04-13 11:42:00-04:00,alb,Kaggle,0.0|0.787|0.213|0.4019
+37,analyst: 3 chip makers put more gear in latest samsung phone,2015-03-10 07:15:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+38,"ces 2018 concludes today, attendees include:  ford, on semiconductor, avnet, kodak, xperi, fitbit, garmin, gopro, roku, samsung, ringcentral, 3m, intel, skyworks solutions, and lattice semiconductor",2018-01-11 09:01:00-05:00,alb,Kaggle,0.0|0.934|0.066|0.1779
+39,"ces 2018 continues today, day 3 of 4: attendees include ford, on semiconductor, avnet, kodak, xperi, fitbit, garmin, gopro, roku, samsung, ringcentral, 3m, intel, skyworks solutions, and lattice semiconductor",2018-01-10 08:58:00-05:00,alb,Kaggle,0.0|0.941|0.059|0.1779
+40,"ces 2018 continues today, day 2 of 4: attendees include ford, on semiconductor, avnet, kodak, xperi, fitbit, garmin, gopro, roku, samsung, ringcentral, 3m, intel, skyworks solutions, and lattice semiconductor",2018-01-09 08:57:00-05:00,alb,Kaggle,0.0|0.941|0.059|0.1779
+41,"ces 2018 event begins today, day 1 of 4; attendees include ford, on semiconductor, avnet, kodak, xperi, fitbit, garmin, gopro, roku, samsung, ringcentral, 3m, and lattice semiconductor",2018-01-08 08:56:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+42,hearing nikkei reporting samsung's c&t signed mou with alibaba related to increased cooperation in online sales of apparel,2015-09-17 13:13:00-04:00,alb,Kaggle,0.0|0.89|0.11|0.2732
+43,"early global news for thursday: groupon-ibm, samsung ssd, yahoo deal talk",2016-03-03 10:50:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+44,mid-day market update: blackberry drops on samsung denial of acquisition interest; pilgrim's pride shares surge,2015-01-15 13:53:00-05:00,alb,Kaggle,0.0|0.612|0.388|0.765
+45,blackberry shares spike to session highs as traders circulate questionable chatter of samsung interest; watch for near-term profit taking,2018-05-02 10:36:00-04:00,alb,Kaggle,0.087|0.593|0.32|0.7096
+46,"according to new data, the samsung s8 is no 'iphone killer' device",2017-05-13 09:39:00-04:00,alb,Kaggle,0.394|0.606|0.0|-0.7579
+47,"gartner: apple now no. 1 in china, samsung losing global share",2015-05-29 10:41:00-04:00,alb,Kaggle,0.343|0.5|0.157|-0.3818
+48,blackberry's new samsung tablet shows there are 'too many cooks in the kitchen',2015-03-16 14:27:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+49,"samsung, blackberry announce worklife by blackberry, secusuite for samsung knox",2015-03-01 12:54:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+50,apple need not worry about samsung's 'totally useless' acquisition,2015-02-20 06:56:00-05:00,alb,Kaggle,0.247|0.56|0.192|-0.1747
+51,sec investigating options trading in blackberry ahead of reuters report of samsung talks -reuters,2015-02-06 05:27:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+52,samsung co-ceo says will actively consider m&a when appropriate -reuters,2015-02-02 21:29:00-05:00,alb,Kaggle,0.0|0.796|0.204|0.3182
+53,blackberry shares spike higher; reuters issued correction to january 14 report of potential samsung interest,2015-01-23 09:28:00-05:00,alb,Kaggle,0.0|0.714|0.286|0.6369
+54,longbow research analyst: samsung-seagate buyout rumor is 'highly improbable',2015-01-22 13:12:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+55,samsung electronics  still pursuing blackberry purchase -financial post,2015-01-21 19:10:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+56,canaccord genuity analyst: blackberry-lg combination makes less sense than samsung rumor,2015-01-21 13:03:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+57,samsung co-ceo says interested in partnership with blackberry to potentially use blackberry technology in samsung devices; not buy the company -dj,2015-01-19 07:23:00-05:00,alb,Kaggle,0.0|0.881|0.119|0.4019
+59,"blackberry & samsung deny takeover rumor, blackberry gains erased",2015-01-15 09:31:00-05:00,alb,Kaggle,0.222|0.556|0.222|0.0
+60,why samsung acquiring blackberry would 'make strategic sense',2015-01-15 07:28:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+61,blackberry shares fall 13% premarket on samsung denial of acquisition interest,2015-01-15 07:27:00-05:00,alb,Kaggle,0.0|0.634|0.366|0.6369
+62,update: samsung denies making offer for blackberry -yonhap,2015-01-15 04:50:00-05:00,alb,Kaggle,0.286|0.714|0.0|-0.4215
+63,update: blackberry spikes 30% on samsung acquisition report; shares give back gains as talks denied,2015-01-14 16:04:00-05:00,alb,Kaggle,0.149|0.615|0.236|0.1779
+64,"update: samsung, blackberry executives reportedly met last week to discuss offer",2015-01-14 15:44:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+65,"update: samsung proposed initial price range of $13.35-$15.49/blackberry share, accoridng to source",2015-01-14 15:43:00-05:00,alb,Kaggle,0.0|0.833|0.167|0.296
+66,samsung approached blackberry regarding takeover deal -reuters,2015-01-14 15:42:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+67,is samsung the next blackberry?,2014-12-05 15:30:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+68,blackberry ceo chen says he hopes to build a bigger ecosystem with samsung,2014-11-13 15:18:00-05:00,alb,Kaggle,0.0|0.797|0.203|0.4215
+69,blackberry to offer security system on samsung smartphones,2014-11-13 13:01:00-05:00,alb,Kaggle,0.0|0.745|0.255|0.34
+70,citron research @citronresearch $bbry all systems a go for mr. chen.  new deal with samsung makes citron feel confident about our near term $15 target. new 52 week high,2014-11-13 12:26:00-05:00,alb,Kaggle,0.0|0.894|0.106|0.4939
+71,blackberry and samsung partner to provide end-to-end security for android,2014-11-13 12:02:00-05:00,alb,Kaggle,0.0|0.789|0.211|0.34
+72,"update: blackberry, samsung will sell each other's mobile security technology",2014-11-13 12:02:00-05:00,alb,Kaggle,0.0|0.789|0.211|0.34
+73,"blackberry issues handful of press releases disclosing new partnerships, will work with brightstar, salesforce, samsung",2014-11-13 12:00:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+74,dow jones reports samsung close to device order from nsa,2014-02-12 14:00:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+75,latest data shows apple and samsung pulling ahead in smartphone wars,2013-11-06 08:35:00-05:00,alb,Kaggle,0.265|0.735|0.0|-0.5574
+76,hearing samsung says they are not considering blackberry acquisition,2013-10-07 08:04:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+77,update: on monday a leaked tv ad reportedly showed bbm is coming to samsung galaxy phones,2013-08-27 10:37:00-04:00,alb,Kaggle,0.141|0.859|0.0|-0.3182
+78,"new report shows samsung tops apple in customer satisfaction (aapl, ssnlf)",2013-08-02 07:31:00-04:00,alb,Kaggle,0.0|0.592|0.408|0.7351
+79,samsung reportedly close to mobile deals with fbi and navy -wsj,2013-07-19 06:27:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+80,"blackberry's a10 to compete with samsung's galaxy note iii (bbry, ssnlf)",2013-07-12 12:40:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+81,"samsung falling victim to same economic headwinds as apple (aapl, ssnlf)",2013-07-05 09:45:00-04:00,alb,Kaggle,0.291|0.709|0.0|-0.4019
+82,investors flee from samsung on lower sales expectations,2013-06-07 08:59:00-04:00,alb,Kaggle,0.239|0.761|0.0|-0.296
+83,will samsung top apple in china during q2?,2013-05-28 15:02:00-04:00,alb,Kaggle,0.0|0.795|0.205|0.2023
+84,"apple is losing $6 billion annually to blackberry, samsung",2013-05-16 14:50:00-04:00,alb,Kaggle,0.245|0.755|0.0|-0.3818
+85,did blackberry photobomb the samsung galaxy mega?,2013-04-11 15:19:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+86,"samsung's u.s. boutiques invade apple territory, but could save best buy",2013-04-04 13:05:00-04:00,alb,Kaggle,0.0|0.471|0.529|0.9022
+87,"comscore says apple had 38.9% of us smartphone subscriber market in feb, samsung had 21.3%, htc had 9.3%",2013-04-04 12:16:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+88,samsung to provide 30% of all phones shipped in 2013,2013-04-03 11:00:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+89,apple and samsung's biggest competitor arrives this week,2013-03-25 18:49:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+90,apple's iphone 5 is 50% slower than samsung's galaxy s iv,2013-03-20 11:46:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+91,uh-oh - apple is really mad at samsung and blackberry now,2013-03-19 14:45:00-04:00,alb,Kaggle,0.28|0.72|0.0|-0.5413
+92,"analyst: samsung's galaxy s iv was ""overhyped, under delivered""",2013-03-15 17:09:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+93,can the samsung galaxy s4 break the blackberry-apple stranglehold on business customers?,2013-03-15 14:44:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+94,samsung is launching an assault on the enterprise mobile market,2013-02-28 08:40:00-05:00,alb,Kaggle,0.297|0.703|0.0|-0.5859
+95,"samsung introduces its first divx certifiedmp3 player at ifa 2009 along with divx, inc. (divx)",2009-09-03 07:23:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+96,"baidu, samsung electronics ready for production of leading-edge ai chip for early next year",2019-12-18 05:17:00-05:00,alb,Kaggle,0.0|0.839|0.161|0.3612
+97,biogen announces proposed transaction with samsung bioepis to secure exclusive rights to two ophthalmology biosimilars,2019-11-06 07:35:00-05:00,alb,Kaggle,0.0|0.769|0.231|0.4404
+98,"biogen, samsung bioepis announce european launch of imraldi",2018-10-17 04:22:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+99,"biogen exercises option to increase ownership in samsung bioepis, biogen will pay samsung biologics ~$700m to increase its ownership in samsung bioepis to ~49.9%; transaction to close 2h of 2018",2018-06-28 16:09:00-04:00,alb,Kaggle,0.042|0.818|0.139|0.4939
+100,"samsung bioepis and biogen announce pooled analysis results of anti-tnf biosimilars benepali, flixabi and imraldi",2018-06-13 08:04:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+101,mizuho: samsung bioepis renegotiation 'a positive' for biogen,2018-04-11 12:09:00-04:00,alb,Kaggle,0.0|0.66|0.34|0.5574
+102,"update: mizuho says alleged negotiation between biogen, samsung 'hasn't hit many investors' inboxes...so we're putting everything here'",2018-04-11 10:54:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+103,update: mizuho highlights business korea article describing samsung group negotiation with biogen to buy stake or part of samsung bioepis,2018-04-11 10:53:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+104,"biogen shares up 1.3%; asian publications overnight discussed 'samsung begins talks with biogen to secure control of biosimilar joint venture'; bz note: biogen announced last thurs. commercialization deal with samsung bioepis, abbvie for imraldi",2018-04-11 10:51:00-04:00,alb,Kaggle,0.0|0.838|0.162|0.6124
+106,"biogen, samsung jv announces etanercept biosimilar referencing enbrel, benepali, approved in eu",2016-01-17 09:18:00-05:00,alb,Kaggle,0.0|0.797|0.203|0.4215
+107,samsung-biogen biosimilar for amgen's enbrel could receive ema recommendation this week -reuters,2015-11-18 05:13:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+108,biogen reports samsung bioepis drugs well tollerated,2015-06-10 06:04:00-04:00,alb,Kaggle,0.0|0.741|0.259|0.2732
+109,"biogen idec, samsung bioepis to market anti-tnf biosimilar product candidates in europe ",2013-12-17 05:44:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+110,samsung biologics and biogen idec announce formation of biosimilars joint venture samsung bioepis,2012-02-28 07:17:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+111,samsung and barnes & noble introduce new large screen samsung galaxy tab 4 nook,2014-10-22 08:32:00-04:00,alb,Kaggle,0.0|0.786|0.214|0.4588
+112,barnes & noble's nook launches co-branded tablet with samsung,2014-09-09 08:36:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+113,"samsung, barnes & noble unveil new samsung galaxy tab 4 nook, priced at $179 following rebate",2014-08-20 09:35:00-04:00,alb,Kaggle,0.0|0.812|0.188|0.4588
+114,barnes and nobel and samsung to collaborate on tablet,2014-06-05 08:31:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+115,"blackrock reports its real assets unit reached deal with consortium of samsung securities as financial investor, samchully asset as asset manager with schroder aida for sale of 14 operating solar projects in france, no terms disclosed",2018-12-04 10:21:00-05:00,alb,Kaggle,0.052|0.706|0.242|0.7269
+116,"bristol-myers squibb, samsung biologics expand manufacturing agreement ",2014-04-22 19:06:00-04:00,alb,Kaggle,0.0|0.476|0.524|0.6705
+117,bristol-myers squibb and samsung biologics announce biopharmaceutical manufacturing relationship ,2013-07-29 07:31:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+118,shares of broadcom down 4% as traders passing around barclays note suggesting samsung's galaxy s4 mini includes qualcomm chips,2013-07-17 09:46:00-04:00,alb,Kaggle,0.0|0.891|0.109|0.296
+120,hearing otr global says broadcom has displaced nxp semiconductor for near field communication chip in samsung galaxy s4,2013-03-01 09:35:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+121,barron's recap: time to buy samsung,2014-10-12 11:35:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+122,china bak successfully passes samsung factory audit,2011-06-30 08:14:00-04:00,alb,Kaggle,0.0|0.652|0.348|0.4939
+123,"the market in 5 minutes: alabama, saban win historic national title, samsung's record quarter, under armour downgrade",2018-01-09 09:01:00-05:00,alb,Kaggle,0.0|0.798|0.202|0.5859
+124,rumor of china telecom releasing high-end samsung smartphone -marbridge daily,2012-11-13 08:19:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+125,"samsung retains top smartphone share in china, apple remains number two",2012-05-23 07:02:00-04:00,alb,Kaggle,0.0|0.602|0.398|0.5106
+127,cinedigm partners with samsung to give viewers access to digital-first networks contv and dove channel,2018-12-18 09:16:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+128,"cheetah mobile, samsung announce collaboration",2015-03-02 05:54:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+129,"comcast announces its xfinity mobile segment will carry samsung's galaxy note8, in-stores sept. 15",2017-08-23 11:45:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+130,warren buffett still prefers burgers and iphones to tacos and samsungs,2018-02-26 11:20:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+131,techfaith files patent infringement suit against samsung ,2012-10-24 05:59:00-04:00,alb,Kaggle,0.341|0.659|0.0|-0.4767
+132,spansion and samsung announce patent litigation settlement and cross-licensing agreement,2011-06-20 08:02:00-04:00,alb,Kaggle,0.138|0.615|0.246|0.34
+134,cray announces samsung purchase cray cs-storm accelerated cluster supercomputer,2017-11-14 04:10:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+135,samsung considering unpaid leave for led staff as worldwide led market suffers from oversupply -digitimes,2016-01-05 05:16:00-05:00,alb,Kaggle,0.249|0.751|0.0|-0.5106
+137,"soft apple, samsung handset demand a common theme across semiconductor stocks, keybanc says in earnings preview",2018-04-30 10:39:00-04:00,alb,Kaggle,0.097|0.903|0.0|-0.128
+138,"otr out negative on cirrus logic, sees dollar content loss expected as samsung brings dsp function in-house",2017-01-25 09:54:00-05:00,alb,Kaggle,0.286|0.714|0.0|-0.7184
+139,dougherty says cirrus logic likely to have won a samsung contract,2016-12-06 15:23:00-05:00,alb,Kaggle,0.0|0.709|0.291|0.5719
+141,"northland warning on crus, believes co lost samsung galaxy 7 following qcom displacement",2015-10-02 10:17:00-04:00,alb,Kaggle,0.32|0.68|0.0|-0.5719
+142,hearing samsung to offer bid for cirrus logic,2011-07-27 11:17:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+143,"samsung, canadian solar plant to creates 200 jobs",2014-03-06 14:34:00-05:00,alb,Kaggle,0.0|0.769|0.231|0.2732
+144,samsung and canadian solar open solar manufacturing facility in london,2014-03-06 14:32:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+145,samsung renewable energy signs manufacturing partnership agreement with canadian solar ,2013-06-26 11:06:00-04:00,alb,Kaggle,0.0|0.602|0.398|0.6486
+146,update: citigroup upgrades csr plc to neutral following samsung deal  ,2012-08-06 10:08:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+147,"vmware, citrix issue separate press releases highlighting collaborations/partnerships with samsung",2017-03-29 11:00:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+148,samsung anounces groundbreaking method to commercialize new material for electronics -samsung tomorrow blog; cvd equipment share move may be attributed to post,2014-04-04 11:01:00-04:00,alb,Kaggle,0.0|0.905|0.095|0.296
+151,"amazon teams with samsung, warner bros., lionsgate and others to pioneer 4k ultra hd experience for customers ",2014-01-06 17:03:00-05:00,alb,Kaggle,0.0|0.904|0.096|0.1779
+152,tivo teams with samsung - analyst blog,2010-09-13 16:06:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+153,"barron's picks and pans: ebay, shire, samsung and more",2016-10-10 08:10:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+155,"samsung, amdocs partner to accelerate communications service providers' deployment of 5g open cloud networks",2019-09-09 06:07:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+156,"shares of several semiconductor stocks are trading higher after amd announced a multi-year partnership with samsung for 'ultra low power, high performance mobile graphics ip based on amd radeon graphics technologies.'",2019-06-03 09:53:00-04:00,alb,Kaggle,0.065|0.867|0.068|0.0258
+158,mid-morning market update: crude oil down over 2.5%; harman shares surge following samsung bid,2016-11-14 12:08:00-05:00,alb,Kaggle,0.207|0.67|0.123|-0.3612
+159,three companies samsung should buy,2012-09-28 10:15:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+160,katzenberg's dreamworks animation (dwa) collaborates with samsung,2010-01-08 08:42:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+161,"samsung heavy industries, technip, japan's jgc in talks to supply floating lng platform to eni's project in mozambique -reuters",2016-07-21 04:36:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+164,apple sold $2 billion worth of iphones into samsung's user base,2015-03-31 15:35:00-04:00,alb,Kaggle,0.0|0.84|0.16|0.2263
+165,"ebay announces paypal now available with fingerprint authentication, app now available around the world on samsung galaxy s5, gear 2, gear fit",2014-04-11 10:54:00-04:00,alb,Kaggle,0.0|0.894|0.106|0.3612
+167,"ericsson, samsung reach agreement on global patent licenses ",2014-01-27 05:47:00-05:00,alb,Kaggle,0.0|0.583|0.417|0.5106
+168,"bloomberg reporting stmicro, ericsson said to fail to find buyer for chip venture, says samsung among buyers who declined offer",2013-03-12 12:20:00-04:00,alb,Kaggle,0.156|0.844|0.0|-0.5423
+169,samsung files countercomplaint vs. ericsson with itc,2012-12-27 12:43:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+170,"eros reports partnership with its now unit, samsung, no terms disclosed",2020-03-13 09:05:00-04:00,alb,Kaggle,0.18|0.82|0.0|-0.296
+171,"elbit systems' subsidiary, cyberbit, selected by samsung sds to provide advanced cyber security solutions; terms not disclosed",2016-11-16 04:12:00-05:00,alb,Kaggle,0.0|0.697|0.303|0.6249
+172,german appeals court reaffirms ban on samsung galaxy tab,2011-09-09 07:58:00-04:00,alb,Kaggle,0.31|0.69|0.0|-0.5574
+173,south korea etf sort of endures samsung slide,2016-09-13 08:28:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+175,samsung and the north: just two of the issues plaguing south korea etfs,2015-08-24 11:59:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+176,fiat chrysler +8.7% premarket @ $6.61 following bloomberg report of talks to sell auto parts unit to samsung,2016-08-03 06:18:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+177,fiat chrysler declines comment on report samsung in talks to acquire auto parts unit -reuters,2016-08-03 06:04:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+178,samsung said to be in talks to acquire fiat assets -bloomberg,2016-08-03 05:58:00-04:00,alb,Kaggle,0.0|0.855|0.145|0.1779
+180,phoenix new media announces pre-installation agreement with samsung,2014-04-24 08:16:00-04:00,alb,Kaggle,0.0|0.686|0.314|0.4939
+182,"update: google says working with samsung, motorola, htc, lg, asus, fossil group to bring android watches to market later this year",2014-03-18 12:18:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+183,samsung partners with 20th century fox to establish new uhd content ecosystem,2014-03-20 13:31:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+185,"samsung signs content deals with amazon, netflix, fox",2014-01-06 17:01:00-05:00,alb,Kaggle,0.0|0.805|0.195|0.1779
+186,"technipfmc, samsung engineering awarded $4.2b contract for bapco sitra refinery expansion in bahrain",2017-12-04 04:20:00-05:00,alb,Kaggle,0.0|0.816|0.184|0.4019
+188,himax shares move to low; hearing analyst note says google testing samsung oled chipset for google glass,2014-06-02 10:10:00-04:00,alb,Kaggle,0.109|0.777|0.114|0.0258
+189,general dynamics' c4 systems announces strategic partnership for samsung mobile devices,2013-02-25 10:14:00-05:00,alb,Kaggle,0.0|0.826|0.174|0.2732
+191,"gaslog announces two further long-term charters with cheniere; to fulfill charters, two lng carriers have been ordered from samsung heavy industries",2018-12-26 06:50:00-05:00,alb,Kaggle,0.0|0.873|0.127|0.4404
+192,gaslog orders a newbuild lng carrier from samsung heavy industries,2018-03-12 08:21:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+193,"gaslog orders a 180,000 cubic meter vessel from samsung heavy industries",2018-01-02 08:35:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+194,gaslog orders lng carriers from samsung,2014-05-09 05:30:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+195,"impact from samsung issues should be muted for best buy, gamestop",2016-10-12 09:17:00-04:00,alb,Kaggle,0.0|0.704|0.296|0.6369
+197,how does apple's iphone loyalty compare to samsung and google?,2019-07-31 12:55:00-04:00,alb,Kaggle,0.0|0.72|0.28|0.5423
+198,"update: google cloud announced 33 new partners, including jp morgan chase, dish, usa today, sprint, viacom, p&g, tyson foods, unilever, samsung, ups",2019-04-09 13:06:00-04:00,alb,Kaggle,0.0|0.921|0.079|0.2023
+201,samsung display said to have delivered samples of flexible displays for foldable phones to apple and google,2019-03-08 04:06:00-05:00,alb,Kaggle,0.0|0.894|0.106|0.2263
+202,samsung unveils new screen technology for foldable phones: infinity flex,2018-11-07 14:25:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+203,google at conference says expect 'foldable products' from several android device makers; says working closely with samsung electronics on foldable phone for early 2019,2018-11-07 13:45:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+204,huawei technologies and samsung electronics say demand for smartphones look sluggish going into christmas season,2018-10-11 15:12:00-04:00,alb,Kaggle,0.244|0.756|0.0|-0.4939
+209,"jason picks the best deals for july 9: urbanears wireless headset, samsung fit2 pro smart band and more",2018-07-09 12:38:00-04:00,alb,Kaggle,0.0|0.699|0.301|0.7845
+214,fitbit ripe for takeover with samsung and apple's commitment to wearables,2016-06-24 08:13:00-04:00,alb,Kaggle,0.0|0.794|0.206|0.3818
+215,"update: idc data shows fitbit saw 158.8% yoy shipment volume growth, garmin growth 40%, samsung volume down ~25%",2015-08-27 08:46:00-04:00,alb,Kaggle,0.0|0.755|0.245|0.6369
+216,"update: idc data shows fitbit holding largest market share in wearables at 24.3%, apple second at 19.9%, xiaomi 17.1%, garmin 3.9%, samsung 3.3%",2015-08-27 08:42:00-04:00,alb,Kaggle,0.0|0.909|0.091|0.296
+219,hearing harman holder planning to vote against sale to samsung,2016-12-14 14:48:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+221,harman sharply higher off samsung bid,2016-11-14 10:09:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+222,samsung electronics to acquire harman for $112.00/share in cash,2016-11-14 04:12:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+223,home depot adds samsung to home appliance line-up,2012-12-04 09:24:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+227,how apple can win its patent war against samsung,2013-01-16 14:13:00-05:00,alb,Kaggle,0.265|0.476|0.259|-0.0258
+228,micron and samsung launch consortium to break down the memory wall  ,2011-10-06 15:05:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+230,smsc inter-chip connectivity technology licensed by samsung   ,2011-10-13 08:00:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+232,"ibm says co, samsung electronics announce new joint platform leveraging ibm cloud and ai capabilities, and samsung's mobile offerings; platform will help clients track worker's vitals, including heart rate and physical activity",2019-10-29 14:02:00-04:00,alb,Kaggle,0.0|0.862|0.138|0.5859
+233,ibm expands strategic partnership with samsung to include 7nm chip manufacturing,2018-12-20 09:06:00-05:00,alb,Kaggle,0.0|0.877|0.123|0.1027
+234,bofa: integrated device technology's samsung exposure could limit upside,2018-05-01 16:12:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+236,"the deal tweets: eight: western digital $wdt could buy $idti if it finishes toshiba fight. so could samsung, nvidia. #dealeconomy",2017-11-30 12:40:00-05:00,alb,Kaggle,0.12|0.88|0.0|-0.3818
+237,samsung says it has chosen integrated device technology for wireless charging in the galaxy s8 and s8+,2017-06-13 06:45:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+238,integrated device technology announces its wireless charging technology used in samsung galaxy s7,2016-03-22 06:37:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+240,samsung selects idt's low-power dual-port memory for galaxy tab. 10.1 lte tablet pc   ,2011-10-25 06:35:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+241,"hearing chatter samsung to stream 3d videos in may, affecting imax corp (imax)",2011-04-15 13:08:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+242,update: immunomedics is obligated to pay samsung each year from 2020 to 2025 greater of min. product purchase commitment as set forth in psa,2018-09-12 08:30:00-04:00,alb,Kaggle,0.051|0.764|0.185|0.5719
+243,"immunomedics and samsung biologics announce strategic manufacturing partnership, 
+partnership involves commercial-scale production of hrs7, the antibody used in immunomedics' lead antibody-drug conjugate, sacituzumab govitecan",2018-09-12 08:03:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+244,"mobile world congress americas continues today, day 2 of 3; attendees include samsung, semtech, and inseego",2018-09-13 05:51:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+246,"barrington initiates coverage on invensense amid design wins with apple, samsung and xiaomi",2015-02-23 11:08:00-05:00,alb,Kaggle,0.0|0.764|0.236|0.5719
+247,"invensense shares up 4+% monday; note from craig-hallum suggests co. has won three new design wins related to nexus 5, kindle fire hd, samsung's smartwatch",2013-10-07 13:10:00-04:00,alb,Kaggle,0.073|0.636|0.291|0.802
+248,apple's chief patent lawyer leaving company amidst lawsuits against samsung and htc,2011-07-12 15:49:00-04:00,alb,Kaggle,0.127|0.873|0.0|-0.1531
+249,"spruce point capital tweets: amazon ""robotic vacuum"" search - best seller ecovacs, eufy + samsung ahead of $irbt #competition #negative #deflation @cnbcclosingbell",2017-07-27 15:16:00-04:00,alb,Kaggle,0.0|0.753|0.247|0.7096
+250,samsung extends its lead over apple,2012-11-14 11:29:00-05:00,alb,Kaggle,0.0|0.769|0.231|0.128
+251,mobile phone sales decline 2.3% in q2; are apple and samsung doomed? ,2012-08-14 09:11:00-04:00,alb,Kaggle,0.276|0.724|0.0|-0.6369
+252,samsung results could cut into apple's profits,2012-07-06 08:32:00-04:00,alb,Kaggle,0.21|0.5|0.29|0.2023
+253,"ic insights reports samsung, intel, taiwan semiconductor to account for 52% of semiconductor capex in 2014 -digitimes",2014-03-26 05:59:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+254,"bloomberg earlier reported apple, samsung, roche holding will participate in fda pilot program for digital health software",2017-09-26 14:10:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+255,"samsung, amazon — everyone is getting into pharmaceuticals",2017-07-27 08:36:00-04:00,alb,Kaggle,0.0|0.779|0.221|0.1779
+256,are the samsung m&a rumors true?,2011-12-01 14:52:00-05:00,alb,Kaggle,0.0|0.641|0.359|0.4215
+257,"keysight technologies, samsung report collaboration to validate dynamic spectrum sharing technology in chipmaker's new 5g modem, no terms disclosed",2020-02-04 11:00:00-05:00,alb,Kaggle,0.088|0.598|0.315|0.6908
+258,"keysight, samsung announce 5g collaboration",2017-02-27 04:08:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+264,kt and samsung medical center earlier announce to build 5g smart hospital,2020-01-21 08:32:00-05:00,alb,Kaggle,0.0|0.803|0.197|0.4019
+265,the samsung galaxy s8 next gen smartphone now available to flow customers across the caribbean,2017-05-17 15:08:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+266,"semileds shares up 28%, traders attributing strength to an earlier ledinside report titled, 'samsung researching possibility of combining quantum dot technology with micro led tvs'",2018-04-24 10:11:00-04:00,alb,Kaggle,0.0|0.81|0.19|0.6597
+267,semileds shares pop to high of $4.67 and halted on cb on unconfirmed chat room chatter of contract win with samsung,2018-02-02 12:15:00-05:00,alb,Kaggle,0.059|0.706|0.235|0.6705
+268,"record oled shipments in third quarter 2009, samsung telecommunication the market leader",2009-12-22 12:19:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+270,"bloomberg reporting amazon teams with samsung, warner bros, lionsgate on 4k ultra",2014-01-06 17:02:00-05:00,alb,Kaggle,0.0|0.866|0.134|0.1779
+271,"lionsgate, samsung partner to expand availability of hig 3d content in home entertainment marketplace",2013-01-09 11:05:00-05:00,alb,Kaggle,0.0|0.702|0.298|0.6249
+274,"samsung provides google tv on its own terms (goog, intc, sne, logi)",2011-02-28 10:34:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+275,lojack for android to be embedded in samsung galaxy s4's firmware -engadget,2013-05-22 11:38:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+276,samsung display maintains top-vendor ranking in global small and medium-size panel market in q3; tianma optoelectronics narrows gap vs second-ranked lg display,2018-12-14 04:13:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+277,apple relying solely on samsung for high-end smartphone displays due to production issues at lg,2018-04-20 06:42:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+278,lg display could join samsung as oled panel supplier for apple in 2018 -digitimes,2018-01-12 04:08:00-05:00,alb,Kaggle,0.0|0.855|0.145|0.296
+279,"70% of global output of amoled panels to be used by apple, samsung -digitimes",2017-03-16 04:10:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+280,"samsung display shipped 80m+ smartphone panels in q1 2016, lg display shipped 34m -digitimes",2016-04-25 04:14:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+281,"samsung, lg display close to agreement with apple to supply oled screens for iphones -reuters",2015-12-30 04:49:00-05:00,alb,Kaggle,0.0|0.814|0.186|0.4939
+282,samsung said to be supplying apple with oled panels,2015-12-17 04:48:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+283,samsung display to begin mass production of transparent oled displays in december -digitimes,2015-12-10 04:27:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+284,samsung display expected to surpass lg display in revenues -digitimes,2015-12-01 04:32:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+285,"samsung display to produce 55-inch transparent oled displays in 2016; lg display to produce 60-inch transparent, flexible ultra hd displays in 2017 -digitimes",2015-11-27 05:00:00-05:00,alb,Kaggle,0.0|0.921|0.079|0.2263
+286,"samsung display, lg display seeing increase in orders for oled panels due to demand for high-end smartphones -digitimes",2015-10-21 05:16:00-04:00,alb,Kaggle,0.076|0.808|0.116|0.2023
+287,"apple teams with samsung to build ipad mini retina display (aapl, ssnlf)",2013-08-01 11:12:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+288,"samsung, lg, sharp begin shipping ipad 3 displays -sources",2011-11-18 08:55:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+289,"ipad uses samsung and lg display components (aapl, lpl)",2010-04-06 14:25:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+290,samsung to pay kodak (ek) for settling patent dispute,2009-12-23 11:53:00-05:00,alb,Kaggle,0.369|0.631|0.0|-0.4767
+292,"hearing lynx equity comments on dram inventory at samsung, says inventory may have expanded to unsustainable levels, notes research into supply chain shows inventory could be as high as 1 year's worth of supply",2019-06-07 08:50:00-04:00,alb,Kaggle,0.0|0.944|0.056|0.2263
+297,mastercard reports collaboration with samsung 'to explore and deliver a better way for people to conveniently and securely verify their digital identity on the mobile devices they use every day',2019-05-21 08:22:00-04:00,alb,Kaggle,0.0|0.836|0.164|0.6486
+298,"today in cryptocurrency: 8bit sees huge gain, samsung explores blockchain",2018-04-16 16:14:00-04:00,alb,Kaggle,0.0|0.584|0.416|0.6908
+299,"mastercard, samsung increase relationship joins digital enablement express program",2015-09-08 12:05:00-04:00,alb,Kaggle,0.0|0.777|0.223|0.3182
+300,"mastercard, samsung to deliver samsung pay in europe",2015-07-30 04:08:00-04:00,alb,Kaggle,0.167|0.833|0.0|-0.1027
+301,samsung launches samsung pay,2015-03-01 12:45:00-05:00,alb,Kaggle,0.318|0.682|0.0|-0.1027
+303,"medtronic, samsung report expanded alliance to develop connected health solutions for neuromodulation patients, healthcare providers",2015-12-11 08:03:00-05:00,alb,Kaggle,0.0|0.892|0.108|0.1779
+304,medtronic says to increase access to diabetes device data through partnership with glooko; announces partnership with samsung for enhancement of diabetes management,2015-06-05 08:10:00-04:00,alb,Kaggle,0.0|0.901|0.099|0.3182
+306,samsung and mentor graphics expand calibre signoff and foundry mask processing solution for 20nm,2012-06-06 09:02:00-04:00,alb,Kaggle,0.0|0.723|0.277|0.5574
+307,samsung sdi to acquire battery pack business fom unit of magna international; financial terms not disclosed,2015-02-23 05:43:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+308,magic software shares jump following deal with samsung,2012-12-05 09:37:00-05:00,alb,Kaggle,0.0|0.761|0.239|0.296
+309,sandisk blowup highlights apple's and samsung's smartphone industry dominance,2012-04-04 12:45:00-04:00,alb,Kaggle,0.0|0.816|0.184|0.2023
+310,"analyst shaw wu: smartphone market two horse race between apple and google, whether samsung stays in depends on what google does with motorola purchase",2012-04-03 13:26:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+311,"apple seeking up to $15 per android device in legal settlement with motorola, samsung -apple insider",2012-03-06 15:08:00-05:00,alb,Kaggle,0.0|0.909|0.091|0.128
+312,the samsung bull market just replaced the android bull market,2012-02-07 11:30:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+313,apple finally beats samsung as the largest…,2012-01-27 12:33:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+314,are apple and samsung's patent wars going too far?,2011-11-30 09:39:00-05:00,alb,Kaggle,0.31|0.69|0.0|-0.5574
+315,comscore reports july u.s. mobile subscriber market share; samsung top handset manufacturer ,2011-08-30 12:30:00-04:00,alb,Kaggle,0.0|0.714|0.286|0.4588
+316,potential interdigital buyout by samsung,2011-08-08 07:48:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+323,"merck reports samsung bioepis receives approval of renflexis, a biosimilar of remicade, in korea",2015-12-07 08:00:00-05:00,alb,Kaggle,0.0|0.795|0.205|0.4767
+324,merck announces samsung bioepis will present new biosimilars data at the 2015 acr/arhp annual meeting,2015-11-05 08:43:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+325,"merck, samsung bioepis report approval of brenzys, a biosimilar of enbrel, in korea",2015-09-08 08:31:00-04:00,alb,Kaggle,0.0|0.78|0.22|0.4767
+326,"merck, samsung bioepis report pivotal phase 3 studies for investigational biosimilars sb4, enbrel (etanercept), and sb2, remicade (infliximab), met primary endpoints",2015-06-10 08:46:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+327,"merck, samsung bioepis announce deal to develop insulin glargine candidate",2014-02-10 08:31:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+329,samsung launches three new galaxy smartphones with marvell's td-scdma solutions,2012-08-14 08:08:00-04:00,alb,Kaggle,0.0|0.841|0.159|0.1779
+330,comscore reports january u.s. mobile subscriber market share; samsung top handset ,2012-03-06 13:18:00-05:00,alb,Kaggle,0.0|0.692|0.308|0.4588
+331,mattson (mtsn)  shares up on big samsung order,2009-12-02 07:30:00-05:00,alb,Kaggle,0.0|0.761|0.239|0.296
+333,"mizuho maintains buy, $47 target on micron as firm notes co. 'should benefit from hyperscale and server dram market share gains given samsung 1x nm issues'",2019-04-16 10:17:00-04:00,alb,Kaggle,0.0|0.752|0.248|0.765
+334,shares of several microchip companies are trading higher on rumors indicating that amazon has faced quality issues with samsung chips and may be in talks with competitors about a potential replacement for samsung if a settlement isn't reached.,2019-03-29 11:34:00-04:00,alb,Kaggle,0.034|0.864|0.102|0.3826
+335,samsung ceo sees intensified competition in chip market due to oversupply,2019-03-19 20:19:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+336,"samsung electronics, sk hynix, micron technology saw combined dram and flash memory revenues fall 26% yoy in q4 2018",2019-02-25 04:29:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+337,"samsung electronics, micron technology, toshiba , sk hynix concerned about impact of weak iphone sales",2019-02-11 04:34:00-05:00,alb,Kaggle,0.182|0.818|0.0|-0.4404
+338,"china authorities alleged massive evidence of antitrust violations by micron, samsung, sk hynix",2018-11-19 06:41:00-05:00,alb,Kaggle,0.221|0.779|0.0|-0.5267
+339,'$mu +ve: samsung plans to lower dram capex in 2019 to stabilize prices:  - economic daily - positive for micron (mu) and the whole dram' -tweet from the notable calls,2018-10-09 09:58:00-04:00,alb,Kaggle,0.069|0.818|0.113|0.34
+340,"samsung, sk hynix, micron technology could faces fines of up to $8b in china over alleged price fixing",2018-06-21 04:26:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+341,"dramexchange reports dram revenues for top 3 suppliers samsung, sk hynix, micron rose 14% in q4 2017 -digitimes",2018-02-22 04:07:00-05:00,alb,Kaggle,0.0|0.899|0.101|0.2023
+342,traders circulating yonhap article highlighting earlier dramexchange comments 'samsung expected to expand dram output capacity',2017-11-02 09:38:00-04:00,alb,Kaggle,0.0|0.859|0.141|0.3182
+344,"micron shares spiking higher, traders attributing moves to chatter of samsung talking about capex dram cuts at ces",2016-01-06 14:18:00-05:00,alb,Kaggle,0.108|0.784|0.108|0.0
+345,summit's sundararajan on micron: 'time and samsung wait for no-one',2015-08-17 12:02:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+346,"stifel says move lower in micron related to samsung, apple speculation is overdone",2015-02-24 10:41:00-05:00,alb,Kaggle,0.155|0.845|0.0|-0.296
+347,summit research: micron technology to gain from samsung production shift,2014-11-18 14:50:00-05:00,alb,Kaggle,0.0|0.726|0.274|0.5267
+348,"micron technology, inc. slips as samsung unveils chip factory plan",2014-10-06 10:46:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+349,"summit talks up micron, says samsung dram expansion is a moot point",2014-07-31 16:21:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+350,samsung increasing 25nm dram production -digitimes,2014-02-14 06:37:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+351,"ic insights reports samsung, taiwan semiconductor, micron are ic industry capacity leaders -digitimes",2014-01-09 05:58:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+352,"samsung, toshiba,micron gearing-up for 3d chips -digitimes",2013-08-27 06:02:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+353,"dramexchnage reports samsung retains top spot in q2 2013 nand flash sales, micron falls to number 4 -digitimes",2013-08-13 06:10:00-04:00,alb,Kaggle,0.0|0.829|0.171|0.2732
+354,micron spokesperson won't comment on rumor of samsung takeover offer,2012-02-08 11:07:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+357,update: j.p. morgan downgrades maxim integrated products to neutral following samsung business shortfall,2013-06-10 11:02:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+358,update: jp morgan upgrades maxim integrated products to overweight on samsung exposure  ,2013-01-11 09:11:00-05:00,alb,Kaggle,0.175|0.699|0.126|-0.1779
+359,maxim sees no material near-term impact from apple v. samsung verdict ,2012-08-27 05:58:00-04:00,alb,Kaggle,0.172|0.703|0.125|-0.1531
+361,"ni, samsung partner on 5g new radio interoperability device testing for 28 ghz",2018-02-20 10:00:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+362,did apple and samsung's new products just throw t-mobile under the bus?,2017-09-14 11:59:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+363,"netlist, samsung partner for new storage memory class",2015-11-19 07:03:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+364,"nokia, samsung extend patent license agreement",2018-10-25 03:44:00-04:00,alb,Kaggle,0.0|0.449|0.551|0.5994
+365,"update: goldman raising nokia 2018 patents revenues by 25% citing samsung negotiations, says nokia is entering 'its most intensive cost-cutting phase'",2016-07-20 17:18:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+366,nokia announces positive decision in patent license arbitration vs samsung,2016-02-01 05:21:00-05:00,alb,Kaggle,0.0|0.714|0.286|0.5574
+367,"bofa sees samsung ip settlement 'an important catalyst' for nokia shares, believes 'stock discounting negative ipr value is too harsh'",2015-09-10 11:33:00-04:00,alb,Kaggle,0.236|0.536|0.229|-0.296
+368,apple and nokia propose sanctions against samsung and its attorneys -foss patents,2013-12-03 06:20:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+369,"nokia retains lead as top windows phone maker, samsung vaults ahead of htc into #2 spot -wantchinatimes",2013-08-10 13:56:00-04:00,alb,Kaggle,0.0|0.899|0.101|0.2023
+371,samsung introduces massive camera phone ahead of june 20 event,2013-06-12 13:37:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+373,samsung to extend its mobile handset market share lead to 11% in 2013 -digitimes,2013-03-21 06:11:00-04:00,alb,Kaggle,0.0|0.755|0.245|0.4404
+375,will apple beat samsung to wireless charging?,2013-03-08 10:39:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+376,nokia falls to third place behind apple and samsung in terms of mobile internet usage -digitimes,2013-02-08 06:20:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+377,"interdigital files new itc complaint against nokia, samsung, zte, huawei",2013-01-02 11:24:00-05:00,alb,Kaggle,0.196|0.804|0.0|-0.296
+378,ihs says samsung to replace nokia as top cellphone brand in 2012,2012-12-18 11:45:00-05:00,alb,Kaggle,0.0|0.859|0.141|0.2023
+379,should apple be allowed to ban old samsung products?,2012-11-28 14:08:00-05:00,alb,Kaggle,0.31|0.69|0.0|-0.5574
+381,"htc, samsung likely to undercut nokia on windows phone 8 pricing -digitimes",2012-10-17 07:24:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+382,samsung's secret iphone 5 killer?,2012-10-03 10:41:00-04:00,alb,Kaggle,0.589|0.411|0.0|-0.6486
+383,google may stop samsung from making windows phones,2012-09-14 13:04:00-04:00,alb,Kaggle,0.239|0.761|0.0|-0.296
+384,social-savvy marketer part of samsung's success,2012-09-12 14:30:00-04:00,alb,Kaggle,0.0|0.575|0.425|0.5719
+385,apple's legal battle with samsung comes to south korea,2012-09-06 08:41:00-04:00,alb,Kaggle,0.234|0.631|0.135|-0.2732
+386,"nokia takes on apple, samsung with music service",2012-09-04 10:18:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+387,is samsung ready to leave android?,2012-08-30 15:14:00-04:00,alb,Kaggle,0.156|0.519|0.325|0.3182
+388,update: munster says nokia/microsoft could get near-term benefit on apple/samsung ruling if samsung products pulled off the market,2012-08-27 12:08:00-04:00,alb,Kaggle,0.0|0.85|0.15|0.4588
+390,is samsung leaving android for windows phone 8?,2012-07-30 13:57:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+391,"nokia's surprising milestone abolishes apple, samsung records",2012-07-23 12:02:00-04:00,alb,Kaggle,0.0|0.741|0.259|0.2732
+393,"smartphone sales slow despite samsung, according to goldman - ibd",2012-06-25 14:23:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+394,nokia falls sharply after samsung dispells acquisition rumors,2012-06-11 12:46:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+395,samsung electronics denies interest in nokia -reuters,2012-06-11 07:55:00-04:00,alb,Kaggle,0.259|0.463|0.278|0.0516
+396,update: samsung may buy nokia -sanoma news,2012-06-08 10:51:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+397,"samsung passes apple in smartphones, nokia overall - ibd",2012-04-27 14:20:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+398,"update: samsung supplies lumia 900 touch screen, nokia 900 bill of materials costs $209, micron supplies lumia 900 nand flash memory -bloomberg",2012-04-11 15:06:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+402,samsung's secret weapon against apple,2011-12-05 12:49:00-05:00,alb,Kaggle,0.355|0.645|0.0|-0.296
+406,"tattletale! apple complains about samsung, seeks help from the itc",2011-07-06 10:07:00-04:00,alb,Kaggle,0.191|0.589|0.22|0.1007
+407,"apple sues samsung over patents, again",2011-06-24 06:17:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+408,"samsung joins nok, rimm in rejecting aapl ceo claims",2010-07-20 10:34:00-04:00,alb,Kaggle,0.273|0.727|0.0|-0.4588
+409,samsung to introduce a new operating system for smartphones,2009-11-11 15:04:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+410,"network-1, samsung settle on patent litigation",2015-03-10 09:16:00-04:00,alb,Kaggle,0.265|0.735|0.0|-0.2023
+411,"nuance, samsung extends strategic partnership  to encompass imaging solutions",2015-09-29 08:00:00-04:00,alb,Kaggle,0.0|0.686|0.314|0.296
+412,nuance shares spike higher on rumor of deal with samsung,2014-09-30 12:32:00-04:00,alb,Kaggle,0.0|0.804|0.196|0.296
+413,nuance communications shares rise 3.5% premarket following monday's takeover rumor involving samsung. may be attributed to positive comments from oppenheimer,2014-06-17 07:40:00-04:00,alb,Kaggle,0.0|0.756|0.244|0.7003
+414,nuance declines comment on rumored talks with samsung,2014-06-16 14:10:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+415,nuance up 10% on rumor samsung may be interested,2014-06-16 13:36:00-04:00,alb,Kaggle,0.0|0.748|0.252|0.4019
+416,"dow jones reports nuance has held talks with samsung, pe firms, according to sources",2014-06-16 12:25:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+417,nvidia to adopt samsung 7nm euv process in next-gen gpu production,2019-06-05 04:28:00-04:00,alb,Kaggle,0.0|0.855|0.145|0.1779
+419,"samsung enters the cryptocurrency mining space, announces first-ever stock split",2018-01-31 10:28:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+420,"nvidia, samsung agree to settle all outstanding ip litigation, terms not disclosed",2016-05-02 09:01:00-04:00,alb,Kaggle,0.104|0.52|0.376|0.6908
+421,nvidia shares rebounding off lod following announcement co. lost first round of patent dispute with samsung and qualcomm,2015-10-09 13:27:00-04:00,alb,Kaggle,0.225|0.676|0.099|-0.4215
+422,"brean sees yellow flags at nvidia, cites expected fcf contraction following final intel royalty pmt in q1 2018, notes nvidia litigation efforts against samsung & qualcomm to secure additional ip revenue streams",2015-08-07 06:15:00-04:00,alb,Kaggle,0.054|0.873|0.072|0.1531
+423,"nvidia gets favorable ruling in patent  dispute with samsung, qualcomm",2015-04-06 11:13:00-04:00,alb,Kaggle,0.196|0.58|0.225|0.1027
+424,"update: in 10-q filing, nvidia reiterates patent infringement complaint filed by samsung; says has not yet responded to complaint",2014-11-19 06:40:00-05:00,alb,Kaggle,0.319|0.681|0.0|-0.7579
+425,amd gains on rumored acquisition by samsung,2012-08-08 15:34:00-04:00,alb,Kaggle,0.0|0.714|0.286|0.34
+426,nvidia and samsung expand galaxy smartphones with new galaxy r smartphone ,2011-08-10 09:05:00-04:00,alb,Kaggle,0.0|0.796|0.204|0.3182
+427,samsung's yahoo deal won't dilute apple's first television,2012-11-05 15:29:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+430,samsung earlier denied it had interest in purchasing nxp semi,2019-03-07 08:48:00-05:00,alb,Kaggle,0.209|0.576|0.216|0.0258
+431,"nxp semi shares fail to react as traders circulate 'freenews' article from invest chosun 'nxp, infineon, xilinx ... who is samsung electronics' m & a target?'",2019-01-24 09:45:00-05:00,alb,Kaggle,0.131|0.787|0.082|-0.3182
+432,"apple, samsung could be to blame for qualcomm's light guidance",2016-11-03 11:21:00-04:00,alb,Kaggle,0.211|0.789|0.0|-0.34
+434,hearing otr says nxp semiconductor share may increase in samsung s7,2016-02-08 10:02:00-05:00,alb,Kaggle,0.0|0.667|0.333|0.5423
+435,nxp semiconductors shares spike lower; may be attributed to report they lost samsung business,2014-10-21 12:31:00-04:00,alb,Kaggle,0.254|0.621|0.124|-0.3182
+437,nxp semiconductors spikes higher on visa-samsung nfc payment deal,2013-02-25 10:32:00-05:00,alb,Kaggle,0.316|0.684|0.0|-0.5719
+439,pre-market gainers; universal display up on samsung agreement ,2011-08-23 08:27:00-04:00,alb,Kaggle,0.0|0.686|0.314|0.4939
+440,"universal display shares up 14.1% premarket following earlier report apple to use only oled screens in 3 of its new iphone models; bz note: currently samsung, a universal display customer, is the exclusive supplier of oled panels for the iphone x",2018-05-29 09:05:00-04:00,alb,Kaggle,0.0|0.873|0.127|0.4767
+441,universal display shares up 8% following new supply agreement with samsung,2018-02-14 12:19:00-05:00,alb,Kaggle,0.0|0.625|0.375|0.6597
+442,universal display signs an oled material supply agreement with samsung,2018-02-14 06:34:00-05:00,alb,Kaggle,0.0|0.738|0.262|0.4939
+443,samsung display can't meet demand for amoled panels -digitimes,2016-08-04 04:16:00-04:00,alb,Kaggle,0.0|0.854|0.146|0.0951
+444,the korea times earlier reported 'samsung challenges lg for apple business' says 'apple may use oled technology in a few years...',2015-11-25 14:42:00-05:00,alb,Kaggle,0.0|0.936|0.064|0.0772
+445,digitimes reports samsung display to invest ~$5b in capex to develop amoled panels,2014-05-14 05:59:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+446,bgr reports samsung galaxy s5 to include super amoled display,2014-01-13 13:24:00-05:00,alb,Kaggle,0.0|0.698|0.302|0.5994
+447,"universal display spikes lower, bgr reports samsung galaxy 5 might lack amoled display",2014-01-06 15:25:00-05:00,alb,Kaggle,0.31|0.69|0.0|-0.5423
+448,"dj reporting samsung may purchase novaled, watch universal display shares",2013-07-29 12:21:00-04:00,alb,Kaggle,0.0|0.804|0.196|0.296
+449,"oracle's ellison says had idea to partner with existing google android phonemakers such as samsung  to save time, money -reuters
+",2012-04-17 13:45:00-04:00,alb,Kaggle,0.0|0.856|0.144|0.4939
+450,ocean rig says reached deal with samsung heavy industries related to construction of three drillships,2016-08-11 16:09:00-04:00,alb,Kaggle,0.094|0.818|0.088|-0.0258
+452,unconfirmed chatter that omnivision technologies inc. (ovti) could be takeover target by samsung at 31.00,2010-09-16 09:38:00-04:00,alb,Kaggle,0.097|0.903|0.0|-0.128
+453,pandora shares unchanged this morning following after-hours post on friday from variety saying samsung may shutdown pandora competitor 'milk music',2016-03-07 07:47:00-05:00,alb,Kaggle,0.0|0.896|0.104|0.296
+454,samsung's new milk music service enters crowded field,2014-03-11 11:22:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+456,"samsung enters mobile content space, is pandora now on the menu?",2012-09-27 15:59:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+457,"pacific drilling reports filed application with london high court for leave to appeal award issued in case between pdvii, pdsi, samsung heavy industries",2020-02-11 17:00:00-05:00,alb,Kaggle,0.047|0.817|0.136|0.5106
+458,"update: pacific drilling says samsung heavy industries was awarded ~$320m related to claims against pacific drilling's pacific drilling viii, pacific drilling services",2020-01-15 14:08:00-05:00,alb,Kaggle,0.0|0.886|0.114|0.4019
+459,"pacific drilling reports award issued in previously-disclosed arbitration proceedings between co. subsidiaries and samsung heavy industries related to contract for construction, sale of 'pacific zonda'",2020-01-15 14:07:00-05:00,alb,Kaggle,0.0|0.873|0.127|0.5423
+460,universal display analyst: we view next year as critical to see if the company can achieve the same degree of success as other oem manufacturers beginning their own organic led production.  the company will need samsung to sustain revenue growth.,2012-02-29 15:18:00-05:00,alb,Kaggle,0.05|0.811|0.138|0.6124
+461,hearing samsung product delay; can affect universal display corporation negatively,2011-10-11 12:53:00-04:00,alb,Kaggle,0.204|0.796|0.0|-0.3182
+462,samsung reveals new galaxy tab -thisismynext,2011-09-01 12:17:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+464,samsung mobile display and universal display announce entry into oled patent license and supplemental material purchase agreements   ,2011-08-23 06:37:00-04:00,alb,Kaggle,0.0|0.884|0.116|0.2732
+465,"gabelli comments on universal display, samsung mobile display",2011-05-13 09:02:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+466,"verifone, samsung announce global partnership to deliver advanced, android-based mobile point of sale solutions to multi-lane, enterprise retailers",2015-01-10 20:37:00-05:00,alb,Kaggle,0.0|0.812|0.188|0.4019
+467,"pitney bowes reports collaboration with samsung to simplify business shopping with sendpro tablet, no terms disclosed",2019-11-13 10:00:00-05:00,alb,Kaggle,0.128|0.872|0.0|-0.296
+468,"jury finds pendrell patents valid, but samsung, google did not infringe on patents -8-k",2015-09-24 06:12:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+474,"polypore reports long-term lithium separator supply deal with samsung, co.'s celgard announces patent infringement suit against lg chem",2014-01-30 16:16:00-05:00,alb,Kaggle,0.154|0.846|0.0|-0.4767
+475,parkervision shares +108% @$7.41 following announcement of patent license and settlement agreement with samsung,2016-07-18 09:36:00-04:00,alb,Kaggle,0.0|0.69|0.31|0.6597
+476,"parkervision enters into patent license and settlement agreement with samsung, terms not disclosed",2016-07-18 08:01:00-04:00,alb,Kaggle,0.0|0.789|0.211|0.4939
+477,"parkervision institues investigation of unfair trade practices by apple, lg, samsung, and qualcomm",2016-01-19 08:09:00-05:00,alb,Kaggle,0.205|0.795|0.0|-0.4767
+478,"update: parkervision complaint identifies apple, lg, samsung, qualcomm as proposed respondents",2015-12-15 16:05:00-05:00,alb,Kaggle,0.18|0.82|0.0|-0.296
+479,parkervision amends patent infringement suit to include samsung,2014-08-21 21:31:00-04:00,alb,Kaggle,0.307|0.693|0.0|-0.4767
+480,parkervision names samsung as additional defendant in patent infringement suit,2014-08-21 20:49:00-04:00,alb,Kaggle,0.256|0.744|0.0|-0.4767
+481,quanta services selected for construction of a 20 mw utility- scale solar facility by samsung c&t america  ,2011-10-26 06:57:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+482,samsung securities raises pt on perfect world to $31,2011-05-25 06:46:00-04:00,alb,Kaggle,0.0|0.543|0.457|0.7096
+483,"samsung presents s20 flagship lineup, joins 5g race",2020-02-12 05:44:00-05:00,alb,Kaggle,0.0|0.833|0.167|0.1027
+484,"update: canaccord genuity on qualcomm also notes 'further, we believe the recent apple settlement and samsung and lge renegotiations protect a strong portion of qualcomm's long-term licensing business model during this period of uncertainty'",2019-11-07 11:33:00-05:00,alb,Kaggle,0.063|0.783|0.154|0.5423
+485,"'""we expect apple will likely adopt 5g baseband chips made by qualcomm (focus on mmwave markets) and samsung (focus on sub-6ghz markets) for lowering supply risk, reducing costs and having better bargaining power.""' -tweet from cnbc technology reporter",2019-04-22 09:48:00-04:00,alb,Kaggle,0.096|0.796|0.108|0.128
+486,qualcomm shares are trading higher following speculation apple will enter the 5g market using qualcomm and samsung chips.,2019-04-22 09:42:00-04:00,alb,Kaggle,0.0|0.885|0.115|0.296
+488,"samsung reveals foldable smartphone, new s-series lineup: 'a potential problem for apple'",2019-02-21 11:35:00-05:00,alb,Kaggle,0.197|0.803|0.0|-0.4019
+489,"apple exec at testimony related to qualcomm trial, says apple considered modem chips from samsung, mediatek, intel for 2019 iphones",2019-01-11 14:27:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+490,"qualcomm using lower cost licensing model which could help in talks with apple, samsung",2018-05-01 04:46:00-04:00,alb,Kaggle,0.13|0.71|0.16|0.128
+491,qualcomm on conf. call says it expects declining licensing revenue in q3 due in part to amended samsung agreement,2018-04-25 17:11:00-04:00,alb,Kaggle,0.0|0.849|0.151|0.4939
+492,samsung electronics and qualcomm expand foundry cooperation on euv process technology,2018-02-22 04:01:00-05:00,alb,Kaggle,0.0|0.813|0.187|0.3182
+493,"qualcomm, samsung report expanded strategic partnership",2018-01-31 16:01:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+494,update: samsung will be withdrawing its interventions in qualcomm's appeal of the kftc decision in the seoul high court.,2018-01-31 16:00:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+495,"qualcomm, samsung report amendment to long-term cross-license deal",2018-01-31 16:00:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+496,samsung to sell exynos processors to other smartphone manufacturers -digitimes,2018-01-24 05:03:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+497,nikkei publishes 'tsmc 'will snatch qualcomm orders from samsung in 2018'',2017-12-21 16:05:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+498,samsung chip foundry head says plans to triple market share -reuters,2017-07-24 06:29:00-04:00,alb,Kaggle,0.0|0.82|0.18|0.296
+499,8 things we like about the new samsung galaxy s8,2017-03-31 14:21:00-04:00,alb,Kaggle,0.0|0.762|0.238|0.3612
+500,qualcomm shares quiet as co. issues press release highlighting snapdragon 835 platform will power the gigabit lte on samsung's new galaxy s8,2017-03-29 11:21:00-04:00,alb,Kaggle,0.0|0.905|0.095|0.296
+501,"qualcomm, samsung partner on 10nm process technology for the latest snapdragon 835 mobile processor",2016-11-17 07:32:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+505,"report: qualcomm says samsung, not tsm, will be the sole manufacturer of its flagship mobile chip",2016-01-14 10:42:00-05:00,alb,Kaggle,0.0|0.915|0.085|0.1027
+506,qualcomm says samsung to be sole manufacturer for snapdragon 820 chips -reuters,2016-01-14 05:11:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+507,does samsung's latest warning spell trouble for apple?,2016-01-05 11:02:00-05:00,alb,Kaggle,0.459|0.541|0.0|-0.6249
+509,"summit research's srini sundararajan names potential suitors for global-foundries: samsung, tsmc, qualcomm, tsinghua unigroup, or chinese gov't",2015-11-30 07:38:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+511,samsung to use qualcomm chips for some galaxy s smartphones - south korea's electronic times,2015-10-02 04:28:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+513,qualcomm in talks to move some chip production from taiwan semiconductor to samsung electronics -nikkei,2015-04-22 13:41:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+515,qualcomm seeking chip orders from samsung for galaxy note 5 -digitimes,2015-03-24 05:08:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+516,"samsung dropping qualcomm's chip, shares fall",2015-01-21 09:37:00-05:00,alb,Kaggle,0.0|0.694|0.306|0.296
+517,qualcomm shares fall 6% premarket on report samsung drops qualcomm chip from new galaxy s phone,2015-01-21 06:29:00-05:00,alb,Kaggle,0.0|0.864|0.136|0.296
+518,"samsung drops qualcomm chip from next galaxy smartphone, according to sources -bloomberg",2015-01-21 06:16:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+521,"digitimes reports qualcomm places finfet chip orders with samsung, instead of taiwan semiconductor",2014-07-09 05:49:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+522,"digitimes reports samsung, globalfoundries team receives 14nm orders from qualcomm, apple",2014-07-01 06:14:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+523,"qualcomm looks toward samsung-globalfoundries alliance to reduce reliance on taiwan semiconductor for chips, according to sources -digitimes",2013-11-18 06:23:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+524,"samsung unveils galaxy gear, galaxy note 3 ahead of apple's iphone event (ssnlf)",2013-09-04 17:07:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+525,"will samsung inspire apple to build a dual-screen iphone? (aapl, ssnlf)",2013-08-06 10:59:00-04:00,alb,Kaggle,0.0|0.709|0.291|0.5719
+526,selloff in qualcomm may be attributed to report of samsung launch of low-end integrated smartphone app processor ,2013-07-18 12:18:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+529,editor of little bear blog short qualcomm on report of losing samsung as customer,2013-05-30 11:32:00-04:00,alb,Kaggle,0.167|0.833|0.0|-0.3818
+532,hearing chatter of samsung - qualcomm bid for amd,2012-08-08 14:32:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+534,update: williams financial group reiterates hold on qualcomm on samsung 28nm deal  ,2012-07-05 09:42:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+537,samsung cuts dependence on qualcomm -korea times; positive for silicon motion tech,2012-03-19 15:06:00-04:00,alb,Kaggle,0.139|0.633|0.228|0.34
+539,qihoo 360 spokesperson says monday's report that content had been removed from samsung app store is 'completely false',2013-10-01 06:22:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+540,hearing samsung has removed all qihoo content from app stores,2013-09-30 12:15:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+542,"pacific crest cuts qorvo on apple, samsung and china doldrums",2016-01-08 13:30:00-05:00,alb,Kaggle,0.196|0.804|0.0|-0.296
+544,"resonant shares spike to session high, up 12%, on heavy volume, as traders circulate word co. won samsung galaxy smartphone deal; 'teardown reveals resn filter in third samsung device'",2019-11-01 09:42:00-04:00,alb,Kaggle,0.0|0.821|0.179|0.7096
+545,resonant shares up 5% after needham comment suggesting teardown of samsung's galaxy j2 pro showed duplexer likely designed by co.,2018-04-12 11:21:00-04:00,alb,Kaggle,0.0|0.896|0.104|0.296
+546,"needham analyst highlights teardown of samsung's galaxy j2 pro, says duplexer likely designed by resonant; reiterates buy rating, $6 price target",2018-04-12 09:40:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+547,"panasonic, samsung, sony, and xpand 3d join forces in 'full hd 3d glasses initiative'",2011-08-10 09:01:00-04:00,alb,Kaggle,0.0|0.855|0.145|0.296
+548,red hat and samsung form strategic alliance to deliver the next generation of mobile solutions for the enterprise,2015-06-23 16:00:00-04:00,alb,Kaggle,0.0|0.909|0.091|0.1779
+549,transocean reports has relinquished interests in samsung drillships under construction,2019-09-23 16:18:00-04:00,alb,Kaggle,0.0|0.818|0.182|0.25
+554,rit technologies trading over 170% higher after partnership with samsung,2011-06-14 10:10:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+555,samsung fiber optics chooses rit technologies as oem partner ,2011-06-14 07:04:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+558,"rambus, samsung sign 10-year license agrement",2014-01-06 05:47:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+559,rambus rumored to have received positive ruling on damages from samsung (rmbs),2011-04-11 10:07:00-04:00,alb,Kaggle,0.176|0.606|0.218|0.1779
+560,samsung electronics agrees to pay $900 million to rambus in claims settlement (rmbs),2010-01-20 09:38:00-05:00,alb,Kaggle,0.099|0.775|0.127|0.1027
+561,rambus gets $700 million settlement from samsung,2010-01-19 18:55:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+562,"rovi announces renewed, expanded patent license deal with samsung",2014-07-09 08:33:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+563,update: rovi signs agreement with samsung for use of rovi video discovery patents and technologies,2014-01-08 08:43:00-05:00,alb,Kaggle,0.0|0.814|0.186|0.4939
+564,rovi signs new patent license agreement with samsung for mobile and tablet devices,2014-01-08 08:32:00-05:00,alb,Kaggle,0.0|0.789|0.211|0.4939
+565,rovi and samsung expand relationship with new multi-year divx licensing agreement  ,2011-09-06 06:42:00-04:00,alb,Kaggle,0.0|0.621|0.379|0.6705
+570,silicon image receiver designed into samsung uhd tvs,2014-01-06 17:03:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+571,silicon image's dual-mode port processors now offer mhl connectivity for samsung smart tvs   ,2011-10-25 16:29:00-04:00,alb,Kaggle,0.0|0.816|0.184|0.4019
+572,"samsung, lg and huawei mulling plans to ramp up in-house production of lte solutions -digitimes",2012-05-25 10:36:00-04:00,alb,Kaggle,0.0|0.892|0.108|0.1779
+574,"six flags, samsung announce renewed collaboration on virtual reality roller coasters",2017-02-08 07:10:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+576,"sandisk shares trading up $1.68, may be attributed to positive chatter involving samsung",2013-02-15 10:11:00-05:00,alb,Kaggle,0.0|0.655|0.345|0.7003
+577,hearing unconfirmed market chatter of samsung bid for sandisk,2012-12-14 09:43:00-05:00,alb,Kaggle,0.158|0.842|0.0|-0.128
+580,synopsys ic validator certified by samsung foundry for 7nm signoff physical verification,2018-06-14 04:04:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+581,synopsys selected by samsung sarc as verification solotion,2017-09-05 09:05:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+582,"synopsys, stmicroelectronics and samsung to collaborate on accelerated adoption of 28-nm fd-soi technolgoies",2014-06-04 09:02:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+583,shanghai daily reporting sohu to provide video app for all samsung phones in china,2013-04-17 15:25:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+585,"cyber monday's hottest tech deals: ipod touch, playstation 4 bundle, samsung tv and more",2013-11-30 09:17:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+586,staples announces availability of samsung galaxy s4,2013-05-08 08:07:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+590,"stmicro's head of micro-electro mechanical systems at mwc: jv exit doesn't impact wireless, says samsung, apple not worried about exit either",2013-02-26 12:02:00-05:00,alb,Kaggle,0.0|0.914|0.086|0.2235
+591,"dow jones reports scorpio in talks with samsung heavy industries for five triple-e container ships, according to sources",2014-07-11 05:41:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+595,"watching shares of seagate tech, traders passing comments that samsung approached co for takeover of data storage manufacturer",2016-05-19 10:14:00-04:00,alb,Kaggle,0.0|0.885|0.115|0.296
+596,seagate announces decision from mofcom allowing integration of samsung hdd business to proceed without restrictions,2015-10-22 14:32:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+597,baird analyst sees samsung-seagate takeover as 'unlikely',2015-01-22 13:41:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+599,morningstar analyst says samsung-seagate buyout rumor 'seems a bit odd',2015-01-22 12:44:00-05:00,alb,Kaggle,0.223|0.777|0.0|-0.3182
+600,hearing unconfirmed market chatter of $72 tender offer for seagate technology by samsung,2015-01-22 10:13:00-05:00,alb,Kaggle,0.111|0.889|0.0|-0.128
+601,update: seagate technology completes private share redemption transaction of 32.7 million shares held by samsung,2013-10-08 09:03:00-04:00,alb,Kaggle,0.0|0.747|0.253|0.5267
+602,samsung devours apple's profits,2012-11-12 11:16:00-05:00,alb,Kaggle,0.0|0.508|0.492|0.4404
+603,seagate technology says samsung asset deal approved by ec,2011-10-20 16:11:00-04:00,alb,Kaggle,0.0|0.569|0.431|0.6486
+604,unconfirmed rumor that samsung has topped tpg/silver lake with a $19.50 share offer for seagate technology plc (stx) !! ,2010-10-26 10:31:00-04:00,alb,Kaggle,0.074|0.789|0.137|0.3147
+605,unconfirmed rumor that samsung has offered seagate technology plc (stx) $17.00 a share,2010-10-12 10:00:00-04:00,alb,Kaggle,0.109|0.73|0.161|0.1779
+606,sunedison  announces private placement of shares to samsung in connection with sunedison semiconductor ipo,2014-03-20 07:03:00-04:00,alb,Kaggle,0.0|0.855|0.145|0.296
+608,jpmorgan out negative on synaptics says they are at risk of losing fingerprint rev. associated with galaxy s9 due to recent success of taiwan's egis in winning share of fp business on mid-range samsung devices,2017-10-26 10:11:00-04:00,alb,Kaggle,0.18|0.621|0.199|0.2263
+609,"update: clsa analyst suggests without the samsung galaxy gs9, synaptics' earnings could collapse",2017-08-02 09:41:00-04:00,alb,Kaggle,0.211|0.789|0.0|-0.4939
+610,update: clsa analyst suggests egistec won the samsung galaxy gs9 contract over synaptics,2017-08-02 09:40:00-04:00,alb,Kaggle,0.0|0.764|0.236|0.5719
+611,"synaptics shares fall to session lows, now down 4%, as traders circulating comment from clsa co. lost samsung as a customer",2017-08-02 09:39:00-04:00,alb,Kaggle,0.176|0.73|0.094|-0.2263
+612,syanptics shares largely unaffected as traders circulate comments from otr global suggesting samsung will not adopt co.'s under-glass fingerprint sensor for the s8,2016-12-23 09:46:00-05:00,alb,Kaggle,0.061|0.85|0.089|0.1734
+613,"hearing otr note highlighting samsung will not adopt synaptics finger-print sensor for s8, citing yield issues",2016-12-23 09:37:00-05:00,alb,Kaggle,0.092|0.908|0.0|-0.1326
+614,"update: cowen says synaptics precise biometric license does not signal a loss to samsung, reiterating $75 pt",2016-11-08 11:10:00-05:00,alb,Kaggle,0.0|0.884|0.116|0.2411
+615,synaptics near low of $51.04; hearing otr global says co has lost fingerprint sensor design win to egis technology at samsung,2016-07-20 09:36:00-04:00,alb,Kaggle,0.168|0.687|0.145|0.1027
+616,hearing otr saying synaptics has regained samsung galaxy contract,2013-08-06 09:36:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+617,synaptics shares under pressure as analyst warns checks indicate samsung reducing shipments of s4,2013-06-12 11:02:00-04:00,alb,Kaggle,0.214|0.655|0.131|-0.1027
+619,update: jp morgan raises pt on synaptics on indication of samsung smartphone win,2013-03-18 09:44:00-04:00,alb,Kaggle,0.0|0.663|0.337|0.6808
+621,powerbyproxi announces $4m in strategic funding from samsung ventures,2013-09-30 08:06:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+622,tessco launches a samsung accessory program for mobile workforce applications,2015-01-20 08:02:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+624,"teekay lng-samsung-gic report signing of lng import terminal project in bahrain, expected to cost ~$655m",2015-12-02 09:26:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+625,tivo renews patent license agreement with samsung for smartphones and tablets,2018-12-04 08:08:00-05:00,alb,Kaggle,0.0|0.758|0.242|0.4939
+626,"tivo reports renewal of patent license deal with samsung for smartphones, tablets",2018-12-04 08:04:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+627,tivo files patent infringement suit against samsung,2015-09-08 16:08:00-04:00,alb,Kaggle,0.341|0.659|0.0|-0.4767
+629,t-mobile announces samsung galaxy s8 will be available wednesday for preorder at $30/month,2017-03-29 11:50:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+630,"tangoe, samsung sign strategic partnership agreement ",2014-02-25 05:41:00-05:00,alb,Kaggle,0.0|0.61|0.39|0.4939
+631,'huawei floats buying chips from samsung to fight us crackdown' -nikkei,2020-04-21 12:29:00-04:00,alb,Kaggle,0.206|0.794|0.0|-0.3818
+632,taiwan semiconductor shares are trading lower amid weakness in the semiconductor space on coronavirus fears and reports of us trade restrictions on china as well as reports indicating rival samsung has won a contract to make new qualcomm 5g chips.,2020-02-18 09:25:00-05:00,alb,Kaggle,0.16|0.676|0.164|0.0516
+633,samsung said to cut prices to compete against taiwan semiconductor,2019-12-20 05:36:00-05:00,alb,Kaggle,0.189|0.811|0.0|-0.2732
+636,taiwan semiconductor to have lead over samsung in 7nm volume production in 2018 -digitimes,2018-01-04 04:19:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+639,"taiwan semiconductor to replace samsung as sole supplier of chips for apple watch 2, plus enhanced version of first apple watch beginning in h2 of 2016 -digitimes",2016-08-10 04:20:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+642,"with tsmc, samsung rumored to begin a9 chips, how is apple affected?",2015-07-17 10:00:00-04:00,alb,Kaggle,0.127|0.873|0.0|-0.1531
+643,"taiwan semiconductor, samsung begin apple a9 chip mass production, according to sources -digitimes",2015-07-16 06:17:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+644,taiwan semiconductor confident it will beat samsung electronics in ramping up production on 10nm lines -digitimes,2015-05-28 04:36:00-04:00,alb,Kaggle,0.0|0.824|0.176|0.4939
+647,"apple, samsung 'best frenemies forever' following new chip deal, says this analyst",2014-11-18 09:03:00-05:00,alb,Kaggle,0.0|0.724|0.276|0.6369
+650,"dss files patent infringement claim against samsung, tsmc and nec ",2014-03-10 19:18:00-04:00,alb,Kaggle,0.256|0.744|0.0|-0.4767
+652,"apple supply chain sources say samsung, taiwan semiconductor to share 14/16nm chip orders -digitimes",2013-12-18 06:23:00-05:00,alb,Kaggle,0.0|0.855|0.145|0.296
+654,"iphone 7 processor to be built by samsung, globalfoundries",2013-11-14 13:50:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+655,"globalfoundries, samsung reportedly working together to get apple chip orders -digitimes",2013-11-13 06:39:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+656,samsung seeking new foundry clients -digitimes,2013-07-12 06:18:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+657,"should apple dump samsung and produce everything in-house? (aapl, ssnlf)",2013-07-01 13:48:00-04:00,alb,Kaggle,0.224|0.776|0.0|-0.3818
+658, samsung accounted for 50% of global production of advanced 32/28nm chips in q1 2013 -digitimes,2013-05-21 06:23:00-04:00,alb,Kaggle,0.0|0.875|0.125|0.25
+659,apple deals another blow to samsung,2013-01-02 11:03:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+660,tessera and samsung enter into new patent license agreements,2014-01-28 16:07:00-05:00,alb,Kaggle,0.0|0.792|0.208|0.2732
+661,samsung renews tessera license   ,2011-11-16 06:51:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+662,tsys company propay supports samsung pay,2016-04-05 09:04:00-04:00,alb,Kaggle,0.177|0.506|0.316|0.2732
+665,"shares of fitbit volatile after hearing chatter that fitbit may explore sale for ~$11b, $52-54/share range; rumored interested companies include microsoft, under armour, and samsung",2015-10-30 10:41:00-04:00,alb,Kaggle,0.0|0.824|0.176|0.5994
+666,rumor: under armour to strike samsung partnership for wearable devices,2014-07-16 13:27:00-04:00,alb,Kaggle,0.143|0.857|0.0|-0.128
+667,uni pixel spokesperson declines comment on rumor involving samsung,2013-09-26 12:07:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+668,hearing chatter samsung selected uni pixel mesh for flexible phone screen,2013-09-26 10:52:00-04:00,alb,Kaggle,0.0|0.84|0.16|0.2263
+669,"unipixel appoints former samsung sr. vp, seong peter shin, as chief operating officer  ",2011-09-08 08:32:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+670,"unwired planet reports winning of german cellular essential patent infringement case against samsung, lg, huawei",2016-01-21 06:40:00-05:00,alb,Kaggle,0.159|0.667|0.174|0.0772
+671,u.s. cellular customers getting the samsung galaxy s iii in july,2012-06-04 09:08:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+672,samsung galaxy tab 10.1 available on us cellular for $499.99,2012-03-22 10:19:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+673,samsung strikes deals for galaxy tablet sales in u.s. (005930.ks),2010-09-17 10:39:00-04:00,alb,Kaggle,0.217|0.783|0.0|-0.3612
+674,vimicro and samsung form strategic partnership to develop products for the china security surveillance market ,2012-04-27 08:02:00-04:00,alb,Kaggle,0.0|0.854|0.146|0.34
+677,vmware announces new strategic partnership with samsung to virtualize mobile devices  ,2011-08-31 08:02:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+678,hearing vodafone germany has stopped pre-selling samsung galaxy note 7s,2016-10-10 10:39:00-04:00,alb,Kaggle,0.174|0.826|0.0|-0.2263
+679,report: samsung android phone breaking uk records - ibd,2012-05-23 12:54:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+680,vodafone first carrier to offer new samsung galaxy phone,2012-04-23 12:55:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+682,verizon and samsung to release 5g smartphone in the u.s. in first half of 2019,2018-12-03 08:04:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+684,verizon's oath signs distribution deal with samsung,2018-05-02 04:46:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+685,verizon chooses samsung for 5g commercial launch,2018-01-03 10:18:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+686,samsung & cisco team with verizon to deliver first interconnected multi-vendor 5g trials,2017-05-10 09:02:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+687,"verizon announces limited-time offer for samsung's galaxy s8, s8+: new device for $15/month after trading in an eligible device",2017-03-29 11:49:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+688,"samsung, verizon announce first 5g customer trials set to begin in q2 2017",2017-02-22 09:00:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+689,"samsung's note 7 is a 'fundamentally defective product,' major carriers are now offering an exchange",2016-10-10 08:20:00-04:00,alb,Kaggle,0.195|0.805|0.0|-0.4404
+690,verizon and samsung launch 4g lte network extender for businesses and homes,2016-06-29 15:03:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+691,"samsung devices catch a break while apple's iphone and ipad ban approaches (aapl, ssnlf)",2013-08-02 10:23:00-04:00,alb,Kaggle,0.231|0.769|0.0|-0.5574
+693,traders passing around reports from several sources discussing delay for us launch of samsung's galaxy s4 amid 'overwhelming demand',2013-04-24 14:55:00-04:00,alb,Kaggle,0.183|0.817|0.0|-0.4215
+694,"verizon to take samsung galaxy s4 pre-orders tomorrow, will arrive in stores may 30th",2013-04-24 09:38:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+696,verizon says samsung could create ecosystem of their own -cnbc,2012-10-18 11:47:00-04:00,alb,Kaggle,0.0|0.811|0.189|0.2732
+698,did apple just help samsung sell a ton of smartphones?,2012-08-27 09:18:00-04:00,alb,Kaggle,0.0|0.748|0.252|0.4019
+699,verizon wireless adds samsung galaxy tab 2r 7.0,2012-08-15 09:17:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+701,"update: zabitsky says microsoft, samsung pressing iphone margins; carriers want more open ecosystem, want to get iphone prices down; microsoft getting unusual support from carriers",2012-04-20 10:20:00-04:00,alb,Kaggle,0.0|0.806|0.194|0.5106
+702,"energous shares spike off session lows, $18 level, now up 0.4% for session; traders circulating chatter co. in talks with google, samsung related to android market and multiple chinese oems",2018-01-17 11:31:00-05:00,alb,Kaggle,0.056|0.875|0.069|0.1027
+703,samsung announces 840 evo ssd with enhanced security solution for enterprise applications ,2014-01-06 10:03:00-05:00,alb,Kaggle,0.0|0.68|0.32|0.5719
+704,wave systems jumps over 20% on deal with samsung,2012-05-29 08:48:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+705,wave systems signs 15-year license agreement with samsung -filing,2012-05-29 08:43:00-04:00,alb,Kaggle,0.0|0.714|0.286|0.4939
+706,samsung partners with wave ,2011-11-14 08:29:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+710,"toshiba ceo says not considering talks with western digital regarding sale of chips business; says wants to cooperate, invest jointly with western digital to compete against samsung -reuters",2017-06-23 04:38:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+712,"western digital +4.8% premarket @$67  following guidance, announcement of samsung cross-license agreement",2016-12-07 06:59:00-05:00,alb,Kaggle,0.0|0.775|0.225|0.4939
+713,"western digital corporation renews patent cross-license agreement with samsung, terms not disclosed",2016-12-06 16:35:00-05:00,alb,Kaggle,0.0|0.775|0.225|0.4939
+714,western digital and samsung suspend disk drive shipments -semiaccurate,2011-11-04 08:22:00-04:00,alb,Kaggle,0.223|0.777|0.0|-0.3182
+715,western digital and samsung suspend disk drive shipments to taiwan -semiaccurate,2011-11-03 17:54:00-04:00,alb,Kaggle,0.187|0.813|0.0|-0.3182
+718,"soapbox research releases negative report on whirlpool, alleges co. 'has overstated earnings and is poised to lose out to new capacity from samsung and lg'",2019-09-10 09:43:00-04:00,alb,Kaggle,0.211|0.724|0.066|-0.6597
+719,whirlpool shares move higher after u.s. commission calls for tariff-rate quota on samsung and lg washer imports,2017-11-21 13:48:00-05:00,alb,Kaggle,0.0|0.879|0.121|0.296
+720,"whirlpool shares strength due to  ftc finding injury to u.s. washing machine producers from imported samsung, lg washers",2017-10-05 11:07:00-04:00,alb,Kaggle,0.121|0.647|0.233|0.3818
+721,"whirlpool safeguard petition to stop samsung, lg from repeatedly evading u.s. trade laws",2017-05-31 06:01:00-04:00,alb,Kaggle,0.139|0.696|0.165|0.1027
+722,"whirlpool reports 'for the second time, samsung and lg found guilty of unlawful trade practices that hurt u.s. appliance industry workers'",2017-01-10 11:51:00-05:00,alb,Kaggle,0.246|0.754|0.0|-0.7351
+723,"whirlpool says u.s. govt. confirms samsung, lg dumped washers into u.s.; declined to apply samsung's dumping rate retroactively",2016-12-09 14:23:00-05:00,alb,Kaggle,0.238|0.762|0.0|-0.6124
+724,"whirlpool won key decision in antidumping case against lg, samsung",2014-01-13 16:48:00-05:00,alb,Kaggle,0.0|0.709|0.291|0.5719
+725,"duties said to be raised on washers by daewoo and lg; duties on samsung washing machines unchanged, commerce department says companies dumped washers in us market -bloomberg",2012-12-19 13:54:00-05:00,alb,Kaggle,0.094|0.906|0.0|-0.4019
+726,whirlpool corporation comments on u.s. department of commerce's final dumping determinations against lg and samsung ,2012-03-19 13:11:00-04:00,alb,Kaggle,0.135|0.76|0.105|-0.128
+727,"wilan wins big, announces licensing deal with samsung",2015-06-02 10:51:00-04:00,alb,Kaggle,0.0|0.654|0.346|0.5719
+728,update: samsung licenses wilan semiconductor technology,2015-06-02 09:25:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+729,samsung licenses wilan semiconductor technology,2015-06-02 09:24:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+730,update: clarus securities raises pt on wi-lan on samsung licensing agreement renewal,2013-06-21 13:39:00-04:00,alb,Kaggle,0.0|0.649|0.351|0.6597
+731,cibc positive note on wilan on license renewal with samsung,2013-06-21 10:13:00-04:00,alb,Kaggle,0.0|0.714|0.286|0.5574
+732,wilan and samsung agree to a long-term license,2013-06-20 16:12:00-04:00,alb,Kaggle,0.0|0.706|0.294|0.3612
+736,widepoint announces identity management product agreement with samsung,2015-06-29 07:46:00-04:00,alb,Kaggle,0.0|0.686|0.314|0.4939
+739,yandex search and yandex apps available on samsung smartphones  ,2011-10-25 06:51:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+740,yandex partners with samsung  ,2011-10-17 06:43:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+741,youku tudou announces collaboration with mirriad to offer high-tech 'native in-video' ads; samsung first brand to sign up,2015-11-03 04:35:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+743,zagg announces ultra visionguard and ultra clear for the samsung galaxy note10 and note10+,2019-08-08 09:12:00-04:00,alb,Kaggle,0.0|0.833|0.167|0.3818
+744,zagg introduces invisibleshield hdx for samsung galaxy s6,2015-04-07 09:01:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+746,zagg spokesperson would not comment on prior rumors of apple/samsung partnership talks,2012-01-17 13:48:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+747,hearing zagg may have or be close to deals with apple and samsung,2012-01-17 11:53:00-05:00,alb,Kaggle,0.0|1.0|0.0|0.0
+748,vevo signs deal with apple and samsung – content coming as early as next week,2013-08-21 07:46:00-04:00,alb,Kaggle,0.0|1.0|0.0|0.0
+749,samsung unveils speech to text mobile,2005-01-06 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+750,samsung admits to price fixing,2005-10-14 00:00:00,alb,Kaggle,0.0|0.645|0.355|0.296
+751,south korea mps approve samsung corruption probe,2007-11-23 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+752,s korean investigators raid samsung office reports,2008-01-15 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+753,samsung head charged with fraud avoids arrest,2008-04-17 00:00:00,alb,Kaggle,0.764|0.236|0.0|-0.8271
+754,samsung chief to step down over tax charges,2008-04-22 00:00:00,alb,Kaggle,0.231|0.769|0.0|-0.2732
+755,reform not a given after samsung chairman resigns,2008-04-24 00:00:00,alb,Kaggle,0.277|0.723|0.0|-0.3182
+756,ex samsung chief handed 3 year suspended jail term,2008-07-16 00:00:00,alb,Kaggle,0.307|0.693|0.0|-0.4767
+757,former samsung chairman escapes jail,2008-07-17 00:00:00,alb,Kaggle,0.0|0.727|0.273|0.128
+758,samsung announces first ever quarterly loss,2009-01-23 00:00:00,alb,Kaggle,0.315|0.685|0.0|-0.3182
+759,s korea pardons samsung boss to kickstart olympic,2009-12-30 00:00:00,alb,Kaggle,0.0|0.732|0.268|0.296
+760,samsung apple clash over tablet computer,2011-08-03 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+761,apple wins patent case against samsung,2011-09-09 00:00:00,alb,Kaggle,0.0|0.575|0.425|0.5719
+762,samsung tablets ruling,2011-10-13 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+763,samsung free to launch another tablet,2011-10-14 00:00:00,alb,Kaggle,0.0|0.602|0.398|0.5106
+764,samsung seeks iphone ban in australia,2011-10-17 00:00:00,alb,Kaggle,0.419|0.581|0.0|-0.5574
+765,samsung modified tablet,2011-11-17 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+766,samsung wins apple appeal,2011-11-30 00:00:00,alb,Kaggle,0.0|0.448|0.552|0.5719
+767,samsung galaxy sales delayed again,2011-12-02 00:00:00,alb,Kaggle,0.322|0.678|0.0|-0.2263
+768,apple loses bid to stop samsung tablet,2011-12-09 00:00:00,alb,Kaggle,0.474|0.526|0.0|-0.5423
+769,samsung profits surge on galaxy phone,2012-07-27 00:00:00,alb,Kaggle,0.0|0.633|0.367|0.4404
+770,seoul court rules on apple samsung copyright case,2012-08-24 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+771,technology editor nick ross on the apple samsung,2012-08-24 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+772,apple wins us court case against samsung,2012-08-25 00:00:00,alb,Kaggle,0.0|0.619|0.381|0.5719
+773,apple seeks quick ban on eight samsung phones,2012-08-28 00:00:00,alb,Kaggle,0.34|0.66|0.0|-0.5574
+774,samsung to check china suppliers for violations,2012-09-04 00:00:00,alb,Kaggle,0.362|0.638|0.0|-0.5267
+775,samsung heading for another record profit,2012-10-05 00:00:00,alb,Kaggle,0.0|0.633|0.367|0.4404
+776,innovation concerns over apple samsung patent wars,2012-10-11 00:00:00,alb,Kaggle,0.321|0.446|0.232|-0.25
+777,samsung comes out blazing in the tablet wars,2012-11-08 00:00:00,alb,Kaggle,0.34|0.66|0.0|-0.5574
+778,chinese phone makers take on apple and samsung,2013-02-06 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+779,samsung announces 5g mobile data breakthrough,2013-05-14 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+780,some samsung imports banned in apple patent case,2013-08-10 00:00:00,alb,Kaggle,0.3|0.7|0.0|-0.4588
+781,nokia microsoft smartphone apple samsung android galaxy apple,2013-09-04 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+782,south korea's samsung unveils smartwatch,2013-09-05 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+783,apple wins damages in samsung retrial,2013-11-22 00:00:00,alb,Kaggle,0.274|0.377|0.349|0.2023
+784,apple samsung,2013-12-28 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+785,samsung ordered to pay apple $130m for patent infringements,2014-05-03 00:00:00,alb,Kaggle,0.149|0.851|0.0|-0.1027
+786,a wake up call for samsung,2014-10-09 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+787,samsung accuses lg bosses of vandalising washing machines,2014-12-26 00:00:00,alb,Kaggle,0.255|0.745|0.0|-0.34
+788,has samsung gone too far,2015-02-10 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+789,samsung warns customers new smart tvs listen in on users,2015-02-10 00:00:00,alb,Kaggle,0.116|0.661|0.223|0.3182
+790,apple gets partial win on appeal in samsung patent case,2015-05-19 00:00:00,alb,Kaggle,0.0|0.703|0.297|0.5859
+791,recalled samsung washing machines still pose fire danger,2015-05-30 00:00:00,alb,Kaggle,0.492|0.508|0.0|-0.7003
+792,samsung washing machine catches fire in sydney unit,2015-06-10 00:00:00,alb,Kaggle,0.255|0.745|0.0|-0.34
+793,samsung phones could be vulnerable to cyber attack,2015-06-18 00:00:00,alb,Kaggle,0.455|0.545|0.0|-0.6124
+794,recalled samsung washing machine causes house fire,2015-06-24 00:00:00,alb,Kaggle,0.286|0.714|0.0|-0.34
+795,government recall of samsung washing machines in nsw,2015-07-23 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+796,wa samsung washing machine owners told to replace machines,2015-08-31 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+797,adidas sneakers samsung phone liked to cayleb hough death,2016-04-14 00:00:00,alb,Kaggle,0.285|0.511|0.204|-0.2732
+798,samsung washine machine recall sydney fire nsw white goods,2016-08-14 00:00:00,alb,Kaggle,0.231|0.769|0.0|-0.34
+799,samsung galaxy note 7 phones pulled from shelves,2016-09-02 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+800,samsung recalls galaxy note7 smartphones over explosion risk,2016-09-06 00:00:00,alb,Kaggle,0.231|0.769|0.0|-0.2732
+801,samsung phone explodes middle of night,2016-09-07 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+802,samsung phone recalled by us consumer safety group,2016-09-16 00:00:00,alb,Kaggle,0.0|0.714|0.286|0.4215
+803,samsung sells shares as it deals with its exploding phone crisis,2016-09-19 00:00:00,alb,Kaggle,0.268|0.588|0.144|-0.4404
+804,samsung galaxy note 2 emits sparks smoke during indigo flight,2016-09-24 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+805,google pixel is bad news for samsung,2016-10-05 00:00:00,alb,Kaggle,0.368|0.632|0.0|-0.5423
+806,samsung halts note 7 production reports say,2016-10-10 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+807,samsung galaxy note7 key developments in recall crisis,2016-10-11 00:00:00,alb,Kaggle,0.369|0.631|0.0|-0.6249
+808,samsung galaxy note7 owners told to stop using the smartphone,2016-10-11 00:00:00,alb,Kaggle,0.196|0.804|0.0|-0.296
+809,samsung galaxy note 7 production permanently discontinued,2016-10-11 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+810,why did samsung take so long to shut down the note7,2016-10-11 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+811,apple samsung iphone patent feud leaves us top court struggling,2016-10-12 00:00:00,alb,Kaggle,0.371|0.5|0.129|-0.5267
+812,samsung ceases note 7 but unlikely to suffer permanent damage,2016-10-12 00:00:00,alb,Kaggle,0.564|0.436|0.0|-0.8765
+813,samsung sends galaxy note7 users thermally insulated boxes,2016-10-12 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+814,samsung sends insulated return boxes to note 7,2016-10-12 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+815,airlines ban samsung galaxy note 7 on flights,2016-10-15 00:00:00,alb,Kaggle,0.375|0.625|0.0|-0.5574
+816,south korean special prosecutors to question samsung leader,2017-01-11 00:00:00,alb,Kaggle,0.0|0.722|0.278|0.4019
+817,south korea prosecutor seeks arrest of samsung chief for bribery,2017-01-17 00:00:00,alb,Kaggle,0.211|0.789|0.0|-0.34
+818,south korea prosecutor seeks arrest of samsung head,2017-01-17 00:00:00,alb,Kaggle,0.255|0.745|0.0|-0.34
+819,samsung chief staves off arrest prosecutor keeps chasing,2017-01-19 00:00:00,alb,Kaggle,0.255|0.745|0.0|-0.34
+820,samsung galaxy note 7 fires,2017-01-23 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+821,samsung investigates phone battery fires,2017-01-24 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+822,samsung chief lee arrested in corruption investigation,2017-02-17 00:00:00,alb,Kaggle,0.341|0.659|0.0|-0.4767
+823,samsung group chief jay y lee charged with bribery,2017-03-01 00:00:00,alb,Kaggle,0.205|0.795|0.0|-0.2023
+824,samsung galaxy s8 launch,2017-03-30 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+825,samsung vice chair jailed for five years,2017-08-25 00:00:00,alb,Kaggle,0.348|0.652|0.0|-0.4939
+826,samsung chief jay y lee appeals against jail term for bribery,2017-08-28 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+827,viagogo and samsung among choice shonky awards,2017-10-05 00:00:00,alb,Kaggle,0.0|0.667|0.333|0.4588
+828,samsung heir faces jail for bribing south korea president,2017-12-28 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+829,samsung heir lee jae yong walks free after jail term suspended,2018-02-05 00:00:00,alb,Kaggle,0.201|0.584|0.214|0.0516
+830,samsung heir free on suspended jail term,2018-02-06 00:00:00,alb,Kaggle,0.272|0.439|0.289|0.0516
+831,samsung tvs turning themselves off in sa,2018-08-15 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+832,samsung accused of sending mixed signals on regional tv glitch,2018-08-31 00:00:00,alb,Kaggle,0.196|0.804|0.0|-0.296
+833,new samsung phone features foldable display,2018-11-08 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+834,samsung shows off bendy tablet that folds down to phone,2018-11-08 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+835,samsung galaxy fold leads push for foldable devices,2019-02-21 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+836,cnbc tech reporter says his samsung galaxy fold,2019-04-18 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+837,samsung folding phone galaxy fold breaking after a few days,2019-04-18 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+838,samsung delays galaxy fold after reports of screen breakages,2019-04-23 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+839,samsung sued for misleading or deceptive conduct,2019-07-04 00:00:00,alb,Kaggle,0.31|0.69|0.0|-0.4019
+840,from samsung to swarovski big brands face backlash china,2019-08-14 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+841,samsung vice chairman jay lee sentenced to two and a half years,2021-01-18 00:00:00,alb,Kaggle,0.099|0.901|0.0|-0.0258
+842,a titanic row between samsung and a hedge fund run by an american jew sparks anti-jewish assault in south korean media,2015-07-09 00:00:00,alb,Kaggle,0.174|0.826|0.0|-0.5859
+843,samsung warn consumers not to discuss personal info in front of its voice activated tv's,2015-02-10 00:00:00,alb,Kaggle,0.091|0.909|0.0|-0.1027
+844,samsung privacy policy: watch what you say around your smart tv.,2015-02-09 00:00:00,alb,Kaggle,0.0|0.787|0.213|0.4019
+845,"samsung semiconductor workers: lymphoma, and no compensation",2015-01-29 00:00:00,alb,Kaggle,0.268|0.732|0.0|-0.296
+846,"samsung has temporarily suspended business with one of its suppliers in china after finding ""evidence"" of illegal child labour at the plant.",2014-07-14 00:00:00,alb,Kaggle,0.251|0.749|0.0|-0.7717
+847,"samsung factory robbed at gunpoint in brazil, $36 million in smartphones, tablets and laptops stolen",2014-07-08 00:00:00,alb,Kaggle,0.186|0.814|0.0|-0.4939
+848,samsung offers 'deep apology' and compensation to workers who've contracted incurable diseases,2014-05-14 00:00:00,alb,Kaggle,0.0|0.902|0.098|0.0516
+849,chemicals killing smartphone chip factory workers: samsung and apple factories accused,2014-04-24 00:00:00,alb,Kaggle,0.423|0.577|0.0|-0.765
+850,workers in samsung semiconductor plants who have developed cancer while working in dangerous conditions are fighting their former employerand their governmentfor compensation.,2014-04-12 00:00:00,alb,Kaggle,0.345|0.655|0.0|-0.875
+851,brazil sues samsung over 'serious' violations at manaus factory of world's largest smartphone maker.,2013-08-14 00:00:00,alb,Kaggle,0.207|0.793|0.0|-0.5267
+852,"russian mobile operators say 'nyet!' to apple, 'da!' to samsung: all three top carriers have discontinued iphone",2013-07-19 00:00:00,alb,Kaggle,0.0|0.87|0.13|0.3365
+853,foss patents: uk judge who issued extreme ruling for samsung against apple hired by... samsung!,2013-02-28 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+854,major blow to apple as one of its key patents is invalidated. the patent helped it win a 1 billion dollar judgement against samsung,2012-12-21 00:00:00,alb,Kaggle,0.0|0.847|0.153|0.5859
+855,samsung asks employees to quit getting smashed at company events,2012-11-29 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+856,"apple loses tablet copyright appeal against samsung
+| reuters",2012-10-18 00:00:00,alb,Kaggle,0.247|0.753|0.0|-0.3182
+857,apple loses samsung patent case in japan,2012-09-01 00:00:00,alb,Kaggle,0.277|0.723|0.0|-0.3182
+858,"a tokyo court has ruled samsung hasn't infringed on an apple patent, in the latest development in the legal battle between the two technology titans.
+
+
+",2012-08-31 00:00:00,alb,Kaggle,0.1|0.843|0.057|-0.2732
+859,apple and samsung get south korea bans - bbc news,2012-08-24 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+860,uk judge: apple must run ads saying samsung didn't copy the ipad,2012-07-20 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+861,b'samsung declares war on free speech',2010-05-12 00:00:00,alb,Kaggle,0.348|0.357|0.295|-0.1531
+862,b'samsung sues a british columnist for libel over a satirical spoof.',2010-05-11 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+863,b'samsung to invest $1.63 billion in indonesian biodiesel project . current rate of deforestation before the project: 380 us football fields an hour.',2008-07-23 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+864,samsung electronics says selling some of its shares in asml,2016-09-08 00:00:00,alb,Kaggle,0.0|0.804|0.196|0.296
+865,samsung electronics says sold shares in four companies,2016-09-18 00:00:00,alb,Kaggle,0.0|0.761|0.239|0.296
+866,the zacks analyst blog highlights  samsung  target and davita,2019-11-25 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+867,u s  washer tariffs put samsung  lg supply chains through the wringer,2018-01-30 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+868,samsung electronics  u s  washing machine factory starts production,2018-01-12 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+869,samsung s u s  washing machine factory to begin operations in jan  exec,2018-01-03 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+870,panel finds u s  washing machine makers hurt by lg  samsung imports,2017-10-05 00:00:00,alb,Kaggle,0.274|0.726|0.0|-0.5267
+871,whirlpool s washer battle with samsung  lg heats up at trade hearing,2017-09-07 00:00:00,alb,Kaggle,0.206|0.794|0.0|-0.3818
+872,samsung electronics to open  380 million u s  home appliance plant,2017-06-28 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+873,samsung elec may build u s  plant for home appliances  source,2017-02-02 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+874,samsung  intel  dell team up on standards for connected gadgets,2014-07-08 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+875,whirlpool seeks 50 percent duties on lg  samsung washers in u s  trade case,2017-10-19 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+876,u s  commission recommends tariffs to curb samsung  lg washer imports,2017-11-22 00:00:00,alb,Kaggle,0.0|0.808|0.192|0.2263
+877,samsung to invest an extra  8 billion in china chip plant  media,2019-12-12 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+878,tech fund that beat 98  of peers bets on samsung over apple,2019-10-21 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+879,walkie talkie from microsoft teams  samsung,2020-01-13 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+880,recovery beckons for samsung as chip prices stabilize,2019-10-03 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+881,samsung electronics  second quarter profit likely halved as huawei woes worsen chip glut,2019-07-03 00:00:00,alb,Kaggle,0.325|0.524|0.152|-0.5106
+882,samsung profit halves as downturn wallops chips and smartphones,2019-07-04 00:00:00,alb,Kaggle,0.0|0.734|0.266|0.4404
+883,chip stocks slip on samsung profit warning,2019-07-05 00:00:00,alb,Kaggle,0.233|0.485|0.282|0.128
+884,the big trading dichotomy as samsung readies to report results,2019-04-03 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+885,the big trading dichotomy ahead of samsung earnings,2019-04-04 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+886,samsung electronics sees lowest quarterly profit in more than two years,2019-04-04 00:00:00,alb,Kaggle,0.179|0.621|0.2|0.0772
+887,samsung elec flags earnings miss as chip prices slide,2019-03-26 00:00:00,alb,Kaggle,0.167|0.833|0.0|-0.1531
+888,samsung  uae funds lead  55 million investment in quantum computing startup,2019-10-22 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+889,samsung plans to lower memory chip growth as demand slowdown looms  bloomberg,2018-09-20 00:00:00,alb,Kaggle,0.333|0.503|0.164|-0.1779
+890,kla shares plunge on analyst downgrade  samsung concern,2018-06-24 00:00:00,alb,Kaggle,0.0|0.761|0.239|0.296
+891,samsung plans  116 billion investment in non memory chips to challenge tsmc  qualcomm,2019-04-24 00:00:00,alb,Kaggle,0.0|0.902|0.098|0.0772
+892,chinese regulators launch probe into samsung electronics  sk hynix  micron,2018-06-04 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+893,samsung electronics tips record first quarter profit as chip boom winds down,2018-04-06 00:00:00,alb,Kaggle,0.0|0.791|0.209|0.4404
+894,scandals dog the samsung family,2018-02-08 00:00:00,alb,Kaggle,0.444|0.556|0.0|-0.4939
+895,samsung electronics forecasts weaker 2019 earnings as chip sales slow,2019-01-30 00:00:00,alb,Kaggle,0.244|0.756|0.0|-0.4404
+896,samsung headed for china agreement in likely ding to dram prices,2018-02-02 00:00:00,alb,Kaggle,0.0|0.758|0.242|0.4939
+897,semiconductors finishing day strong after amd  samsung reports,2018-01-31 00:00:00,alb,Kaggle,0.0|0.68|0.32|0.5106
+898,apple considered samsung  mediatek to supply 5g modems for 2019 iphones,2019-01-11 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+899,samsung  huawei supply majority of own modem chips  qualcomm says,2019-01-04 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+900,dram stocks moving as samsung prepares to raise q4 prices,2017-08-14 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+901,olympics  samsung extends olympics sponsorship to 2028   ioc,2018-12-04 00:00:00,alb,Kaggle,0.0|0.824|0.176|0.128
+902,verizon  samsung to release 5g smartphones in u s  in 2019,2018-12-03 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+903,as tide turns against chip industry  samsung forges ahead of rivals,2016-04-26 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+904,blown away by innovation or price  samsung s foldable phone opens new frontier,2019-02-21 00:00:00,alb,Kaggle,0.0|0.809|0.191|0.3818
+905,hp gets china s nod to acquire samsung s printer business,2017-10-08 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+906,samsung will invest  6b in next gen ics,2018-02-23 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+907,samsung elec unveils stock split  record profit as chips sizzle,2018-01-31 00:00:00,alb,Kaggle,0.0|0.756|0.244|0.4404
+908, no crypto payments for samsung devices in the baltics  coppay admits ,2018-07-25 00:00:00,alb,Kaggle,0.164|0.672|0.164|0.0
+909,samsung to chase big m a deals on three fronts  says strategy chief,2017-12-01 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+910,blackberry samsung sign deal for digital transformation,2018-06-27 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+911,samsung enters autonomous driving race with new business  funding,2017-09-14 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+912,samsung announces 45 in frame tv  new oled models for europe,2017-08-30 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+913,semiconductor capital spending could grow 27  this year  depending on samsung,2017-08-24 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+914,samsung  foxconn to back cable free phone tech,2017-08-16 00:00:00,alb,Kaggle,0.0|0.68|0.32|0.5106
+915,samsung takes aim at tsmc with plans to triple chip foundry market share,2017-07-24 00:00:00,alb,Kaggle,0.0|0.845|0.155|0.296
+916,samsung joining the speaker race,2017-07-04 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+917,samsung on track to take intel s chip crown with record second quarter earnings,2017-07-04 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+918,samsung tops intel in chip sales for first time,2017-06-27 00:00:00,alb,Kaggle,0.0|0.708|0.292|0.5106
+919,intel  mlb sign virtual realty streaming deal for samsung headsets,2017-06-01 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+920,apple roundup  negative preannouncement  samsung deal,2019-01-10 00:00:00,alb,Kaggle,0.425|0.575|0.0|-0.5719
+921,as samsung s profit surges  some investors worry about peaking growth,2017-04-13 00:00:00,alb,Kaggle,0.188|0.455|0.357|0.3818
+922,google hires former samsung executive to coordinate internet of things projects,2018-02-12 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+923,samsung electronics to invest more than  1 billion in u s  chip production,2016-11-01 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+924,samsung vietnam says no cuts in jobs this year despite note 7 woes,2016-10-13 00:00:00,alb,Kaggle,0.278|0.569|0.152|-0.2486
+925,samsung ups investment in southern vietnam project to  2 billion,2015-12-29 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+926,samsung electronics names new generation leaders as profit soars,2017-10-31 00:00:00,alb,Kaggle,0.0|0.734|0.266|0.4404
+927,hp inks deal with samsung  launches multifunction printers,2016-09-12 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+928,microsoft roundup  vr acquisition  halo  recruit launch date  new samsung headset,2017-10-03 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+929,teardown of new samsung galaxy smartphone suggests deeper loss for qualcomm,2015-04-02 00:00:00,alb,Kaggle,0.187|0.813|0.0|-0.3182
+930,korea herald  samsung galaxy s9 could launch in january,2017-09-01 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+931,samsung and microsoft announce qled  xbox one x partnership,2017-09-01 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+932,audio firm harman aims for sales boost  new deals after samsung takeover,2017-09-01 00:00:00,alb,Kaggle,0.0|0.803|0.197|0.4019
+933,with  8 billion harmon purchase  samsung will gamble on cars,2016-11-15 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+934,update 5 seagate buys samsung hard disk unit  mkt share war looms,2011-04-19 00:00:00,alb,Kaggle,0.429|0.435|0.137|-0.5719
+935,apple vs  samsung  should innovation be viewed as a way of living  ,2012-10-28 00:00:00,alb,Kaggle,0.0|0.794|0.206|0.3818
+936,microsoft  samsung to launch call capable smart speaker,2017-05-08 00:00:00,alb,Kaggle,0.0|0.531|0.469|0.6486
+937,samsung launches new tablets in flagship phone hiatus,2017-02-26 00:00:00,alb,Kaggle,0.0|0.833|0.167|0.1027
+938,fallen smartphone brand nokia challenges apple  samsung again,2016-12-01 00:00:00,alb,Kaggle,0.255|0.612|0.133|-0.296
+939,samsung to launch ai digital assistant service for galaxy s8,2016-11-06 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+940,samsung electronics to acquire artificial intelligence firm viv  run by siri co creator,2016-10-05 00:00:00,alb,Kaggle,0.0|0.795|0.205|0.4767
+941,samsung electronics to carefully review elliott proposals  shares hit record high,2016-10-05 00:00:00,alb,Kaggle,0.0|0.709|0.291|0.4019
+942,nokia s patent chief departs in wake of samsung pacts,2016-08-31 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+943,nokia patent sales forecast falls short after samsung deal,2016-02-01 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+944,samsung electronics at risk of 2016 profit drop on components headwinds,2016-01-06 00:00:00,alb,Kaggle,0.278|0.53|0.192|-0.0772
+945,blackberry signs up samsung  others  in new mobile services push,2014-11-13 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+946,apple inks deal with samsung to distribute itunes shows on tvs,2019-01-06 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+947,global payments  gpn  to provide samsung pay in hong kong,2017-05-26 00:00:00,alb,Kaggle,0.135|0.865|0.0|-0.1027
+948,tivo refreshes license with samsung to aid customer relations,2018-12-05 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+949,apple v samsung   crypto features coming to iphone 12 range ,2020-01-06 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+950,samsung just announced budget versions of its flagship phones before apple s expected cheap iphone,2020-01-03 00:00:00,alb,Kaggle,0.0|0.903|0.097|0.1027
+951,apple  aapl  to enter samsung dominated 5g handset market,2020-01-02 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+952,apple  samsung phones pass fcc rf radiation test,2019-12-19 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+953,samsung to take on iphone s popularity with big camera overhaul,2019-12-06 00:00:00,alb,Kaggle,0.0|0.744|0.256|0.4767
+954,samsung widens smartphone market share at apple s expense,2019-12-01 00:00:00,alb,Kaggle,0.0|0.761|0.239|0.296
+955,made in china  samsung farms out more phones to fend off rivals,2019-11-17 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+956,samsung flags smartphone profit fall  upbeat on chips,2019-10-31 00:00:00,alb,Kaggle,0.0|0.707|0.293|0.4404
+957,samsung elec shows off new design for square folding phone,2019-10-29 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+958,samsung display plans to invest 11b to develop next generation display technology ,2019-10-09 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+959,samsung display to invest  11 billion by 2025 amid industry oversupply,2019-10-10 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+960,strong smartphone sales raise hopes of samsung turnaround,2019-10-08 00:00:00,alb,Kaggle,0.0|0.496|0.504|0.7269
+961,samsung display plans  11 billion investment in south korean lcd plant  report,2019-09-24 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+962,huawei talks up own apps with mate 30 challenge to apple  samsung,2019-09-19 00:00:00,alb,Kaggle,0.0|0.894|0.106|0.0772
+963,apple ceo warns trump about china tariffs  samsung competition,2019-08-19 00:00:00,alb,Kaggle,0.149|0.851|0.0|-0.1027
+964,samsung s new note takes on huawei in selfie beauty pageant,2019-08-07 00:00:00,alb,Kaggle,0.0|0.703|0.297|0.5859
+965,samsung electronics second quarter profit down 56  as chip troubles persist,2019-07-31 00:00:00,alb,Kaggle,0.201|0.604|0.195|-0.0258
+966,samsung electronics  delayed galaxy fold now ready for september launch,2019-07-24 00:00:00,alb,Kaggle,0.153|0.645|0.202|0.1531
+967,samsung  sk hynix ask korean firm to boost chemicals supply amid japanese curbs,2019-07-16 00:00:00,alb,Kaggle,0.0|0.816|0.184|0.4019
+968,samsung electronics says second quarter operating profit likely 56  down year on year,2019-07-05 00:00:00,alb,Kaggle,0.0|0.805|0.195|0.4404
+969,samsung electronics bets on better second half after first quarter profit slumps,2019-04-30 00:00:00,alb,Kaggle,0.0|0.633|0.367|0.7003
+970,samsung electronics delays galaxy fold media events in china,2019-04-21 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+971,samsung delays galaxy fold phone launch over screen problems,2019-04-22 00:00:00,alb,Kaggle,0.252|0.748|0.0|-0.4019
+972,samsung gets reports of galaxy fold screen problems  raising specter of note 7 fiasco,2019-04-18 00:00:00,alb,Kaggle,0.353|0.647|0.0|-0.7184
+973,samsung electronics quarter one earnings under pressure as chip prices fall,2019-04-03 00:00:00,alb,Kaggle,0.18|0.82|0.0|-0.296
+974,asian shares steady  samsung issues profit warning,2019-03-25 00:00:00,alb,Kaggle,0.209|0.348|0.443|0.4019
+975,samsung elec sees green shoots in china smartphone business  co ceo,2019-03-19 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+976,fitbit launches lower cost fitness devices to combat samsung  apple,2019-03-06 00:00:00,alb,Kaggle,0.336|0.511|0.153|-0.3612
+977,samsung announces folding phone with 5g at nearly  2 000,2019-02-20 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+978,samsung electronics says weak chip demand sent fourth quarter profit well below market estimates,2019-01-08 00:00:00,alb,Kaggle,0.227|0.515|0.258|0.1531
+979,sprint to debut 5g smartphones with samsung in u s  in summer,2019-01-07 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+980,samsung electronics braces for profit drop as china slowdown chips away at demand,2019-01-06 00:00:00,alb,Kaggle,0.218|0.606|0.176|0.0772
+981,huawei troubles spell opportunity for samsung as 5g nears,2018-12-12 00:00:00,alb,Kaggle,0.234|0.547|0.219|-0.0516
+982,south korea indicts group for leaking samsung display tech to chinese firm,2018-11-29 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+983,samsung gives first glimpse of foldable phone,2018-11-07 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+984,changing tack  samsung to reveal some features of foldable phone this week,2018-11-05 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+985,samsung slashes capex  calls end to chip boom after record third quarter,2018-10-31 00:00:00,alb,Kaggle,0.141|0.859|0.0|-0.2023
+986,samsung electronics third quarter profit seen at record  but peaking  as chips shine,2018-10-02 00:00:00,alb,Kaggle,0.0|0.86|0.14|0.2382
+987,samsung doubles down in india  opens its biggest store world wide,2018-09-11 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+988,report  samsung considers suspending china mobile factory,2018-08-13 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+989,samsung unveils gaming friendly galaxy note 9 to boost sales,2018-08-09 00:00:00,alb,Kaggle,0.0|0.543|0.457|0.7096
+990,samsung electronics profit growth slows as galaxy s9 misses sales targets,2018-07-31 00:00:00,alb,Kaggle,0.123|0.519|0.357|0.5574
+991,samsung display says unbreakable  flexible screen passes u s  safety test,2018-07-27 00:00:00,alb,Kaggle,0.0|0.598|0.402|0.5719
+992,samsung electronics profit growth slows on smartphone weakness,2018-07-05 00:00:00,alb,Kaggle,0.211|0.376|0.414|0.4019
+993,samsung s second quarter profit may flag as smartphone innovation dries up,2018-07-04 00:00:00,alb,Kaggle,0.0|0.621|0.379|0.6705
+994,apple  samsung settle u s  patent dispute,2018-06-27 00:00:00,alb,Kaggle,0.403|0.597|0.0|-0.4019
+995,opening bell  alphabet miss  samsung fiasco cloud sentiment  yields drop,2019-04-30 00:00:00,alb,Kaggle,0.5|0.5|0.0|-0.7184
+996,u s  jury awards apple  539 million in samsung patent retrial,2018-05-24 00:00:00,alb,Kaggle,0.0|0.727|0.273|0.4588
+997,samsung in talks with zte  others to supply mobile processor chips  executive,2018-05-15 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+998,idc  smartphone shipments  2 9  in q1  samsung takes top spot,2018-05-02 00:00:00,alb,Kaggle,0.0|0.816|0.184|0.2023
+999,china smartphone shipment drop hurts apple  aapl   samsung,2019-04-10 00:00:00,alb,Kaggle,0.464|0.536|0.0|-0.6369
+1000,samsung electronics flags mobile weakness as chips power record first quarter profit,2018-04-26 00:00:00,alb,Kaggle,0.178|0.637|0.185|0.0258
+1001,china s huawei sees europe as stepping stone in samsung apple rivalry,2018-03-27 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1002,how samsung is driving crypto adoption,2019-03-06 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1003,trade fears loom as samsung electronics shareholders approve stock split,2018-03-22 00:00:00,alb,Kaggle,0.37|0.63|0.0|-0.5719
+1004,can samsung s galaxy fold grab competitors  market share  ,2019-02-21 00:00:00,alb,Kaggle,0.0|0.761|0.239|0.296
+1005,samsung launches galaxy s9 with focus on social media,2018-02-26 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1006,samsung launches the galaxy s9,2018-02-26 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1007,samsung electronics to slash oled panel production as iphone x demand disappoints  nikkei,2018-02-20 00:00:00,alb,Kaggle,0.408|0.592|0.0|-0.6369
+1008,nar  samsung looking for oled buyers after iphone x cuts,2018-02-16 00:00:00,alb,Kaggle,0.216|0.784|0.0|-0.296
+1009,with samsung deal  qualcomm doubles down on licensing practices,2018-01-31 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1010,xiaomi to expand store network in indian tussle with samsung,2018-01-19 00:00:00,alb,Kaggle,0.0|0.796|0.204|0.3182
+1011,italy s anti trust opens probe into apple  samsung phone complaints,2018-01-18 00:00:00,alb,Kaggle,0.327|0.458|0.216|-0.1779
+1012,samsung profit guidance disappoints  memory outlook cloudy,2018-01-09 00:00:00,alb,Kaggle,0.248|0.476|0.276|0.0772
+1013,samsung profit misses estimates as stronger won hurts earnings,2018-01-08 00:00:00,alb,Kaggle,0.275|0.22|0.505|0.6369
+1014,samsung elec on track for record fourth quarter earnings,2018-01-04 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1015,korea herald  samsung will quadruple iphone oled output in 2018,2017-12-20 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1016,bloomberg  samsung will launch bixby enabled speaker in 1h18,2017-12-14 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1017,sharp to seek all japan oled alliance to counter south korea s samsung  lg,2017-12-07 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1018,supreme court rejects samsung appeal of patent loss to apple,2017-11-06 00:00:00,alb,Kaggle,0.342|0.435|0.224|-0.2263
+1019,supreme court declines to hear samsung appeal on apple damages,2017-11-06 00:00:00,alb,Kaggle,0.2|0.552|0.248|0.1779
+1020,apple  aapl  partners with samsung  boosts services reach,2019-01-06 00:00:00,alb,Kaggle,0.0|0.638|0.362|0.34
+1021,samsung  alibaba lead  40m round for chinese ai start up,2017-10-24 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1022,u s  judge orders new trial to decide how much samsung owes apple,2017-10-23 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1023,apple  samsung face new iphone damages trial  u s  judge,2017-10-23 00:00:00,alb,Kaggle,0.293|0.707|0.0|-0.4404
+1024,huawei aims to challenge apple and samsung on technology as well as price,2017-10-16 00:00:00,alb,Kaggle,0.0|0.764|0.236|0.34
+1025,samsung elec on track for record third quarter as chips soar,2017-10-12 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1026,behind bars  samsung scion lee sees his wealth top  2 billion,2017-10-13 00:00:00,alb,Kaggle,0.0|0.615|0.385|0.6124
+1027,hot chips to make samsung s third quarter profit sizzle,2017-10-10 00:00:00,alb,Kaggle,0.0|0.734|0.266|0.4404
+1028,apple plans flexible oleds with lg  not samsung,2017-10-11 00:00:00,alb,Kaggle,0.0|0.787|0.213|0.2263
+1029,doj backs apple in samsung case  watch nike  series 3 now in stores,2017-10-05 00:00:00,alb,Kaggle,0.098|0.902|0.0|-0.0516
+1030,wsj  samsung earns  110 on each iphone x,2017-10-02 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1031,samsung  lg invest  30m in oled company,2017-09-14 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1032,samsung says galaxy note 8 pre orders highest among note series,2017-09-12 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1033,huawei unveils faster phone chip it says can beat apple  samsung,2017-09-02 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1034,samsung secures self driving car permit in california,2017-08-31 00:00:00,alb,Kaggle,0.0|0.753|0.247|0.3182
+1035,samsung seeks to bury fiery past with galaxy note 8 launch,2017-08-23 00:00:00,alb,Kaggle,0.211|0.789|0.0|-0.34
+1036,verizon seeks first mover advantage with samsung 5g phones,2018-12-04 00:00:00,alb,Kaggle,0.0|0.8|0.2|0.25
+1037,samsung tops u s  smartphone market  apple s latest enters volume production,2017-08-09 00:00:00,alb,Kaggle,0.0|0.708|0.292|0.5106
+1038,samsung tops q2 global smartphone shipments,2017-08-02 00:00:00,alb,Kaggle,0.0|0.602|0.398|0.5106
+1039,samsung electronics expects continued chip boom after record second quarter profit,2017-07-27 00:00:00,alb,Kaggle,0.0|0.775|0.225|0.4404
+1040,lg display to take on samsung as it lifts oled investment,2017-07-25 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1041,study finds google  samsung phones gaining on mobile monetization,2017-07-24 00:00:00,alb,Kaggle,0.0|0.741|0.259|0.4215
+1042,samsung electronics tips record second quarter profit as memory prices surge,2017-07-06 00:00:00,alb,Kaggle,0.0|0.775|0.225|0.4404
+1043,samsung could surpass apple s operating profit in q2,2017-07-06 00:00:00,alb,Kaggle,0.0|0.707|0.293|0.4404
+1044,samsung plans  18 6 billion south korea investment to widen chip lead,2017-07-04 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1045,the latest smartphone news from apple   samsung,2018-11-13 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1046,samsung electronics plans galaxy note 8 launch event for august  source,2017-06-20 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1047,samsung opens u s  preview of bixby voice assistant,2017-06-16 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1048,samsung to double mobile phone capacity at main indian factory,2017-06-07 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1049,huawei narrows gap with samsung  apple in smartphone sales  gartner,2017-05-23 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1050,samsung electronics says will continue looking for m a opportunities,2017-05-22 00:00:00,alb,Kaggle,0.0|0.729|0.271|0.3818
+1051,samsung electronics names new mobile marketing chief in delayed reshuffle,2017-05-11 00:00:00,alb,Kaggle,0.174|0.826|0.0|-0.2263
+1052,samsung elec flags stronger second quarter  elliott welcomes share cancellation,2017-04-27 00:00:00,alb,Kaggle,0.0|0.483|0.517|0.7579
+1053,samsung to ride soaring chip profits in first quarter  galaxy s8 aura in 2017,2017-04-04 00:00:00,alb,Kaggle,0.0|0.818|0.182|0.4404
+1054,samsung tips best quarterly profit in over three years as chips soar,2017-04-07 00:00:00,alb,Kaggle,0.0|0.585|0.415|0.7964
+1055,samsung launches galaxy s8 and dreams of recovery from note 7,2017-03-29 00:00:00,alb,Kaggle,0.0|0.769|0.231|0.4019
+1056,the galaxy s8 arrives as samsung s hold on the smartphone market is slipping,2017-03-30 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1057,samsung group boss earned  1 million at flagship in first quarter  shows first disclosure,2017-03-31 00:00:00,alb,Kaggle,0.0|0.896|0.104|0.1027
+1058,huawei seeks to exploit samsung gap with new smartphone,2017-02-26 00:00:00,alb,Kaggle,0.149|0.851|0.0|-0.1027
+1059,phonemakers pile in to exploit samsung weakness,2017-02-26 00:00:00,alb,Kaggle,0.457|0.543|0.0|-0.4939
+1060,samsung electronics to launch web payments service for android phones in south korea,2017-02-03 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1061,apple expands oled supplier base  lowers samsung dependence,2018-06-27 00:00:00,alb,Kaggle,0.169|0.674|0.157|-0.0258
+1062,samsung electronics warns of political risks as chips boost fourth quarter profit,2017-01-24 00:00:00,alb,Kaggle,0.205|0.468|0.327|0.4767
+1063,samsung says batteries caused note 7 fires  may delay new phone launch,2017-01-23 00:00:00,alb,Kaggle,0.187|0.813|0.0|-0.3182
+1064,samsung electronics forecasts fourth quarter profit at over three year high,2017-01-05 00:00:00,alb,Kaggle,0.0|0.775|0.225|0.4404
+1065,samsung electronics likely to procure phone batteries from lg chem  chosun ilbo,2016-12-18 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1066,u s  supreme court backs samsung in smartphone fight with apple,2016-12-06 00:00:00,alb,Kaggle,0.284|0.448|0.269|0.2023
+1067,as samsung moves on from note 7 crisis  sdi battery affiliate struggles,2016-11-23 00:00:00,alb,Kaggle,0.423|0.577|0.0|-0.765
+1068,galaxy note 7 recall did not damage samsung brand in u s   reuters ipsos poll,2016-11-20 00:00:00,alb,Kaggle,0.0|0.807|0.193|0.3875
+1069,apple roundup  wwdc  homepod  eu tax  samsung infringement,2018-06-05 00:00:00,alb,Kaggle,0.307|0.693|0.0|-0.4767
+1070,samsung america says it has replaced most recalled galaxy note 7s,2016-11-04 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1071,samsung electronics ceo says firm must learn from crisis,2016-10-31 00:00:00,alb,Kaggle,0.339|0.661|0.0|-0.6249
+1072,samsung electronics vows mobile rebound  dangles buyback after note 7 shock,2016-10-27 00:00:00,alb,Kaggle,0.224|0.776|0.0|-0.3818
+1073,samsung s ditching of flagship phone portends android turf war,2016-10-12 00:00:00,alb,Kaggle,0.317|0.569|0.114|-0.5423
+1074,samsung slashes third quarter profit estimate by a third after pulling plug on note 7,2016-10-12 00:00:00,alb,Kaggle,0.115|0.701|0.185|0.2732
+1075,samsung s latest invention  a fireproof box for note 7 returns,2016-10-12 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1076,samsung offers financial incentives to stem note 7 bleeding,2016-10-13 00:00:00,alb,Kaggle,0.0|0.753|0.247|0.3182
+1077,samsung flags  5 3 billion profit hit from note 7 failure,2016-10-14 00:00:00,alb,Kaggle,0.27|0.492|0.238|-0.1027
+1078,at crisis hit samsung  nerves jangle as annual review looms,2016-10-19 00:00:00,alb,Kaggle,0.504|0.496|0.0|-0.7269
+1079,wall street gains with energy shares  apple up on samsung woes,2016-10-10 00:00:00,alb,Kaggle,0.175|0.422|0.404|0.4215
+1080,note 7 fiasco could burn a  17 billion hole in samsung accounts,2016-10-11 00:00:00,alb,Kaggle,0.268|0.732|0.0|-0.5106
+1081,samsung scraps galaxy note 7 over fire concerns,2016-10-11 00:00:00,alb,Kaggle,0.286|0.714|0.0|-0.34
+1082,apple samsung iphone patent feud leaves u s  top court struggling,2016-10-11 00:00:00,alb,Kaggle,0.4|0.462|0.138|-0.5267
+1083,u s  court reinstates apple  120 million patent win over samsung,2016-10-07 00:00:00,alb,Kaggle,0.0|0.678|0.322|0.5859
+1084,u s  top court to hear apple samsung feud over iphone designs,2016-10-10 00:00:00,alb,Kaggle,0.197|0.656|0.148|-0.1531
+1085,apple stock hits highest since december on samsung note 7 fire crisis,2016-10-10 00:00:00,alb,Kaggle,0.419|0.581|0.0|-0.7579
+1086,fighting fires  samsung struggles to limit damage from smartphone recall,2016-10-06 00:00:00,alb,Kaggle,0.539|0.461|0.0|-0.802
+1087,samsung sees third quarter profit jump as chip surge eases smartphone recall blues,2016-10-06 00:00:00,alb,Kaggle,0.0|0.679|0.321|0.6369
+1088,samsung slammed by chinese state tv over note 7 recall  discrimination ,2016-09-30 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1089,samsung phone emits smoke on indian plane mid air  no damage,2016-09-23 00:00:00,alb,Kaggle,0.375|0.625|0.0|-0.6597
+1090,u s  carrier verizon starts taking orders for new samsung note 7 phones,2016-09-21 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1091,samsung to replace or refund 1 million u s  galaxy note 7 phones,2016-09-15 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1092,samsung scion to take board role at flagship amid note 7 shock,2016-09-12 00:00:00,alb,Kaggle,0.2|0.692|0.108|-0.296
+1093,samsung  lg sued over u s  employee recruiting policies,2016-09-12 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1094,china s atl to become main battery supplier for samsung s galaxy note 7  source,2016-09-13 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1095,samsung urges note 7 users to switch off phones and turn them in,2016-09-10 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1096,samsung electronics shares slide as note 7 recall takes toll,2016-09-11 00:00:00,alb,Kaggle,0.0|0.784|0.216|0.296
+1097,apple roundup  irish tax  homepod  bernstein  samsung fight,2018-05-24 00:00:00,alb,Kaggle,0.271|0.729|0.0|-0.3818
+1098,samsung trips on quality control in rush to pip apple,2016-09-06 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1099,samsung recalls galaxy note 7 phones after battery fires,2016-09-02 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1100,samsung mobile recovery suffers blow as galaxy notes  catch fire ,2016-09-01 00:00:00,alb,Kaggle,0.407|0.593|0.0|-0.6705
+1101,samsung electronics considers galaxy note 7 recall  source,2016-09-02 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1102,samsung electronics says galaxy note 7 demand beats supply,2016-08-23 00:00:00,alb,Kaggle,0.176|0.824|0.0|-0.128
+1103,samsung  tencent surge in race to become asia s most valuable firm,2016-08-24 00:00:00,alb,Kaggle,0.0|0.747|0.253|0.5256
+1104,samsung plans refurbished smartphone program  source,2016-08-22 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1105,designers come out for apple in patent fight with samsung,2016-08-04 00:00:00,alb,Kaggle,0.224|0.776|0.0|-0.3818
+1106,apple asks u s  supreme court to rule against samsung over patents,2016-07-29 00:00:00,alb,Kaggle,0.0|0.714|0.286|0.5574
+1107,samsung electronics unveils new curved screen galaxy note phone in h2 sales push,2016-08-02 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1108,samsung electronics tips  solid  second half profits on components pickup,2016-07-28 00:00:00,alb,Kaggle,0.0|0.64|0.36|0.5423
+1109,samsung elec sues huawei in china for patent infringement,2016-07-22 00:00:00,alb,Kaggle,0.279|0.721|0.0|-0.4767
+1110,smartphones lift samsung electronics to best profit in over two years,2016-07-06 00:00:00,alb,Kaggle,0.0|0.559|0.441|0.7964
+1111,samsung electronics set for best quarter in over two years on second quarter smartphone boost,2016-07-05 00:00:00,alb,Kaggle,0.0|0.653|0.347|0.7845
+1112,samsung takes fight to apple with mobile wallet strategy,2016-06-21 00:00:00,alb,Kaggle,0.245|0.755|0.0|-0.3818
+1113,apple case against samsung should go back to lower court  justice dept,2016-06-08 00:00:00,alb,Kaggle,0.141|0.641|0.218|0.296
+1114,apple case against samsung should go back to lower court  justice department,2016-06-09 00:00:00,alb,Kaggle,0.141|0.641|0.218|0.296
+1115,samsung elec to launch samsung pay web payments app  electronic times,2016-05-26 00:00:00,alb,Kaggle,0.123|0.877|0.0|-0.1027
+1116,china s huawei files patent suits against samsung elec,2016-05-24 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1117,samsung to partner with alibaba on mobile payments in china,2016-05-20 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1118,to halt smartphone slide  samsung rewrites playbook ,2016-05-22 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1119,as apple plots india push  samsung stakes turf with revamped phones,2016-04-05 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1120,samsung electronics set for first quarter profit jump  but some call an earnings peak,2016-04-07 00:00:00,alb,Kaggle,0.0|0.87|0.13|0.2382
+1121,with galaxy s7  samsung seen rediscovering its mobile mojo,2016-03-30 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1122,u s  top court agrees to hear samsung apple patent fight,2016-03-21 00:00:00,alb,Kaggle,0.213|0.492|0.295|0.0
+1123,samsung elec to launch phone upgrade scheme in south korea,2016-03-08 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1124,samsung wins appeal in patent dispute with apple,2016-02-26 00:00:00,alb,Kaggle,0.218|0.484|0.298|0.25
+1125,samsung  lg unveil new devices in bid for smartphone recovery,2016-02-22 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1126,nokia samsung patent verdict expected within days,2016-01-30 00:00:00,alb,Kaggle,0.0|0.789|0.211|0.1531
+1127,samsung elec warns of difficult 2016 as smartphone troubles spread,2016-01-27 00:00:00,alb,Kaggle,0.496|0.504|0.0|-0.7096
+1128,samsung electronics to produce new qualcomm chips in blow to tsmc,2016-01-14 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1129,samsung elec fourth quarter guidance underscores tech sector headwinds,2016-01-07 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1130,samsung urges u s  court to overturn  120 million patent verdict for apple,2016-01-05 00:00:00,alb,Kaggle,0.0|0.862|0.138|0.1531
+1131,samsung electronics to expand mobile payments to new countries  smartwatches,2016-01-05 00:00:00,alb,Kaggle,0.0|0.796|0.204|0.3182
+1132,samsung electronics to start making new chips for amd in 2016  electronic times,2015-12-21 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1133,samsung pay plans to enable u s  online shopping in 2016,2015-12-28 00:00:00,alb,Kaggle,0.149|0.851|0.0|-0.1027
+1134,lg display  samsung display to supply oled screens to apple iphones   report,2015-12-29 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1135,culture shock  samsung s mobile woes rooted in hardware legacy,2015-12-21 00:00:00,alb,Kaggle,0.44|0.56|0.0|-0.6705
+1136,samsung appeals apple patent  windfall  ruling to u s  supreme court,2015-12-14 00:00:00,alb,Kaggle,0.0|0.69|0.31|0.5574
+1137,samsung heir tests investors  patience with cautious change,2015-12-03 00:00:00,alb,Kaggle,0.167|0.833|0.0|-0.1027
+1138,samsung electronics names new smartphone head as heir apparent makes mark,2015-11-30 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1139,samsung electronics unveils  9 9 billion buyback ,2015-10-29 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1140,better late than never  samsung it arms push into autos ,2015-10-29 00:00:00,alb,Kaggle,0.0|0.756|0.244|0.4404
+1141,samsung pay sees strong repeat usage among u s  consumers,2015-10-27 00:00:00,alb,Kaggle,0.131|0.561|0.308|0.4404
+1142,huawei takes smartphone fight to samsung  apple with third quarter shipments boom,2015-10-27 00:00:00,alb,Kaggle,0.191|0.809|0.0|-0.3818
+1143,samsung electronics considering share buybacks  korea economic daily,2015-10-22 00:00:00,alb,Kaggle,0.0|0.761|0.239|0.296
+1144,samsung electronics to advance launch of next galaxy s phone   south korea paper,2015-10-20 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1145,samsung electronics says mobile payments data safe after looppay hack,2015-10-07 00:00:00,alb,Kaggle,0.0|0.756|0.244|0.4404
+1146,samsung electronics struggles to find fix for smartphone woes,2015-10-06 00:00:00,alb,Kaggle,0.435|0.565|0.0|-0.6597
+1147,samsung electronics tips better than expected third quarter profit  shares surge,2015-10-07 00:00:00,alb,Kaggle,0.0|0.5|0.5|0.7906
+1148,samsung shares set to rise,2018-02-28 00:00:00,alb,Kaggle,0.0|0.645|0.355|0.296
+1149,apple wins patent ruling against samsung in u s  appeals court,2015-09-17 00:00:00,alb,Kaggle,0.0|0.684|0.316|0.5719
+1150,samsung to make new smartwatch available to competition,2015-09-03 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1151,huawei takes aim at apple  samsung with mate s phone,2015-09-02 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1152,samsung electronics unveils high end phones in search of sales boost,2015-08-13 00:00:00,alb,Kaggle,0.0|0.787|0.213|0.4019
+1153,samsung glamour days over as it fights to save mobile market share,2015-08-04 00:00:00,alb,Kaggle,0.138|0.41|0.451|0.7269
+1154,samsung can halt smartflash patent infringement trial  u s  appeals court,2015-07-30 00:00:00,alb,Kaggle,0.279|0.721|0.0|-0.4767
+1155,samsung electronics cautious on second half  capital returns disappoint,2015-07-30 00:00:00,alb,Kaggle,0.369|0.631|0.0|-0.4767
+1156,samsung elec to bring forward key smartphone launch  source,2015-07-10 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1157,samsung electronics profit guidance suggests costly s6 miss  ,2015-07-07 00:00:00,alb,Kaggle,0.275|0.459|0.266|0.2263
+1158,samsung elec s new smartwatch to offer mobile payments  electronic times,2015-06-07 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1159,samsung elec s galaxy s6 april sales suggest good start  researcher,2015-06-02 00:00:00,alb,Kaggle,0.0|0.756|0.244|0.4404
+1160,alcoa supplying aerospace aluminum for samsung galaxy 6 phones,2015-06-04 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1161,apple gets partial win on appeal in samsung patent case,2015-05-18 00:00:00,alb,Kaggle,0.0|0.703|0.297|0.5859
+1162,samsung electronics tips better second quarter  though cautious on outlook ,2015-04-28 00:00:00,alb,Kaggle,0.114|0.65|0.236|0.3612
+1163,samsung elec overtook apple as top smartphone maker in first quarter  strategy analytics,2015-04-28 00:00:00,alb,Kaggle,0.0|0.87|0.13|0.2023
+1164,samsung creates team to make screens for apple devices  bloomberg,2015-04-15 00:00:00,alb,Kaggle,0.0|0.811|0.189|0.2732
+1165,samsung expects profits to decline more than 30  from 1q of 2014 ,2015-04-07 00:00:00,alb,Kaggle,0.0|0.791|0.209|0.4404
+1166,apple edges out samsung in global smartphone sales  gartner,2015-03-03 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1167,judges wary of apple s claims of phone patent harm by samsung,2015-03-04 00:00:00,alb,Kaggle,0.259|0.741|0.0|-0.5423
+1168,samsung unveils sleek new galaxy phones to battle apple,2015-03-02 00:00:00,alb,Kaggle,0.245|0.755|0.0|-0.3818
+1169,samsung elec to freeze salaries in south korea for first time since 2009,2015-02-26 00:00:00,alb,Kaggle,0.0|0.909|0.091|0.0516
+1170,samsung electronics earmarking cash for growth  including ma,2015-02-17 00:00:00,alb,Kaggle,0.0|0.729|0.271|0.3818
+1171,samsung to buy mobile payment service provider looppay,2015-02-18 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1172,amid mobile slump  samsung needs more outside customers for its chips and panels,2015-02-09 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1173,samsung display to invest  3 6 billion in new oled production line,2015-02-11 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1174,samsung electronics fourth quarter profit meets guidance  outlook cautious,2015-01-28 00:00:00,alb,Kaggle,0.124|0.619|0.257|0.3612
+1175,iphone 6 hands apple record share of samsung s home market,2015-01-22 00:00:00,alb,Kaggle,0.0|0.784|0.216|0.296
+1176,samsung electronics to be main chip supplier for next iphone  south korea paper,2015-01-25 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1177,exclusive  samsung talks to blackberry about  7 5 billion buyout   source,2015-01-15 00:00:00,alb,Kaggle,0.0|0.842|0.158|0.128
+1178,samsung electronics ponders stock split to appease investors  executive,2015-01-19 00:00:00,alb,Kaggle,0.0|0.792|0.208|0.2732
+1179,samsung drops qualcomm processors in next galaxy s  report,2015-01-21 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1180,samsung electronics says new smart tvs in 2015 to run tizen platform,2014-12-31 00:00:00,alb,Kaggle,0.0|0.803|0.197|0.4019
+1181,tizen tv no substitute for samsung s long awaited answer to android,2014-12-25 00:00:00,alb,Kaggle,0.268|0.732|0.0|-0.3182
+1182,samsung electronics exits fibre optics amid sharper focus on reviving smartphones,2014-12-02 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1183,samsung mobile executives to leave after profit slide  source,2014-12-03 00:00:00,alb,Kaggle,0.108|0.631|0.261|0.4019
+1184,samsung asks appeals court to throw out  930 million damages in apple infringement case,2014-12-04 00:00:00,alb,Kaggle,0.333|0.667|0.0|-0.7184
+1185,samsung electronics mobile chief survives reshuffle despite weak figures,2014-12-01 00:00:00,alb,Kaggle,0.0|0.769|0.231|0.3412
+1186,samsung electronics chases curved smartphone wave to beat flat screen crowd,2014-11-14 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1187,samsung says microsoft deal invites  charges of collusion   filing,2014-10-31 00:00:00,alb,Kaggle,0.208|0.792|0.0|-0.2732
+1188,samsung seeks smartphone revamp to arrest profit slide,2014-10-30 00:00:00,alb,Kaggle,0.212|0.531|0.257|0.128
+1189,samsung galaxy note 4 release  3 stocks to profit off of its success,2014-08-23 00:00:00,alb,Kaggle,0.0|0.577|0.423|0.765
+1190,samsung s next reinvention challenge  itself ,2014-08-06 00:00:00,alb,Kaggle,0.0|0.755|0.245|0.0772
+1191,samsung electronics  apple call end to patents war outside u s ,2014-08-05 00:00:00,alb,Kaggle,0.328|0.672|0.0|-0.5994
+1192,in china  apple s focus pays off while samsung feels squeeze,2014-07-24 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1193,samsung case shows difficulty of holding supply chains to standards,2014-07-14 00:00:00,alb,Kaggle,0.211|0.789|0.0|-0.34
+1194,samsung battles on two fronts as apple readies iphone 6,2014-07-16 00:00:00,alb,Kaggle,0.245|0.755|0.0|-0.3818
+1195,apple headed for  115 a share as its iphone sales outpace rival samsung  analyst ,2014-07-03 00:00:00,alb,Kaggle,0.0|0.845|0.155|0.296
+1196,samsung electronics faces falling profits as succession looms,2014-07-06 00:00:00,alb,Kaggle,0.269|0.336|0.395|0.3612
+1197,which samsung smartphones could be permanently banned  full list following apple s motion for retrial,2014-05-24 00:00:00,alb,Kaggle,0.188|0.812|0.0|-0.4588
+1198,jury reaches verdict in apple samsung patents trial,2014-05-05 00:00:00,alb,Kaggle,0.0|0.682|0.318|0.2023
+1199,apple explains why samsung owes it  2 2b,2014-04-09 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1200,google might pay samsung  3 5 billion in licensing fees this year,2017-08-16 00:00:00,alb,Kaggle,0.135|0.865|0.0|-0.1027
+1201,is samsung scraping its bixby powered speakers project ,2017-07-20 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1202,praxair starts 3rd plant for samsung s tangjeong facility,2017-07-13 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1203,samsung revamps note 7  to be available only in south korea,2017-07-09 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1204,samsung reports record quarterly earnings,2017-07-07 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1205,is samsung  ssnlf  working on a bixby powered ai speaker ,2017-07-04 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1206,apple s india woes continue  samsung to ramp up production,2017-06-07 00:00:00,alb,Kaggle,0.266|0.734|0.0|-0.4404
+1207,which is a better buy   apple s iphone 7 or samsung s8 ,2017-04-11 00:00:00,alb,Kaggle,0.0|0.734|0.266|0.4404
+1208,does samsung s new galaxy phones have the best battery ,2017-04-11 00:00:00,alb,Kaggle,0.0|0.656|0.344|0.6369
+1209,will the galaxy s8 help samsung recover from its pr headaches  ,2017-04-11 00:00:00,alb,Kaggle,0.0|0.787|0.213|0.4019
+1210,samsung retakes top spot in global smartphone sales race,2017-04-11 00:00:00,alb,Kaggle,0.0|0.816|0.184|0.2023
+1211,apple  aapl  faces a setback as scotus favors samsung ,2016-12-06 00:00:00,alb,Kaggle,0.0|0.778|0.222|0.25
+1212,future uncertain for samsung  ssnlf  as company considers split,2016-11-29 00:00:00,alb,Kaggle,0.216|0.784|0.0|-0.296
+1213,harman  har  to be acquired by samsung for  8b in cash,2016-11-13 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1214,is samsung s pain apple s gain  etfs in focus,2016-10-19 00:00:00,alb,Kaggle,0.26|0.472|0.268|0.0258
+1215,why korea etf investors will pay for samsung s mistake,2016-09-14 00:00:00,alb,Kaggle,0.352|0.648|0.0|-0.4215
+1216,as samsung halts shipments of the note 7  will it lose ground ,2016-08-31 00:00:00,alb,Kaggle,0.213|0.787|0.0|-0.4019
+1217,can blackberry catch up to apple or samsung ,2016-04-01 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1218,qualcomm shares fall amidst rumors losing deal with samsung,2015-01-22 00:00:00,alb,Kaggle,0.22|0.593|0.186|-0.1027
+1219,synaptics shares drop amid rumors of samsung contract loss,2015-01-04 00:00:00,alb,Kaggle,0.349|0.476|0.175|-0.296
+1220, apple vs  samsung  further evidence on innovation as a way of living ,2013-01-27 00:00:00,alb,Kaggle,0.0|0.794|0.206|0.3818
+1221,vw to reshuffle  56 billion battery push as samsung deal at risk,2019-05-27 00:00:00,alb,Kaggle,0.16|0.84|0.0|-0.2732
+1222,recharge  lg and samsung take heart as china flags more open car battery market,2018-12-19 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1223,the information  google  qualcomm  samsung teaming on open source chip,2018-03-26 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1224,tesla ceo says may source samsung battery for energy storage products,2016-06-08 00:00:00,alb,Kaggle,0.0|0.826|0.174|0.2732
+1225,samsung sdi making progress in talks with tesla to supply batteries  source,2016-06-07 00:00:00,alb,Kaggle,0.0|0.797|0.203|0.4215
+1226,microsoft  samsung settle contract dispute over patents,2015-02-11 00:00:00,alb,Kaggle,0.31|0.69|0.0|-0.4019
+1227,microsoft  samsung settle contract dispute over patents,2015-02-09 00:00:00,alb,Kaggle,0.31|0.69|0.0|-0.4019
+1228,microsoft sues samsung in u s  over patent royalties,2014-08-01 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1229,wrapup 3 qimonda  samsung hit by chip market crash,2009-01-23 00:00:00,alb,Kaggle,0.278|0.722|0.0|-0.4019
+1230,delta  potbelly  intel  samsung and advanced micro highlighted as zacks bull and bear of the day,2019-07-23 00:00:00,alb,Kaggle,0.0|0.882|0.118|0.25
+1231,no samsung phones  nike uniforms for north koreans  sanctions cloud olympic perks,2018-02-02 00:00:00,alb,Kaggle,0.167|0.833|0.0|-0.296
+1232,samsung s woes highlight explosive limits of lithium batteries,2016-10-12 00:00:00,alb,Kaggle,0.257|0.531|0.212|-0.128
+1233,rovio spin off brings 5g gaming to samsung devices in south korea,2019-04-05 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1234,samsung  omnitracs expand tablet offering for u s  truck fleets,2017-10-19 00:00:00,alb,Kaggle,0.0|0.753|0.247|0.3182
+1235,dolby  samsung tie up to bring dolby atmos on mobile devices,2018-02-25 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1236,oculus and samsung unveil new gear vr for  99,2015-09-24 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1237,after meager 2019  samsung s modest chip recovery outlook falls flat,2020-01-30 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1238,qualcomm   samsung tie up for latest snapdragon chipset,2016-11-20 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1239,qualcomm  will samsung make snapdragon 830 processors ,2016-10-07 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1240,samsung elec says open to m a for home appliances business,2016-01-24 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1241,samsung electronics held talks with ge for appliances business  yonhap,2016-01-15 00:00:00,alb,Kaggle,0.0|1.0|0.0|0.0
+1242,amdocs partners with samsung  fortifies footing in nfv market,2019-09-12 00:00:00,lthm,Kaggle,0.0|1.0|0.0|0.0
+1243,main suppliers hold places in samsung galaxy s8 phone,2017-04-18 00:00:00,lthm,Kaggle,0.0|1.0|0.0|0.0
+1244,samsung s chairman arrested causing leadership crisis,2017-02-19 00:00:00,lthm,Kaggle,0.643|0.357|0.0|-0.802
+1245,global payments buoys mobile money transfer via samsung pay,2019-10-09 00:00:00,lthm,Kaggle,0.149|0.851|0.0|-0.1027
+1246,qualcomm samsung axis brings 5g to the masses as huawei struggles,2019-09-06 00:00:00,lthm,Kaggle,0.2|0.8|0.0|-0.3612
+1247,verizon opens pre orders for samsung 5g phone  adds 20 more cities,2019-04-25 00:00:00,lthm,Kaggle,0.0|1.0|0.0|0.0
+1248,qualcomm collaborates with samsung   sprint to woo customers,2018-06-04 00:00:00,lthm,Kaggle,0.0|0.693|0.307|0.4767
+1249,worldwide ar vr market up 25 5  in q2  samsung leads,2017-09-05 00:00:00,lthm,Kaggle,0.0|1.0|0.0|0.0
+1250,digitimes  samsung lowers tv shipment estimates while sony  lg flourish,2017-08-03 00:00:00,lthm,Kaggle,0.143|0.857|0.0|-0.128
+1251,update 5 samsung sees tough outlook  q1 hits 2 yr low on tvs,2011-04-28 00:00:00,lthm,Kaggle,0.286|0.714|0.0|-0.3818
+1252,update 5 apple sues samsung  says stop copying us,2011-04-18 00:00:00,lthm,Kaggle,0.239|0.761|0.0|-0.296
+1253,samsung elec s q1 profit may disappoint  chip outlook positive,2011-04-06 00:00:00,lthm,Kaggle,0.178|0.395|0.428|0.5859
+1254,preview samsung s q1 profit may disappoint but chip outlook positive,2011-04-05 00:00:00,lthm,Kaggle,0.118|0.446|0.436|0.7184
+1255,air products to build two more plants for samsung,2018-01-03 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1256,air products secures supply contracts from samsung display,2018-01-29 00:00:00,lac,Kaggle,0.0|0.753|0.247|0.3182
+1257,air products to supply gas to samsung electronics,2014-11-14 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1258,marketpulse  semis slip as samsung s profit warning indicates more pain ahead,2019-01-08 00:00:00,lac,Kaggle,0.355|0.474|0.172|-0.4754
+1259,samsung electronics says profit fall likely milder than forecasts as chip prices bottom out,2020-01-07 00:00:00,lac,Kaggle,0.0|0.818|0.182|0.4404
+1260,samsung to launch galaxy fold in south korea on sept  6 priced  2 000,2019-09-05 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1261,asian shares mostly up ahead of wyoming  samsung s chief verdict awaited,2017-08-25 00:00:00,lac,Kaggle,0.085|0.62|0.295|0.4019
+1262,amd radeon graphics to enhance samsung smartphone experience ,2019-06-03 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1263,fiat chrysler picks google  samsung for global connected car system,2019-04-30 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1264,samsung biologics  shares slide again  unit s valuation jump questioned,2018-05-03 00:00:00,lac,Kaggle,0.132|0.66|0.208|0.2023
+1265,samsung c t mulling raising up to  2 8 bln to buy stake in biopharma affiliate  mbc,2018-04-09 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1266,google and samsung  cute cats power serious  15 million cryptokitties round,2018-11-01 00:00:00,lac,Kaggle,0.098|0.677|0.226|0.4019
+1267,while samsung  smithbridge help gvk s coal project,2012-10-21 00:00:00,lac,Kaggle,0.0|0.69|0.31|0.4019
+1268,marriott partners with samsung   legrand  launches iot room,2017-11-14 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1269,samsung galaxy note 8 pre orders totaled 650k in 5 days,2017-09-12 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1270,samsung s connect home smart wi fi system starts preorders june 4,2017-06-01 00:00:00,lac,Kaggle,0.0|0.769|0.231|0.4019
+1271,oculus announces chromecast support for samsung s gear vr headset,2017-05-31 00:00:00,lac,Kaggle,0.0|0.748|0.252|0.4019
+1272,samsung electronics says to sell third tizen os smartphone in india,2016-08-23 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1273,vol spikes on analyst takeover talk  is samsung scared  ,2012-08-09 00:00:00,lac,Kaggle,0.266|0.734|0.0|-0.4404
+1274,samsung electronics unveils second tizen powered smartphone,2015-10-14 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1275,google  samsung to issue monthly android security fixes,2015-08-06 00:00:00,lac,Kaggle,0.0|0.745|0.255|0.34
+1276,seizing on huawei s troubles  samsung bets big on network gear,2019-02-15 00:00:00,lac,Kaggle,0.25|0.75|0.0|-0.4588
+1277,florida man sues samsung  says galaxy note 7 exploded,2016-09-16 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1278,samsung to offer financing to help to boost india smartphone sales,2019-09-26 00:00:00,lac,Kaggle,0.0|0.625|0.375|0.6597
+1279,samsung aims to double online smartphone sales in india,2019-05-29 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1280,samsung says expects  4 billion in indian sales of new smartphone range,2019-02-14 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1281,samsung to launch india first smartphones to counter chinese rivals,2019-01-13 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1282,sprint joins 5g smartphone bandwagon with samsung mobile,2019-01-07 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1283,nokia names samsung vet as new technologies president,2017-06-30 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1284,update 2 samsung eyes sale of hard disk drive unit   wsj,2011-04-17 00:00:00,lac,Kaggle,0.135|0.865|0.0|-0.1027
+1285,samsung  ibm launch platform to improve first responders  safety,2019-10-29 00:00:00,lac,Kaggle,0.0|0.551|0.449|0.6908
+1286,samsung appoints new cfo amid organizational changes,2017-11-02 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1287, samsung to leverage blockchain for shipping processes ,2018-04-17 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1288,swatch says samsung s smart watch faces breached its trademark,2019-02-26 00:00:00,lac,Kaggle,0.0|0.748|0.252|0.4019
+1289,foreign  korean investors duke it out over samsung electronics,2018-09-19 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1290,u s  hedge fund steps up campaign against  8 billion samsung asset shake up,2015-06-18 00:00:00,lac,Kaggle,0.129|0.682|0.189|0.2023
+1291,investment banks jockey for  100 million samsung restructuring bonanza,2014-07-02 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1292,samsung back in favor as moon tries to kick start korean economy,2018-09-17 00:00:00,lac,Kaggle,0.0|0.803|0.197|0.4019
+1293,u s  tells consumers to stop using fire prone samsung phones,2016-09-10 00:00:00,lac,Kaggle,0.397|0.603|0.0|-0.5574
+1294,janssen files suit in u s  to block sale of samsung bioepis  remicade copy,2017-05-19 00:00:00,lac,Kaggle,0.209|0.791|0.0|-0.4404
+1295,truckmaker volvo beats expectations  picks samsung for batteries,2019-07-18 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1296,audi to develop batteries for electric suvs with samsung sdi  lg chem,2015-08-13 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1297,samsung says to shut down u s  cpu research division,2019-11-05 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1298,amd shares rise on mobile graphics tie up with samsung,2019-06-03 00:00:00,lac,Kaggle,0.0|0.804|0.196|0.296
+1299, how sirin labs  blockchain phone stacks up to the samsung galaxy s9 ,2018-05-11 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1300,china approves hp s  1 1 billion buy of samsung s printer business with curbs,2017-10-06 00:00:00,lac,Kaggle,0.0|0.787|0.213|0.4019
+1301,hanjin shipping funding plan faces further delay  samsung tries to recover goods,2016-09-09 00:00:00,lac,Kaggle,0.173|0.827|0.0|-0.3182
+1302,samsung electronics creates new contract chip manufacturing division,2017-05-12 00:00:00,lac,Kaggle,0.0|0.769|0.231|0.2732
+1303,qualcomm extends samsung electronics collaboration for 10nm  snapdragon 835 manufacture,2016-11-17 00:00:00,lac,Kaggle,0.0|0.857|0.143|0.128
+1304,samsung electronics to make qualcomm snapdragon 830 chips  electronic times,2016-10-04 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1305,samsung elec says it started mass production of 10 nanometre chips,2016-10-16 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1306,u s  trade body declines nvidia s review petition against samsung,2015-12-15 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1307,samsung electronics to use qualcomm chips for some galaxy s7 phones  electronic times,2015-10-01 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1308,samsung did not infringe nvidia graphics chip patents  u s  itc,2015-10-09 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1309,samsung expects record galaxy shipments  supply constraints   ,2015-04-09 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1310,kim could make north korea samsung s new backyard,2018-05-13 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1311,samsung electronics shares drop after morgan stanley cuts view  sees chip boom peaking,2017-11-27 00:00:00,lac,Kaggle,0.261|0.606|0.133|-0.2732
+1312,samsung s  2 000 galaxy fold sparks mixed comments,2019-02-21 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1313,nikkei 225 jumps in asian trade  investors focus on samsung outlook,2017-10-13 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1314,update 2 daiwa  samsung sec prosper but competitive threat seen,2009-10-30 00:00:00,lac,Kaggle,0.337|0.513|0.15|-0.5499
+1315,ericsson  samsung gain share in network gear as zte slumps,2018-08-23 00:00:00,lac,Kaggle,0.0|0.588|0.412|0.6808
+1316,verizon s oath signs distribution deal with samsung,2018-05-01 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1317,samsung to disable note 7 phones in the u s  via software update,2016-12-09 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1318,samsung halts note 7 production after new fire scare  source,2016-10-10 00:00:00,lac,Kaggle,0.444|0.556|0.0|-0.6808
+1319,samsung says will soon patch galaxy s10 fingerprint recognition problem,2019-10-17 00:00:00,lac,Kaggle,0.231|0.769|0.0|-0.4019
+1320,at t rolls out 5g handsets with samsung  seeks more market,2019-06-13 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1321,replacement samsung note 7 phone emits smoke on u s  plane  family,2016-10-06 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1322,samsung investigates reports of heat problems with replacement note 7 phones,2016-10-09 00:00:00,lac,Kaggle,0.231|0.769|0.0|-0.4019
+1323,"spotlight on walmart, samsung and cagny (stocks to watch podcast)",2019-02-17 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1324,"stocks to watch: spotlight on walmart, samsung and cagny",2019-02-16 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1325,synaptics fingerprint tech said in new samsung galaxy,2014-02-19 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1326,abb-samsung sdi pen mou to boost microgrid solutions - analyst blog,2015-03-27 00:00:00,lac,Kaggle,0.0|0.645|0.355|0.5267
+1327,"samsung, tesla, solar firms pursue battery microgrids",2015-03-26 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1328,samsung taps battery microgrid after solarcity-tesla,2015-03-25 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1329,"abb, samsung sdi partner to develop microgrid market",2015-03-25 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1330,google's lollipop update on more samsung s5 models soon - analyst blog,2014-12-31 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1331,alcoa colorkast debuts with samsung - analyst blog,2012-06-28 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1334,apple supplier tsm lingers in buy zone on nixed samsung rivalry,2016-07-13 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1339,"iva international fund buys airbus se, kt&g corp, bureau veritas sa, sells samsung ...",2017-06-01 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1340,"charles de vaulx buys ralph lauren corp, kt&g corp, kangwon land inc, sells samsung ...",2017-06-01 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1341,"charles de vaulx buys bureau veritas sa, cvs health, airbus group se, sells samsung electronics ...",2017-03-01 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1342,"micron ticks higher, chip equipment firms slump on samsung dram report",2015-03-18 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1345,"week in review: nasdaq tested, samsung feels heat, big banks report earnings",2016-10-14 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1346,"nok/alu down over 11% after samsung ruling; bofa, canaccord downgrade nok",2016-02-01 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1347,samsung deal fizzles nokia's patent sales forecast,2016-02-01 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1348,"leap's ""muve"" on samsung vitality - analyst blog",2011-09-09 00:00:00,lac,Kaggle,0.0|0.723|0.277|0.3182
+1349,anadigics' proeficient-plus powers samsung galaxy note 4 - analyst blog,2014-10-09 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1350,anadigics to power samsung's galaxy s 5 - analyst blog,2014-04-17 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1351,anadigics to power samsung tablets - analyst blog,2014-03-28 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1352,anadigics amplifiers to power samsung - analyst blog,2013-07-02 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1353,anad supplies for new samsung phone - analyst blog,2012-10-05 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1354,anadigics ships to samsung - analyst blog,2011-06-10 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1355,"the yacktman fund cuts samsung, pepsico",2020-05-08 00:00:00,lac,Kaggle,0.306|0.694|0.0|-0.296
+1359,"intel is now a threat to tsmc, globalfoundries and samsung",2016-08-17 00:00:00,lac,Kaggle,0.298|0.702|0.0|-0.5267
+1360,qualcomm and samsung built cheaper alternatives to iphone 6,2016-06-06 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1361,intel overshadowed by samsung at mobile world congress,2015-03-03 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1362,nokia: one step closer to a positive samsung settlement?,2015-02-13 00:00:00,lac,Kaggle,0.0|0.66|0.34|0.5574
+1363,"apple: in the smartphone race, samsung has already lost",2015-01-29 00:00:00,lac,Kaggle,0.223|0.777|0.0|-0.3182
+1364,samsung doesn't need qualcomm,2015-01-26 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1365,"intel shares up on samsung tablet win, stock upgrade",2013-06-03 00:00:00,lac,Kaggle,0.0|0.538|0.462|0.7184
+1366,samsung said to pick intel chips for new galaxy tablet,2013-05-31 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1367,"samsung galaxy s4 tops week's 5 big smartphone, tablet developments",2013-03-16 00:00:00,lac,Kaggle,0.0|0.708|0.292|0.5106
+1369,qualcomm seen as key beneficiary of samsung galaxy s4,2013-03-14 00:00:00,lac,Kaggle,0.0|0.721|0.279|0.4767
+1370,samsung u.s. shuns windows rt: report,2013-01-11 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1372,samsung to sell tizen-based phone - analyst blog,2013-01-09 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1373,maxim socs in samsung siii - analyst blog,2012-06-20 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1374,"tessera, samsung sign patent deal - analyst blog",2014-02-07 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1375,"arrow, samsung make deal - analyst blog",2011-03-17 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1376,micron: dram technology leadership as samsung and sk hynix push out euv,2019-10-22 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1377,"samsung electronics 2018 capex could be bad for competitors, great for suppliers",2018-01-22 00:00:00,lac,Kaggle,0.199|0.568|0.233|0.1531
+1378,samsung sells off shares in four tech firms,2016-09-18 00:00:00,lac,Kaggle,0.0|0.761|0.239|0.296
+1379,"lam-kla merger hampered by likely samsung, hitachi objections",2016-08-11 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1380,"apple iphone, samsung galaxy oled swap may juice applied materials",2016-05-20 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1381,"qualcomm, samsung seen in globalfoundries bid battle",2015-11-30 00:00:00,lac,Kaggle,0.302|0.698|0.0|-0.3818
+1382,samsung and microsoft are key catalysts for atmel,2014-05-20 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1383,atmel's solution for samsung - analyst blog,2012-11-28 00:00:00,lac,Kaggle,0.0|0.685|0.315|0.3182
+1384,atmel to power samsung touchscreen - analyst blog,2012-09-13 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1385,samsung selects atmel maxtouch - analyst blog,2011-08-02 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1386,atmel powers samsung's tablet - analyst blog,2011-06-20 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1387,"xilinx (xlnx) adds samsung to clientele, boosts 5g presence",2020-04-17 00:00:00,lac,Kaggle,0.0|0.777|0.223|0.3182
+1388,apple (aapl) to enter samsung-dominated 5g handset market,2020-01-03 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1389,tumble in samsung profit forecast hits chip sector,2019-07-05 00:00:00,lac,Kaggle,0.0|0.707|0.293|0.4404
+1390,qcom earnings concern broadcom; samsung deal could help antitrust appeal,2018-02-01 00:00:00,lac,Kaggle,0.0|0.769|0.231|0.4019
+1393,"samsung, fitbit join ny transit payment system",2019-05-31 00:00:00,lac,Kaggle,0.0|0.732|0.268|0.296
+1394,"samsung group to merge major units, aims to restructure - analyst blog",2015-05-27 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1396,"life fitness presents at samsung developer conference, bluetooth(r) connectivity debuts",2014-11-12 00:00:00,lac,Kaggle,0.0|0.811|0.189|0.2732
+1397,"yacktman fund buys cognizant technology solutions corp, infosys, sells samsung electronics co, ...",2017-07-18 00:00:00,lac,Kaggle,0.0|0.876|0.124|0.1779
+1400,"medtronic, samsung to jointly develop diabetes mobile app - analyst blog",2015-06-09 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1401,office depot adds samsung smart printers to product line - analyst blog,2014-07-15 00:00:00,lac,Kaggle,0.0|0.787|0.213|0.4019
+1402,"barnes & noble, samsung partner to make nook tablets",2014-06-05 00:00:00,lac,Kaggle,0.0|0.7|0.3|0.4588
+1403,"apple, amazon trail samsung, asus in tablet growth",2013-01-31 00:00:00,lac,Kaggle,0.0|0.583|0.417|0.5106
+1404,samsung galaxy s6 launch has chip investors on edge,2015-04-06 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1405,samsung gets rave reviews for galaxy s6,2015-04-01 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1406,qualcomm shares fall amid rumors losing deal with samsung,2015-01-22 00:00:00,lac,Kaggle,0.22|0.593|0.186|-0.1027
+1407,samsung galaxy 6 seen spurning qualcomm's snapdragon,2015-01-21 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1408,rambus & samsung ink 10-year deal - analyst blog,2014-01-06 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1409,"broadcom, other chipmakers to benefit from samsung galaxy s4",2013-03-15 00:00:00,lac,Kaggle,0.0|0.727|0.273|0.4588
+1410,"forget apple vs. samsung, qualcomm wins either way (qcom, aapl, brcm, intc)",2013-02-03 00:00:00,lac,Kaggle,0.122|0.641|0.237|0.4215
+1411,a surprising winner in the apple-samsung fight,2013-02-03 00:00:00,lac,Kaggle,0.226|0.261|0.513|0.5106
+1412,"apple shrinks broadcom sales view, samsung looms",2013-01-30 00:00:00,lac,Kaggle,0.211|0.789|0.0|-0.1531
+1413,"intel, samsung said to gain vs. 'fabless' chip rivals",2012-09-27 00:00:00,lac,Kaggle,0.0|0.702|0.298|0.5267
+1414,stock futures moderately lower; samsung deal lifts interdigital,2014-06-03 00:00:00,lac,Kaggle,0.239|0.761|0.0|-0.296
+1415,honeywell providing tech for samsung - analyst blog,2012-01-19 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1418,elliott management picks new fight with samsung,2016-10-06 00:00:00,lac,Kaggle,0.302|0.698|0.0|-0.3818
+1419,tivo refreshes license with samsung to aid customer relations,2018-12-06 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1420,hp: purchase of samsung's printer business is a solid move,2016-09-20 00:00:00,lac,Kaggle,0.0|0.833|0.167|0.1531
+1421,hp hopes to disrupt copier market with samsung printer purchase,2016-09-12 00:00:00,lac,Kaggle,0.0|0.763|0.237|0.4215
+1422,mastercard collaborates with samsung to boost digital access,2020-03-13 00:00:00,lac,Kaggle,0.0|0.722|0.278|0.4019
+1423,praxair-samsung bond grows stronger - analyst blog,2013-07-17 00:00:00,lac,Kaggle,0.0|0.658|0.342|0.3818
+1426,"apple roundup: negative preannouncement, samsung deal",2019-01-10 00:00:00,lac,Kaggle,0.425|0.575|0.0|-0.5719
+1429,qualcomm suffers a blow as samsung dumps 810 chipset - analyst blog,2015-01-21 00:00:00,lac,Kaggle,0.42|0.58|0.0|-0.7003
+1430,"apple, samsung rivalry heat up china smartphone war - analyst blog",2014-10-03 00:00:00,lac,Kaggle,0.302|0.698|0.0|-0.5994
+1433,"marriott partners with samsung & legrand, launches iot room",2017-11-15 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1436,will samsung note 4 early release hurt apple china sales? - analyst blog,2014-09-24 00:00:00,lac,Kaggle,0.254|0.746|0.0|-0.5267
+1437,"apple, samsung face slowing smartphone sales",2014-02-14 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1438,"qcom, samsung join forces - analyst blog",2013-11-25 00:00:00,lac,Kaggle,0.0|0.694|0.306|0.296
+1439,"apple leads in smartphone profit, but samsung gaining",2013-07-31 00:00:00,lac,Kaggle,0.0|0.515|0.485|0.6858
+1440,apple vs. samsung: more than meets the eye,2013-01-25 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1444,cigna to develop samsung's s health app. - analyst blog,2013-10-29 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1445,cinedigm partners with samsung to give viewers access to digital-first networks contv and dove ...,2018-12-18 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1446,"cobas asset management cobas selección fi buys aryzta ag, samsung c&t corp, owens-illinois ...",2018-11-12 00:00:00,lac,Kaggle,0.0|0.839|0.161|0.3612
+1451,week in review: korea's samsung biologics files for $2.5 billion ipo,2016-08-14 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1454,"cheetah mobile lost samsung, but there are other more relevant risks",2018-04-24 00:00:00,lac,Kaggle,0.344|0.656|0.0|-0.5744
+1457,blackberry-samsung sign deal for digital transformation,2018-06-28 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1458,samsung-ericsson legal settlement - analyst blog,2014-01-28 00:00:00,lac,Kaggle,0.0|0.727|0.273|0.128
+1463,nikkei: samsung spending $6.8b to boost oled capacity ahead of 2017 iphone launches,2016-06-17 00:00:00,lac,Kaggle,0.0|0.816|0.184|0.4019
+1467,"samsung galaxy s7: qualcomm, qorvo displace cirrus logic, broadcom",2016-03-07 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1468,infineon security chips protect samsung smartphones - analyst blog,2015-03-04 00:00:00,lac,Kaggle,0.0|0.545|0.455|0.6124
+1470,"csiq partners samsung, shares rise - analyst blog",2013-06-27 00:00:00,lac,Kaggle,0.0|0.732|0.268|0.296
+1471,wall street breakfast: samsung leadership in crisis?,2017-01-18 00:00:00,lac,Kaggle,0.406|0.594|0.0|-0.6249
+1475,"yacktman focused fund buys cognizant technology solutions corp, infosys, sells samsung ...",2017-07-18 00:00:00,lac,Kaggle,0.0|0.699|0.301|0.5106
+1476,"samsung to hike returns, review structure in latest elliott win",2016-11-28 00:00:00,lac,Kaggle,0.0|0.703|0.297|0.5859
+1479,"eyeing oled, samsung plans lcd spinoff",2012-02-20 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1480,air products seals samsung contract - analyst blog,2014-03-20 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1482,samsung electronics launches in-house operating system to challenge rivals,2015-01-07 00:00:00,lac,Kaggle,0.0|0.86|0.14|0.0772
+1485,quicklogic powers samsung's tablet - analyst blog,2013-08-12 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1488,dolby labs appoints samsung vet as cmo,2018-07-10 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1489,"dolby, samsung tie up to bring dolby atmos on mobile devices",2018-02-26 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1497,transocean calls off korea's samsung twin-drillship contract,2019-09-24 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1498,"the zacks analyst blog highlights: samsung, target and davita",2019-11-26 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1499,samsung's new phone; salesforce buys quip; instagram copying snapchat? - eye on tech,2016-08-02 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1500,masimo collaborates with samsung to help fight coronavirus,2020-04-20 00:00:00,lac,Kaggle,0.23|0.531|0.239|0.0258
+1501,samsung heavy in talks with eni to build mozambique lng platform,2016-07-21 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1503,"at&t rolls out 5g handsets with samsung, seeks more market",2019-06-13 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1507,"sales revenue of ceramic capacitors market —…—…| murata, samsung electro, tdk corporation",2020-01-29 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1508,court denies arrest warrant for samsung chief,2017-01-19 00:00:00,lac,Kaggle,0.51|0.49|0.0|-0.6369
+1509,samsung leadership in crisis?,2017-01-18 00:00:00,lac,Kaggle,0.577|0.423|0.0|-0.6249
+1510,korea etfs in focus on samsung's profit warning - etf news and commentary,2015-07-08 00:00:00,lac,Kaggle,0.157|0.654|0.19|0.128
+1511,samsung's lee apologizes for mers outbreak,2015-06-23 00:00:00,lac,Kaggle,0.0|0.667|0.333|0.3612
+1512,how to play samsung s6 sales,2015-04-05 00:00:00,lac,Kaggle,0.0|0.676|0.324|0.34
+1513,samsung is better positioned for long term growth than apple,2013-11-28 00:00:00,lac,Kaggle,0.0|0.593|0.407|0.6705
+1514,air products xi'an site to supply gas to samsung electronics - analyst blog,2014-11-13 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1515,bloomberg: samsung electronics in talks to acquire some or all of magneti marelli,2016-08-03 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1516,samsung acquires magna international's ev battery-pack,2015-02-27 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1517,"podcast: mwc 2018, samsung galaxy s9, qualcomm, intel, huawei 5g modems",2018-03-04 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1519,visa allies with samsung - analyst blog,2013-02-26 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1524,micron stockpiles after 'big cheese' samsung reportedly cuts orders,2016-03-31 00:00:00,lac,Kaggle,0.216|0.784|0.0|-0.296
+1527,"bristol-myers, samsung biologics extend ties - analyst blog",2014-04-23 00:00:00,lac,Kaggle,0.0|0.779|0.221|0.1779
+1528,"infineon technologies ag: automotive, samsung pay and emv",2015-03-09 00:00:00,lac,Kaggle,0.167|0.833|0.0|-0.1027
+1531,"podcast: apple-qualcomm, intel 5g, samsung galaxy fold",2019-04-21 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1532,"podcast: samsung developer conference, amd 7nm, google policies",2018-11-11 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1534,smartphone's market (new pdf) [review: —…—…-—…—9] | top players – samsung ...,2020-02-26 00:00:00,lac,Kaggle,0.0|0.833|0.167|0.2023
+1538,corning teams up with samsung for new galaxy alpha - analyst blog,2014-12-10 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1539,"cobas asset management cobas selección fi buys samsung electronics co, aryzta ag, lg corp, ...",2018-08-07 00:00:00,lac,Kaggle,0.0|0.848|0.152|0.3612
+1542,global payments buoys mobile money transfer via samsung pay,2019-10-09 00:00:00,lac,Kaggle,0.149|0.851|0.0|-0.1027
+1544,"samsung launches new smartwatch, fitness tracker",2019-02-20 00:00:00,lac,Kaggle,0.0|0.704|0.296|0.2732
+1547,"fitbit faces pricing pressure from samsung, other vendors",2016-06-03 00:00:00,lac,Kaggle,0.239|0.761|0.0|-0.296
+1548,spherical samsung gear s2 can still challenge the apple watch,2015-09-02 00:00:00,lac,Kaggle,0.0|0.874|0.126|0.0772
+1549,"samsung, under armour may team to fight apple iwatch",2014-07-16 00:00:00,lac,Kaggle,0.245|0.755|0.0|-0.3818
+1554,"samsung electronics, harman international merger waiting period granted early termination by ftc",2016-12-19 00:00:00,lac,Kaggle,0.0|0.846|0.154|0.25
+1555,that's the sound of samsung finding the perfect value play with real growth potential in harmon,2016-11-18 00:00:00,lac,Kaggle,0.0|0.519|0.481|0.8779
+1556,is samsung a buy after note 7 disaster?,2016-11-16 00:00:00,lac,Kaggle,0.451|0.549|0.0|-0.6249
+1557,should apple have bought harman instead of samsung?; amazon expands home services - eye on tech,2016-11-14 00:00:00,lac,Kaggle,0.0|0.807|0.193|0.2732
+1558,harman international +26% after samsung swoops in,2016-11-14 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1559,samsung moves into the connected car market,2016-11-14 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1562,synchrony financial cards to be compatible with samsung pay,2015-08-14 00:00:00,lac,Kaggle,0.149|0.851|0.0|-0.1027
+1563,harte hanks samsung partnership wins mobile marketing innovation award again,2016-03-24 00:00:00,lac,Kaggle,0.0|0.417|0.583|0.8689
+1567,"major players operating in the global pc monitor market —…—…| dell, samsung, hp",2020-01-31 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1571,air products expands gas supply for samsung's giheung site,2018-09-11 00:00:00,lac,Kaggle,0.0|0.851|0.149|0.1027
+1572,air products wins supply contract from samsung electronics,2018-02-05 00:00:00,lac,Kaggle,0.0|0.654|0.346|0.5719
+1573,air products secures supply contracts from samsung display,2018-01-30 00:00:00,lac,Kaggle,0.0|0.753|0.247|0.3182
+1587,"yacktman focused fund buys infosys, bollore sa, sells samsung electronics co",2017-10-16 00:00:00,lac,Kaggle,0.0|0.794|0.206|0.3818
+1593,samsung begins 7nm chip production: should amd & intel worry?,2020-02-20 00:00:00,lac,Kaggle,0.266|0.734|0.0|-0.4404
+1595,samsung electro-mechanics: waiting means missed opportunity,2019-10-31 00:00:00,lac,Kaggle,0.244|0.444|0.311|0.1531
+1596,samsung embraces intel project athena vision,2019-10-30 00:00:00,lac,Kaggle,0.0|0.714|0.286|0.25
+1597,"vc deals: microsoft, samsung back ai translation",2019-09-27 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1598,"delta, potbelly, intel, samsung and advanced micro highlighted as zacks bull and bear of the day",2019-07-23 00:00:00,lac,Kaggle,0.0|0.882|0.118|0.25
+1599,"dow jones falls on strong job growth in june, samsung profit warning",2019-07-05 00:00:00,lac,Kaggle,0.125|0.417|0.458|0.7506
+1601,"podcast: samsung galaxy fold, microsoft, amazon, intel earnings, ibm iot exchange",2019-04-28 00:00:00,lac,Kaggle,0.0|0.855|0.145|0.1779
+1603,samsung increases 5g modem production,2019-04-09 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1604,micron +4.5% on potential samsung dram issues,2019-03-29 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1605,samsung electronics: shares move ahead of earnings as infrastructure investment cycle begins,2019-02-01 00:00:00,lac,Kaggle,0.0|0.833|0.167|0.296
+1606,"reuters: apple eyed samsung, mediatek for 2019 iphone modems",2019-01-11 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1609,invensense: not all apple and samsung,2016-03-10 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1611,"invensense upgraded on apple, samsung, xiaomi sales",2015-04-14 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1613,"invensense +4.7%; sa author likes new products, apple/samsung momentum",2015-03-11 00:00:00,lac,Kaggle,0.0|0.741|0.259|0.4215
+1614,did invensense make a faustian bargain with apple and samsung?,2015-02-03 00:00:00,lac,Kaggle,0.0|0.816|0.184|0.2023
+1617,"know striking factors of camera modules market —…—…| lg electronics, samsung ...",2020-01-28 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1618,"roomba maker irobot facing increased competition from lg, samsung",2017-01-09 00:00:00,lac,Kaggle,0.0|0.792|0.208|0.2732
+1628,"memc, samsung deal: who wins, who loses?",2011-02-16 00:00:00,lac,Kaggle,0.209|0.455|0.336|0.34
+1633,"kla shares plunge on analyst downgrade, samsung concern",2018-06-25 00:00:00,lac,Kaggle,0.0|0.761|0.239|0.296
+1639,"apple wins, samsung loses; amazon going curbside?; twilio's good results - eye on tech",2016-10-11 00:00:00,lac,Kaggle,0.117|0.459|0.423|0.7184
+1640,kt and samsung medical center to build 5g smart hospital,2020-01-20 00:00:00,lac,Kaggle,0.0|0.769|0.231|0.4019
+1641,shares of universal display rise on solid samsung s6 sales - analyst blog,2015-04-16 00:00:00,lac,Kaggle,0.0|0.725|0.275|0.4215
+1644,samsung and apple - from enemies to friends,2015-04-16 00:00:00,lac,Kaggle,0.283|0.442|0.274|-0.0258
+1645,apple now sets foot in samsung's home turf,2015-02-05 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1646,smart appliances the new focus of samsung,2015-01-24 00:00:00,lac,Kaggle,0.0|0.69|0.31|0.4019
+1647,samsung on its way to restructuring its production strategy,2014-10-31 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1652,"logitech peripherals for samsung, esports - analyst blog",2014-06-13 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1653,samsung tunes in to google tv,2011-11-22 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1654,"samsung, google (goog) in final stages of talks for web tv",2011-11-22 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1655,korea herald: samsung will quadruple iphone oled output in 2018,2017-12-20 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1656,samsung tops q3 smartphone panel market,2017-11-22 00:00:00,lac,Kaggle,0.0|0.602|0.398|0.5106
+1657,"samsung and lg move to ald for flexible oleds, could push applied materials out of the market",2016-09-29 00:00:00,lac,Kaggle,0.0|0.894|0.106|0.2263
+1658,samsung to keep tight grip on oled display supply near term,2016-09-28 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1660,samsung reportedly plans big oled tv panel investments; universal display gains,2016-02-18 00:00:00,lac,Kaggle,0.0|0.806|0.194|0.34
+1661,samsung/lg reportedly supplying oleds for iphones; universal display rises,2015-12-30 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1662,"the zacks analyst blog highlights: apple, lg display, siliconware precision industries, samsung electronics and united microelectronics - press releases",2015-06-09 00:00:00,lac,Kaggle,0.0|0.859|0.141|0.4215
+1663,apple might copy samsung with oled phone displays,2015-05-22 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1664,"apple collaborates with rival samsung for screen, chip - analyst blog",2015-04-16 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1665,"samsung commits $3.6b to oled line, creates advanced tech unit",2015-02-11 00:00:00,lac,Kaggle,0.0|0.574|0.426|0.4939
+1667,"corning climbs on apple, samsung phone-screen demand",2012-11-27 00:00:00,lac,Kaggle,0.2|0.8|0.0|-0.128
+1668,new apple iphone might copy samsung's larger display,2012-05-16 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1672,"amazon appoints 2 more 'ceos', and samsung cuts prices to win share",2016-04-08 00:00:00,lac,Kaggle,0.13|0.414|0.456|0.6705
+1680,"corning eyes asia, buys samsung fiber-optics unit",2014-12-03 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1681,mobile telesystems to open samsung-branded retail in russia,2016-04-21 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1689,samsung deploys synopsys product - analyst blog,2013-09-05 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1695,samsung unveils new smartphone to challenge iphone,2012-05-03 00:00:00,lac,Kaggle,0.0|0.822|0.178|0.0772
+1696,samsung offering bigger battery for new galaxy nexus buyers,2012-04-02 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1697,apple vs samsung: war continues - analyst blog,2012-03-05 00:00:00,lac,Kaggle,0.394|0.606|0.0|-0.5994
+1699,samsung wins latest round against apple in court,2011-11-30 00:00:00,lac,Kaggle,0.0|0.654|0.346|0.5719
+1700,"samsung galaxy s ii: nice smartphone, but time isn't on its side",2011-10-31 00:00:00,lac,Kaggle,0.0|0.84|0.16|0.2263
+1702,"apple, samsung eclipse nokia",2011-07-29 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1704,"nxp semiconductors rides apple, samsung to new highs",2015-01-27 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1706,"marvell, samsung partner for 5g infrastructure",2019-02-25 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1707,"semiconductors finishing day strong after amd, samsung reports",2018-01-31 00:00:00,lac,Kaggle,0.0|0.68|0.32|0.5106
+1708,is samsung scraping its bixby-powered speakers project?,2017-07-21 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1709,"china smartphone shipment drop hurts apple (aapl), samsung",2019-04-11 00:00:00,lac,Kaggle,0.464|0.536|0.0|-0.6369
+1711,samsung galaxy s5 plus - another star in the smartphone galaxy,2014-10-22 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1712,"apple, samsung phones rule",2012-08-06 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1715,"chipmaker qorvo gaps up thanks to apple, samsung",2015-05-07 00:00:00,lac,Kaggle,0.0|0.707|0.293|0.4404
+1717,semis green despite samsung caution,2019-04-30 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1718,samsung expects $5.3 billion profit hit from note 7 woes,2016-10-13 00:00:00,lac,Kaggle,0.227|0.547|0.227|0.0
+1719,maxim q4 guidance 'more impressive' on likely flat samsung sales,2016-04-22 00:00:00,lac,Kaggle,0.0|0.715|0.285|0.5563
+1726,netlist forms memory alliance with samsung; shares +69.7%,2015-11-19 00:00:00,lac,Kaggle,0.0|0.761|0.239|0.296
+1734,samsung galaxy gear unlikely to fuel smartwatch market,2013-09-05 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1740,universal display +2.6% on samsung oled tv report,2018-03-26 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1741,"universal display, samsung announce long-term oled agreements",2018-02-14 00:00:00,lac,Kaggle,0.0|0.741|0.259|0.2732
+1742,universal display discussing expired agreements with samsung,2018-01-02 00:00:00,lac,Kaggle,0.0|0.741|0.259|0.2732
+1743,"smartphone shake-up: samsung slips, china expands, iphone 8 pending",2016-11-17 00:00:00,lac,Kaggle,0.0|0.833|0.167|0.1027
+1745,"samsung might beat apple to bendable phones, but not in galaxy line",2016-06-07 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1748,"samsung working on 11k-resolution mobile displays, aims for 3d viewing",2015-07-10 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1751,universal display up 5% after samsung reports strong s6 sales,2015-04-15 00:00:00,lac,Kaggle,0.0|0.732|0.268|0.5106
+1753,universal display +6%; samsung reportedly ups s6 production,2015-03-12 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1754,"samsung launches s6 with metal/glass body, 2k display, new fingerprint sensor",2015-03-01 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1756,"samsung's q4 earnings: phones weak, chips and displays healthier",2015-01-28 00:00:00,lac,Kaggle,0.266|0.734|0.0|-0.4404
+1758,orange-samsung tie up - analyst blog,2013-10-07 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1764,samsung ruling hurts supplier,2012-08-27 00:00:00,lac,Kaggle,0.508|0.492|0.0|-0.4767
+1765,samsung screen maker universal display shares fall,2012-08-27 00:00:00,lac,Kaggle,0.0|0.732|0.268|0.296
+1768,samsung heavy to pay $75m settlement in petrobras bribery case,2019-11-26 00:00:00,lac,Kaggle,0.135|0.865|0.0|-0.1027
+1773,apple iphones' 'bulletproof' security drubs samsung in byod battle,2016-08-05 00:00:00,lac,Kaggle,0.217|0.583|0.2|-0.0516
+1776,"smartphones are important for samsung, but growth is elsewhere",2015-10-11 00:00:00,lac,Kaggle,0.0|0.593|0.407|0.5859
+1777,"apple, samsung may face reckoning like japan's firms",2012-12-04 00:00:00,lac,Kaggle,0.0|0.737|0.263|0.3612
+1778,apple pay vs. samsung's looppay? - analyst blog,2015-02-20 00:00:00,lac,Kaggle,0.189|0.811|0.0|-0.1027
+1779,apple drops on samsung's reveal,2014-09-04 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1782,parkervision reaches settlement with samsung: excellent buying opportunity,2016-07-19 00:00:00,lac,Kaggle,0.0|0.394|0.606|0.7717
+1783,parkervision settles patent fight with samsung; shares up 64%,2016-07-18 00:00:00,lac,Kaggle,0.22|0.593|0.186|-0.1027
+1784,"parkervision sues apple, samsung, others in itc complaint",2015-12-15 00:00:00,lac,Kaggle,0.239|0.761|0.0|-0.296
+1793,"apple-samsung battle in china to force qorvo, skyworks volatility",2016-05-11 00:00:00,lac,Kaggle,0.245|0.755|0.0|-0.3818
+1794,"apple, samsung need complex chips, antennas to juggle airwaves",2016-03-29 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1797,apple supplier nxp semi to equip samsung in china,2015-05-07 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1798,apple vs. samsung: this hot stock wins either way,2015-05-05 00:00:00,lac,Kaggle,0.0|0.684|0.316|0.5719
+1800,quicklogic: some insights into the next samsung wearable,2017-02-02 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1801,quicklogic announces production with samsung nx1 compact system camera,2014-11-04 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1812,"red hat, samsung partner on enterprise mobile apps/services",2015-06-23 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1830,"can samsung save radio shack (rsh, nok, msft, ssnlf)",2012-09-19 00:00:00,lac,Kaggle,0.0|0.714|0.286|0.4939
+1831,samsung galaxy s ii is a stellar smartphone,2011-09-29 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1838,sprint true mobile 5g network adds samsung galaxy s—… series on march 6,2020-02-11 00:00:00,lac,Kaggle,0.0|0.797|0.203|0.4215
+1842,"nobody wants twitter?; tesla's new product, samsung's striking out - eye on tech",2016-10-10 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1843,"sunday wrap: tesla's musk, alibaba-spielberg, opdivo flop, samsung woes",2016-10-09 00:00:00,lac,Kaggle,0.431|0.569|0.0|-0.6486
+1846,samsung's galaxy s4 smartphone off to fast start,2013-05-23 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1847,samsung electronics q4 profit jumps 50%; apple to open korea store,2017-01-05 00:00:00,lac,Kaggle,0.0|0.775|0.225|0.4404
+1848,can apple avoid being 'rimmed' by samsung?,2012-06-05 00:00:00,lac,Kaggle,0.268|0.732|0.0|-0.296
+1849,six flags renews vr collaboration with samsung,2017-02-08 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1852,"sk telecom names samsung, ericsson, nokia as 5g suppliers",2018-09-14 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1853,samsung's curved-glass phone looks like 'death-ray' building,2013-10-09 00:00:00,lac,Kaggle,0.0|0.706|0.294|0.3612
+1854,it begins: samsung shutters smartphone factory in south korea after virus outbreak,2020-02-23 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1861,"sandisk +6%; samsung reportedly ""keeping a close eye"" on sale efforts",2015-10-19 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1862,"micron, sandisk, sk hynix: why is samsung building a $23 billion fab?",2015-09-06 00:00:00,lac,Kaggle,0.0|0.769|0.231|0.4588
+1863,"what's the deal on ssds? a look at samsung, sndk, mu, intc, stx, wdc - analyst blog",2015-06-26 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1864,synopsys highlights tools certified for samsung's second-generation 10-nanometer process,2016-10-24 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1869,samsung headed for china agreement in likely ding to dram prices,2018-02-02 00:00:00,lac,Kaggle,0.0|0.758|0.242|0.4939
+1885,ge's print job; apple capitalizing on samsung's recall; social media mania - eye on tech,2016-09-06 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1890,synaptics may have lost a samsung design win,2015-01-02 00:00:00,lac,Kaggle,0.207|0.45|0.342|0.3612
+1892,statoil awards $888m platform contract to samsung heavy,2015-06-30 00:00:00,lac,Kaggle,0.0|0.7|0.3|0.4588
+1893,statoil & samsung in new fsu deal - analyst blog,2012-09-14 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1896,"semi -3.2%; sunedison, samsung unloading stakes",2015-06-25 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1902,"synaptics -5.6% on samsung electronics, precise biometrics arrangement; cowen and company considers oversold",2016-11-08 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1903,"wsj: samsung's galaxy s7 to sport pressure-sensitive display, high-speed charging",2015-12-14 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1906,synaptics closes up 3.1% after samsung fingerprint sensor report,2015-01-16 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1908,"synaptics soars on strong earnings, samsung traction",2014-08-01 00:00:00,lac,Kaggle,0.0|0.645|0.355|0.5106
+1909,this samsung supplier is a great buy,2014-07-22 00:00:00,lac,Kaggle,0.0|0.549|0.451|0.6249
+1910,why this samsung supplier is a good buy,2014-06-26 00:00:00,lac,Kaggle,0.0|0.674|0.326|0.4404
+1912,samsung galaxy s5 looks to dethrone apple iphone 5s,2014-02-21 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1914,"synaptics up on samsung phone boom, but could see swoon",2013-06-26 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1917,"yacktman focused fund reduces samsung, microsoft, sysco positions",2018-01-17 00:00:00,lac,Kaggle,0.0|0.729|0.271|0.3818
+1918,"yacktman focused fund buys bollore sa, sells samsung electronics co, microsoft corp, sysco corp",2018-01-16 00:00:00,lac,Kaggle,0.0|0.833|0.167|0.3818
+1922,us cellular (usm) to offer samsung galaxy note edge - analyst blog,2015-01-06 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1923,u.s. cellular unveils new samsung galaxy tab - analyst blog,2014-06-30 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1932,at&t smartphone suite to add samsung gear s this fall - analyst blog,2014-09-25 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1934,"htc, zte, blackberry defend against samsung, apple",2013-08-12 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1935,telefonica joins hands with samsung - analyst blog,2013-05-17 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1943,"tivo treads water after revenue beat, solid guidance; samsung sued",2015-09-09 00:00:00,lac,Kaggle,0.0|0.849|0.151|0.1531
+1946,"thomson reuters, samsung partner on offering for legal, financial sectors",2015-10-16 00:00:00,lac,Kaggle,0.0|0.857|0.143|0.128
+1949,"tech daily: aapl guidance cut, qcom chooses samsung, huawei restrictions, amzn climate fund",2020-02-18 00:00:00,lac,Kaggle,0.149|0.851|0.0|-0.2732
+1950,samsung electronics: a good start for a record-setting year,2019-11-01 00:00:00,lac,Kaggle,0.0|0.674|0.326|0.4404
+1951,samsung investing $116b in non-memory chips,2019-04-24 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1952,ibm taps samsung for 7nm processes,2018-12-20 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1953,iphone goes 7nm as samsung touts superior technology,2018-05-23 00:00:00,lac,Kaggle,0.104|0.566|0.33|0.5267
+1954,samsung will invest $6b in next-gen ics,2018-02-23 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1955,tsmc kicks off $24b chip project to hold off samsung,2018-01-26 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1956,apple/tsmc partnership leaves samsung out in the cold,2016-12-14 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1957,samsung electronics commences mass 10-nanometer processor fabrication,2016-10-17 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1958,capex cuts at samsung could cause pushouts in display equipment,2016-09-21 00:00:00,lac,Kaggle,0.196|0.804|0.0|-0.296
+1962,why would apple buy displays from samsung?,2016-04-16 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1963,galaxy s7 is bringing samsung back to growth,2016-03-25 00:00:00,lac,Kaggle,0.0|0.729|0.271|0.3818
+1964,samsung: what to expect from the upcoming galaxy s7,2016-02-16 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1966,"why samsung's earnings guidance is good news for apple, bad news for qualcomm",2015-10-08 00:00:00,lac,Kaggle,0.201|0.632|0.167|-0.1531
+1967,tsmc set to oust samsung for future apple chip fabrication,2015-09-28 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1968,"micron upgraded, samsung chip rivalry cools",2015-09-18 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1971,apple: does samsung's smartphone market share gain matter?,2015-04-30 00:00:00,lac,Kaggle,0.0|0.427|0.573|0.6908
+1972,report: qualcomm's snapdragon 820 to be made by samsung,2015-04-20 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1973,apple's samsung problem,2015-04-17 00:00:00,lac,Kaggle,0.574|0.426|0.0|-0.4019
+1976,could samsung be setting up to hurt micron?,2015-01-26 00:00:00,lac,Kaggle,0.327|0.673|0.0|-0.5267
+1977,report: samsung chosen as main chip supplier for next iphone,2015-01-26 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1983,"excellent revenue growth at lcd tv panel market —…—…| samsung display, lg display, ...",2020-01-29 00:00:00,lac,Kaggle,0.0|0.656|0.344|0.743
+1984,vix drops to 14 with s&p 500 expressing overbought conditions & errand product launch from samsung,2019-02-21 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1985,"stocks mixed; nvidia keeps falling; apple trounces samsung, google",2016-12-29 00:00:00,lac,Kaggle,0.167|0.833|0.0|-0.1531
+1988,samsung driving high on restructuring mode,2015-05-16 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+1989,"advanced micro, samsung to build freesync backed displays - analyst blog",2014-11-21 00:00:00,lac,Kaggle,0.0|0.721|0.279|0.2732
+1996,samsung unveils galaxy s6 to challenge apple's iphone 6 - analyst blog,2015-03-02 00:00:00,lac,Kaggle,0.0|0.874|0.126|0.0772
+2001,stock indexes jump; samsung to pay apple $548 million,2015-12-04 00:00:00,lac,Kaggle,0.149|0.851|0.0|-0.1027
+2002,"apple roundup: irish tax, homepod, bernstein, samsung fight",2018-05-24 00:00:00,lac,Kaggle,0.271|0.729|0.0|-0.3818
+2008,alcoa power plate aluminum in samsung galaxy s6 phones - analyst blog,2015-06-05 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+2014,vringo (vrng) suing google (goog): have patent wars jumped the shark? apple & samsung also in focus.,2012-07-24 00:00:00,lac,Kaggle,0.289|0.711|0.0|-0.6908
+2015,vringo (vrng) suing google (goog): have jumped the shark? apple & samsung also in focus.,2012-07-24 00:00:00,lac,Kaggle,0.139|0.861|0.0|-0.2732
+2016,"apple expands oled supplier base, lowers samsung dependence",2018-06-28 00:00:00,lac,Kaggle,0.169|0.674|0.157|-0.0258
+2019,"stifel: samsung's memory comments positive for western digital, micron",2018-10-31 00:00:00,lac,Kaggle,0.0|0.69|0.31|0.5574
+2020,bloomberg: samsung will lower memory chip output in 2019,2018-09-20 00:00:00,lac,Kaggle,0.216|0.784|0.0|-0.296
+2021,micron +4.3% after samsung's memory comments,2018-04-26 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+2022,samsung invests $7b in chinese nand fab,2018-03-28 00:00:00,lac,Kaggle,0.0|0.667|0.333|0.4588
+2023,"the information: google, qualcomm, samsung teaming on open source chip",2018-03-26 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+2026,samsung leads nand vendors in q3,2017-11-22 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+2028,"western digital raises q2 guidance, renews cross-license arrangement with samsung; +4.3% after hours",2016-12-06 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+2029,will samsung electronics' 2016 massive capex spend be devastating for micron technology?,2016-10-31 00:00:00,lac,Kaggle,0.281|0.719|0.0|-0.6486
+2031,seagate to take over samsung hdd - analyst blog,2011-04-21 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+2033,seagate seeks samsung boost,2011-04-19 00:00:00,lac,Kaggle,0.0|0.526|0.474|0.4019
+2036,"itc recommends tariffs on samsung, lg to benefit whirlpool",2017-11-21 00:00:00,lac,Kaggle,0.0|0.588|0.412|0.5994
+2037,samsung forced to recall 2.8m washing machines,2016-11-04 00:00:00,lac,Kaggle,0.333|0.667|0.0|-0.4588
+2038,whirlpool watches as samsung issues heat up,2016-10-11 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+2039,the u.s. takes antidumping action against samsung and lg,2016-07-20 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+2040,"whirlpool files anti-dumping petition targeting samsung, lg",2012-01-01 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+2041,"whirlpool files anti-dumping petition targeting samsung, lg",2011-12-30 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+2042,"wilan up 14.2% on infineon patent purchase, samsung deal",2015-06-02 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+2049,widepoint corporation: does a samsung contract matter with apple's dominance in america,2015-07-01 00:00:00,lac,Kaggle,0.0|0.756|0.244|0.2263
+2050,widepoint announces samsung mobile partnership,2015-06-29 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+2064,"black friday, cyber monday, samsung, yahoo (podcast)",2015-12-05 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+2065,samsung's generation next gizmos unveiled,2014-09-04 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+2066,nokia's here maps to be available on samsung devices - analyst blog,2014-09-03 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+2067,"gear4 announces case lineup for samsung galaxy s—… devices, including first 5g compatible case",2020-02-11 00:00:00,lac,Kaggle,0.0|1.0|0.0|0.0
+2068,"invisibleshield launches screen protection solutions for the new samsung galaxy s—…, ...",2020-02-11 00:00:00,lac,Kaggle,0.0|0.866|0.134|0.1779
+2069,invisibleshield® launches ultra visionguard™ and ultra clear for the all-new samsung galaxy ...,2019-08-08 00:00:00,lac,Kaggle,0.0|0.822|0.178|0.3818
