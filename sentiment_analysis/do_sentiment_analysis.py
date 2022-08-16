@@ -20,7 +20,6 @@ def analyze_sentiment(text : str) -> str:
 
 def setup_destination_folder(file_path: str) -> str:
     directory_path = os.path.split(file_path)[0]
-    # write_path = 
     directory_path = os.path.join(directory_path, 'sentimentally')
     os.makedirs(directory_path, exist_ok = True)
     return os.path.join(directory_path, os.path.basename(file_path))
