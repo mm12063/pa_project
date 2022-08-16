@@ -47,11 +47,14 @@ def get_category(filename : str) -> str:
     return os.path.basename(os.path.dirname(filename))
 
 def process_news(csv_file : str, data : dict) -> dict:
+    print("Processing: " + csv_file)
     file = open(csv_file, 'r')
     csv_reader = csv.reader(file)
     columns = next(csv_reader)
     category = get_category(csv_file)
     # snippet_there = 'snippet' in columns
+    # headline_there = 'headline' in columns
+    # headline_index = columns.index('headline') if headline_there else columns.index('sentiment')
     headline_index = columns.index('headline')
     date_index = columns.index('date')
     # if snippet_there:
@@ -60,12 +63,20 @@ def process_news(csv_file : str, data : dict) -> dict:
         headline = row[headline_index]
         date = row[date_index]
         data[date] = data.get(date, [])
+        # if headline_there:
         headline_score = analyze_sentiment_nltk(headline)
         if USING_TEXTBLOB:
             headline_score2 = analyze_sentiment_TextBlob(headline)
             news_data = {'category': category, 'headline_score': headline_score, 'headline_score2': headline_score2}
         else:
             news_data = {'category': category, 'headline_score': headline_score}
+        # else:
+            # headline_score = row[headline_index]
+            # if USING_TEXTBLOB:
+            #     headline_score2 = row[headline_index]
+            #     news_data = {'category': category, 'headline_score': headline_score, 'headline_score2': headline_score}
+            # else:
+            #     news_data = {'category': category, 'headline_score': headline_score}
         data[date].append(news_data)
     return data
 
@@ -102,7 +113,9 @@ def process_nlp_data(data : dict) -> dict:
 def do_nlp_stuff(stock_data_file : str, root_folder : str) -> None:
     nlp_files = get_list_of_csv_files([root_folder])
     nlp_data = process_all_news(nlp_files)
+    print("Sentiment scores generated for all textual data. Averaging to get single score per date...")
     nlp_data = process_nlp_data(nlp_data)
+    print("NLP Scores Preprocessing done...")
     # dictprint(nlp_data)
     # return
     sdread = open(stock_data_file, 'r')
@@ -111,42 +124,57 @@ def do_nlp_stuff(stock_data_file : str, root_folder : str) -> None:
     sd_csv_write = csv.writer(sdwrite, delimiter = ',')
     columns = next(sd_csv_read)
     all_categories = ['ALB', 'CBAK', 'ENS', 'LAC', 'SQM', 'TIA', 'lithium']
-    new_columns = [x + '_sentiment_nltk' for x in all_categories]
+    new_columns1 = [x + '_sentiment_nltk' for x in all_categories]
+    for col in new_columns1:
+        assert col in columns
     date_index = columns.index('Date')
     if USING_TEXTBLOB:
         new_columns2 = [x + '_sentiment_TextBlob' for x in all_categories]
-        sd_csv_write.writerow(columns + new_columns + new_columns2)
-        new_columns_overall = new_columns + new_columns2
-        zeros = [0.0 for x in new_columns_overall]
+        # sd_csv_write.writerow(columns + new_columns + new_columns2)
+        sd_csv_write.writerow(columns)
+        new_columns = new_columns1 + new_columns2
+        zeros = [0.0 for _ in new_columns]
     else:
-        sd_csv_write.writerow(columns + new_columns)
-        zeros = [0.0 for x in new_columns]
+        # sd_csv_write.writerow(columns + new_columns)
+        sd_csv_write.writerow(columns)
+        new_columns = new_columns1
+        zeros = [0.0 for _ in new_columns]
     for row in sd_csv_read:
         date = row[date_index]
         nlp_row = (nlp_data[date] if date in nlp_data.keys() else copy.deepcopy(zeros))
-        sd_csv_write.writerow(row + nlp_row)
+        for index, col in enumerate(new_columns):
+            row[columns.index(col)] = nlp_row[index]
+        # sd_csv_write.writerow(row + nlp_row)
+        sd_csv_write.writerow(row)
     sdread.close()
     sdwrite.close()
 
 def trial():
-    # file = 'all_data/ALB/GlobeNewswireALB_fixed.csv'
-    data = {'something':['other', 'something'], 'new' : 'data'}
+    file = 'all_data/lithium/twittersentiment.csv'
+    # data = {'something':['other', 'something'], 'new' : 'data'}
     # prettyprint(data)
     
-    return
-    file = 'all_data/ENS/GlobeNewswireENS_fixed.csv'
-    read = open(file, 'r')
+    # return
+    # file = 'all_data/ENS/GlobeNewswireENS_fixed.csv'
+    read = open(file, 'r', encoding='utf-8-sig')
     csv_reader = csv.reader(read)
     columns = next(csv_reader)
     print(columns)
     print('date' in columns)
     print(columns.index('date'))
+    write_file = open(file, 'w')
+    csv_writer =  csv.writer(write_file)
+    csv_writer.writerow(columns)
+    for row in csv_reader:
+        csv_writer.writerow(row)
+    write_file.close()
     read.close()
     pass
 
 if __name__  == '__main__':
     start_time = time.time()
-    stock_data_file = '../StockData/main_ds.csv'
+    # stock_data_file = '../StockData/main_ds.csv'
+    stock_data_file = '../StockData/main_ds_nlp_weather.csv'
     root_folder = 'all_data/'
     # trial()
     # sd_destpath(stock_data_file)
