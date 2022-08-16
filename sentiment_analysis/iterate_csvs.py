@@ -14,7 +14,7 @@ def get_list_of_csv_files(folder_paths):
     return csv_files
 
 if __name__ == '__main__':
-    # csv_files = get_list_of_csv_files(["../data", "../general_news_data", "../NewsData"])
-    # for file in csv_files:
-    #     analyze(file)
+    csv_files = get_list_of_csv_files(["../data", "../general_news_data", "../NewsData"])
+    for file in csv_files:
+        analyze(file)
     analyze("../final_kaggle_data.csv")
