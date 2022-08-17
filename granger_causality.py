@@ -3,7 +3,7 @@ import pandas as pd
 
 df = pd.read_csv('StockData/main_ds.csv')
 
-max_lag = 7  # 1 week
+max_lag = 1
 thresh = 0.05
 p_vals = {}
 companies = [
@@ -14,7 +14,6 @@ companies = [
     "LAC_Min",
     "SQM_Min",
 ]
-
 
 def print_signif(p_val, thresh):
     p_val = round(p_val, 4)
@@ -61,7 +60,8 @@ for cause in companies:
 print("\n\n"+format_matrix(p_vals))
 
 print(f"P vals below the {thresh} significant threshold:\n")
-print(f"{'{:11}'.format('Cause')} {'{:10}'.format('Effect')} {'{:8}'.format('P Val')}")
+print("THIS Granger Causes THAT:")
+print(f"{'{:11}'.format('This')} {'{:9}'.format('That')} {'{:7}'.format('P Val')}")
 
 keys_list = list(p_vals)
 for idx_row, row in enumerate(p_vals):

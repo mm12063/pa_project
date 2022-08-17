@@ -1,7 +1,7 @@
 import pandas as pd
 from bs4 import BeautifulSoup
 import datetime
-from fake_user_agent.main import user_agent
+# from fake_user_agent.main import user_agent
 import json
 from io import StringIO
 from html.parser import HTMLParser
@@ -12,17 +12,17 @@ import urllib.request
 import re
 
 source = 'reuters'
-pg_st = 0
-pg_end = 1
+pg_st = 1
+pg_end = 20
 
 def make_request(url):
-    ua = user_agent()
-    headers = {
-        'User-Agent': ua
-    }
-    req = urllib.request.Request(url, data=None, headers=headers)
+    # ua = user_agent()
+    # headers = {
+    #     'User-Agent': ua
+    # }
+    req = urllib.request.Request(url, data=None)
     try:
-        with urllib.request.urlopen(req, timeout=15) as response:
+        with urllib.request.urlopen(req, timeout=20) as response:
             return response.read(), response
     except HTTPError as error:
         print(error.status, error.reason)
@@ -94,8 +94,8 @@ def convert_to_DMY(date):
     return datetime.datetime.strptime(date.replace(",", "", 1), '%B %d %Y').strftime('%d/%m/%Y')
 
 
-ua = user_agent()
-headers = {'User-Agent': ua}
+# ua = user_agent()
+# headers = {'User-Agent': ua}
 
 keys = [
     "blob",
@@ -113,11 +113,22 @@ keys = [
 ]
 
 names = [
-    # 'ganfeng+lithium',
     # 'albemarle',
-    'sociedad+quimica+y+minera+de+chile',
+    # 'sociedad+quimica+y+minera+de+chile',
     # 'sqm',
     # 'lithium',
+
+    'Lithium+Americas',
+    'LAC',
+    
+    'CBAT',
+    'China+BAK+Battery',
+
+    'ENS',
+    'EnerSys',
+
+    '002466',
+    'Tianqi+Lithium',
     ]
 
 for name in names:
@@ -138,7 +149,8 @@ for name in names:
 
         text, response = make_request(url_updated)
         print("Txt len", len(text))
-        soup = BeautifulSoup(text, features="lxml")
+        print(text)
+        soup = BeautifulSoup(text, features="html.parser")
 
         data = convert_to_json(soup.text, name)
 
@@ -156,7 +168,7 @@ for name in names:
                     cleaned_snippets.append(blurb)
                     formatted_dates.append(dt)
 
-        time.sleep(2)
+        time.sleep(5)
 
     df = pd.DataFrame({'headline': formatted_headlines, 'date': formatted_dates, 'snippet': cleaned_snippets,
                              'source': source})

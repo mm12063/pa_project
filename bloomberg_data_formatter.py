@@ -6,7 +6,7 @@ import globals
 filenames = [
     'bloom_ganfeng_lithium',
     'bloom_albemarle',
-    # 'bloom_lithium',
+    'bloom_lithium',
     'bloom_sqm',
     ]
 

@@ -1,0 +1,352 @@
+CBAT_Bat -> CBAT_Bat
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.0000  , p=1.0000  , df_denom=1255, df_num=1
+ssr based chi2 test:   chi2=0.0000  , p=1.0000  , df=1
+likelihood ratio test: chi2=-0.0000 , p=1.0000  , df=1
+parameter F test:         F=0.3650  , p=0.5458  , df_denom=1255, df_num=1
+
+CBAT_Bat -> ENS_Bat
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=5.1847  , p=0.0230  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=5.1971  , p=0.0226  , df=1
+likelihood ratio test: chi2=5.1864  , p=0.0228  , df=1
+parameter F test:         F=5.1847  , p=0.0230  , df_denom=1254, df_num=1
+
+CBAT_Bat -> TIA_Bat
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=4.0683  , p=0.0439  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=4.0780  , p=0.0434  , df=1
+likelihood ratio test: chi2=4.0714  , p=0.0436  , df=1
+parameter F test:         F=4.0683  , p=0.0439  , df_denom=1254, df_num=1
+
+CBAT_Bat -> ALB_Min
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=1.1959  , p=0.2744  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=1.1988  , p=0.2736  , df=1
+likelihood ratio test: chi2=1.1982  , p=0.2737  , df=1
+parameter F test:         F=1.1959  , p=0.2744  , df_denom=1254, df_num=1
+
+CBAT_Bat -> LAC_Min
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=3.1667  , p=0.0754  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=3.1743  , p=0.0748  , df=1
+likelihood ratio test: chi2=3.1703  , p=0.0750  , df=1
+parameter F test:         F=3.1667  , p=0.0754  , df_denom=1254, df_num=1
+
+CBAT_Bat -> SQM_Min
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=3.9039  , p=0.0484  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=3.9133  , p=0.0479  , df=1
+likelihood ratio test: chi2=3.9072  , p=0.0481  , df=1
+parameter F test:         F=3.9039  , p=0.0484  , df_denom=1254, df_num=1
+
+ENS_Bat -> CBAT_Bat
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.0054  , p=0.9414  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=0.0054  , p=0.9413  , df=1
+likelihood ratio test: chi2=0.0054  , p=0.9413  , df=1
+parameter F test:         F=0.0054  , p=0.9414  , df_denom=1254, df_num=1
+
+ENS_Bat -> ENS_Bat
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.0000  , p=1.0000  , df_denom=1255, df_num=1
+ssr based chi2 test:   chi2=0.0000  , p=1.0000  , df=1
+likelihood ratio test: chi2=-0.0000 , p=1.0000  , df=1
+parameter F test:         F=4.2012  , p=0.0406  , df_denom=1255, df_num=1
+
+ENS_Bat -> TIA_Bat
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=1.2927  , p=0.2558  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=1.2958  , p=0.2550  , df=1
+likelihood ratio test: chi2=1.2951  , p=0.2551  , df=1
+parameter F test:         F=1.2927  , p=0.2558  , df_denom=1254, df_num=1
+
+ENS_Bat -> ALB_Min
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.2743  , p=0.6006  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=0.2749  , p=0.6000  , df=1
+likelihood ratio test: chi2=0.2749  , p=0.6001  , df=1
+parameter F test:         F=0.2743  , p=0.6006  , df_denom=1254, df_num=1
+
+ENS_Bat -> LAC_Min
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.0483  , p=0.8261  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=0.0484  , p=0.8258  , df=1
+likelihood ratio test: chi2=0.0484  , p=0.8258  , df=1
+parameter F test:         F=0.0483  , p=0.8261  , df_denom=1254, df_num=1
+
+ENS_Bat -> SQM_Min
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=2.2933  , p=0.1302  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=2.2987  , p=0.1295  , df=1
+likelihood ratio test: chi2=2.2966  , p=0.1297  , df=1
+parameter F test:         F=2.2933  , p=0.1302  , df_denom=1254, df_num=1
+
+TIA_Bat -> CBAT_Bat
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=1.2282  , p=0.2680  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=1.2311  , p=0.2672  , df=1
+likelihood ratio test: chi2=1.2305  , p=0.2673  , df=1
+parameter F test:         F=1.2282  , p=0.2680  , df_denom=1254, df_num=1
+
+TIA_Bat -> ENS_Bat
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=7.3623  , p=0.0068  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=7.3799  , p=0.0066  , df=1
+likelihood ratio test: chi2=7.3583  , p=0.0067  , df=1
+parameter F test:         F=7.3623  , p=0.0068  , df_denom=1254, df_num=1
+
+TIA_Bat -> TIA_Bat
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.0000  , p=1.0000  , df_denom=1255, df_num=1
+ssr based chi2 test:   chi2=0.0000  , p=1.0000  , df=1
+likelihood ratio test: chi2=-0.0000 , p=1.0000  , df=1
+parameter F test:         F=1.3414  , p=0.2470  , df_denom=1255, df_num=1
+
+TIA_Bat -> ALB_Min
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=21.1953 , p=0.0000  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=21.2460 , p=0.0000  , df=1
+likelihood ratio test: chi2=21.0684 , p=0.0000  , df=1
+parameter F test:         F=21.1953 , p=0.0000  , df_denom=1254, df_num=1
+
+TIA_Bat -> LAC_Min
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=5.5605  , p=0.0185  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=5.5738  , p=0.0182  , df=1
+likelihood ratio test: chi2=5.5614  , p=0.0184  , df=1
+parameter F test:         F=5.5605  , p=0.0185  , df_denom=1254, df_num=1
+
+TIA_Bat -> SQM_Min
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=20.1452 , p=0.0000  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=20.1933 , p=0.0000  , df=1
+likelihood ratio test: chi2=20.0329 , p=0.0000  , df=1
+parameter F test:         F=20.1452 , p=0.0000  , df_denom=1254, df_num=1
+
+ALB_Min -> CBAT_Bat
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.6227  , p=0.4302  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=0.6242  , p=0.4295  , df=1
+likelihood ratio test: chi2=0.6241  , p=0.4295  , df=1
+parameter F test:         F=0.6227  , p=0.4302  , df_denom=1254, df_num=1
+
+ALB_Min -> ENS_Bat
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=6.7839  , p=0.0093  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=6.8002  , p=0.0091  , df=1
+likelihood ratio test: chi2=6.7818  , p=0.0092  , df=1
+parameter F test:         F=6.7839  , p=0.0093  , df_denom=1254, df_num=1
+
+ALB_Min -> TIA_Bat
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.9701  , p=0.3249  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=0.9724  , p=0.3241  , df=1
+likelihood ratio test: chi2=0.9720  , p=0.3242  , df=1
+parameter F test:         F=0.9701  , p=0.3249  , df_denom=1254, df_num=1
+
+ALB_Min -> ALB_Min
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.0000  , p=1.0000  , df_denom=1255, df_num=1
+ssr based chi2 test:   chi2=0.0000  , p=1.0000  , df=1
+likelihood ratio test: chi2=-0.0000 , p=1.0000  , df=1
+parameter F test:         F=0.1416  , p=0.7068  , df_denom=1255, df_num=1
+
+ALB_Min -> LAC_Min
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=3.8503  , p=0.0500  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=3.8595  , p=0.0495  , df=1
+likelihood ratio test: chi2=3.8536  , p=0.0496  , df=1
+parameter F test:         F=3.8503  , p=0.0500  , df_denom=1254, df_num=1
+
+ALB_Min -> SQM_Min
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.4224  , p=0.5159  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=0.4234  , p=0.5152  , df=1
+likelihood ratio test: chi2=0.4233  , p=0.5153  , df=1
+parameter F test:         F=0.4224  , p=0.5159  , df_denom=1254, df_num=1
+
+LAC_Min -> CBAT_Bat
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.0043  , p=0.9479  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=0.0043  , p=0.9479  , df=1
+likelihood ratio test: chi2=0.0043  , p=0.9479  , df=1
+parameter F test:         F=0.0043  , p=0.9479  , df_denom=1254, df_num=1
+
+LAC_Min -> ENS_Bat
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.7216  , p=0.3958  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=0.7233  , p=0.3951  , df=1
+likelihood ratio test: chi2=0.7231  , p=0.3951  , df=1
+parameter F test:         F=0.7216  , p=0.3958  , df_denom=1254, df_num=1
+
+LAC_Min -> TIA_Bat
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.0955  , p=0.7573  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=0.0958  , p=0.7570  , df=1
+likelihood ratio test: chi2=0.0958  , p=0.7570  , df=1
+parameter F test:         F=0.0955  , p=0.7573  , df_denom=1254, df_num=1
+
+LAC_Min -> ALB_Min
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=3.3119  , p=0.0690  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=3.3198  , p=0.0684  , df=1
+likelihood ratio test: chi2=3.3154  , p=0.0686  , df=1
+parameter F test:         F=3.3119  , p=0.0690  , df_denom=1254, df_num=1
+
+LAC_Min -> LAC_Min
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.0000  , p=1.0000  , df_denom=1255, df_num=1
+ssr based chi2 test:   chi2=0.0000  , p=1.0000  , df=1
+likelihood ratio test: chi2=-0.0000 , p=1.0000  , df=1
+parameter F test:         F=3.6096  , p=0.0577  , df_denom=1255, df_num=1
+
+LAC_Min -> SQM_Min
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=4.0383  , p=0.0447  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=4.0480  , p=0.0442  , df=1
+likelihood ratio test: chi2=4.0415  , p=0.0444  , df=1
+parameter F test:         F=4.0383  , p=0.0447  , df_denom=1254, df_num=1
+
+SQM_Min -> CBAT_Bat
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.4083  , p=0.5229  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=0.4093  , p=0.5223  , df=1
+likelihood ratio test: chi2=0.4092  , p=0.5224  , df=1
+parameter F test:         F=0.4083  , p=0.5229  , df_denom=1254, df_num=1
+
+SQM_Min -> ENS_Bat
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=2.3289  , p=0.1272  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=2.3345  , p=0.1265  , df=1
+likelihood ratio test: chi2=2.3323  , p=0.1267  , df=1
+parameter F test:         F=2.3289  , p=0.1272  , df_denom=1254, df_num=1
+
+SQM_Min -> TIA_Bat
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.0084  , p=0.9272  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=0.0084  , p=0.9271  , df=1
+likelihood ratio test: chi2=0.0084  , p=0.9271  , df=1
+parameter F test:         F=0.0084  , p=0.9272  , df_denom=1254, df_num=1
+
+SQM_Min -> ALB_Min
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=2.7328  , p=0.0986  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=2.7393  , p=0.0979  , df=1
+likelihood ratio test: chi2=2.7363  , p=0.0981  , df=1
+parameter F test:         F=2.7328  , p=0.0986  , df_denom=1254, df_num=1
+
+SQM_Min -> LAC_Min
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=2.3638  , p=0.1244  , df_denom=1254, df_num=1
+ssr based chi2 test:   chi2=2.3695  , p=0.1237  , df=1
+likelihood ratio test: chi2=2.3673  , p=0.1239  , df=1
+parameter F test:         F=2.3638  , p=0.1244  , df_denom=1254, df_num=1
+
+SQM_Min -> SQM_Min
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.0000  , p=1.0000  , df_denom=1255, df_num=1
+ssr based chi2 test:   chi2=0.0000  , p=1.0000  , df=1
+likelihood ratio test: chi2=-0.0000 , p=1.0000  , df=1
+parameter F test:         F=0.3938  , p=0.5304  , df_denom=1255, df_num=1
+
+
+THIS Granger Causes THAT P Values:
+
+                                       THAT
+                  CBAT_Bat  ENS_Bat   TIA_Bat   ALB_Min   LAC_Min   SQM_Min
+        CBAT_Bat  1.0       0.023     0.0439    0.2744    0.0754    0.0484
+        ENS_Bat   0.9414    1.0       0.2558    0.6006    0.8261    0.1302
+THIS    TIA_Bat   0.268     0.0068    1.0       0.0       0.0185    0.0
+        ALB_Min   0.4302    0.0093    0.3249    1.0       0.05      0.5159
+        LAC_Min   0.9479    0.3958    0.7573    0.069     1.0       0.0447
+        SQM_Min   0.5229    0.1272    0.9272    0.0986    0.1244    1.0
+
+
+P vals below the 0.05 significant threshold:
+
+THIS Granger Causes THAT:
+
+THIS        THAT      P Val
+CBAT_Bat -> ENS_Bat    0.023
+CBAT_Bat -> TIA_Bat   0.0439
+CBAT_Bat -> SQM_Min   0.0484
+TIA_Bat  -> ENS_Bat   0.0068
+TIA_Bat  -> ALB_Min      0.0
+TIA_Bat  -> LAC_Min   0.0185
+TIA_Bat  -> SQM_Min      0.0
+ALB_Min  -> ENS_Bat   0.0093
+ALB_Min  -> LAC_Min     0.05
+LAC_Min  -> SQM_Min   0.0447

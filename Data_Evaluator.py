@@ -14,4 +14,3 @@ class Data_Evaluator:
 
         print("")
 
-

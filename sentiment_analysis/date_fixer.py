@@ -32,7 +32,7 @@ def transform(date):
     # return transform2(date)
     
 def fix_dates(filename: str) -> None:
-    file = open(filename, 'r', encoding='utf-8-sig')
+    file = open(filename, 'r')
     # file = open(filename, 'r')
     csv_reader = csv.reader(file, delimiter = ',')
     columns = next(csv_reader)
@@ -58,7 +58,7 @@ def test():
     print(transform(given_date))
 
 if __name__ == '__main__':
-    file = 'all_data/SQM/SQM_3.csv'
+    file = 'all_data/ALB/($ALB).csv'
     # test()
     fix_dates(file)
     
