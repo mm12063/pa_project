@@ -1,0 +1,12 @@
+﻿conditions,mapping
+Clear,0
+Overcast,1
+Partially cloudy,2
+Rain,3
+"Rain, Overcast",4
+"Rain, Partially cloudy",5
+Snow,6
+"Snow, Partially cloudy",7
+"Snow, Rain",8
+"Snow, Rain, Overcast",9
+"Snow, Rain, Partially cloudy",10
