@@ -17,6 +17,9 @@ names = [
     'lithium',
 ]
 
+print("Code stopped to prevent overwriting files.")
+exit(0)
+
 for name in names:
     temp_df = pd.DataFrame()
     headlines = []
