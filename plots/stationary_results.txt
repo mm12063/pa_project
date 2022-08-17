@@ -1,0 +1,97 @@
+CBAT_bat Stationary Check
+ADF test statistic: -1.7033948297008112
+p-value: 0.4293642127757888
+Critical thresholds:
+	1%: -3.4355796466416777
+	5%: -2.863849421064024
+	10%: -2.5679995625056926
+
+ENS_bat Stationary Check
+ADF test statistic: -2.7773708593397295
+p-value: 0.061579589993509314
+Critical thresholds:
+	1%: -3.4355671297788666
+	5%: -2.8638438984080117
+	10%: -2.5679966213893057
+
+Tianqi_bat Stationary Check
+ADF test statistic: -2.035492029552602
+p-value: 0.2712310909656962
+Critical thresholds:
+	1%: -3.435770379276604
+	5%: -2.8639335727551223
+	10%: -2.5680443783356286
+
+ALB_Min Stationary Check
+ADF test statistic: -1.3671178609834729
+p-value: 0.597934813255022
+Critical thresholds:
+	1%: -3.4355838322867998
+	5%: -2.863851267837805
+	10%: -2.5680005460145554
+
+LAC_Min Stationary Check
+ADF test statistic: -1.6982602082895022
+p-value: 0.4320090921100958
+Critical thresholds:
+	1%: -3.4355754676859886
+	5%: -2.8638475772391665
+	10%: -2.5679985805677017
+
+SQM_Min Stationary Check
+ADF test statistic: -1.1710582456350163
+p-value: 0.6859202052320669
+Critical thresholds:
+	1%: -3.4355629707955395
+	5%: -2.863842063387667
+	10%: -2.567995644141416
+
+========= Make non-stationary =========
+
+CBAT_bat Stationary Check
+ADF test statistic: -18.549273481725475
+p-value: 2.0933384570744897e-30
+Critical thresholds:
+	1%: -3.4355796466416777
+	5%: -2.863849421064024
+	10%: -2.5679995625056926
+
+ENS_bat Stationary Check
+ADF test statistic: -33.42234170905196
+p-value: 0.0
+Critical thresholds:
+	1%: -3.4355671297788666
+	5%: -2.8638438984080117
+	10%: -2.5679966213893057
+
+Tianqi_bat Stationary Check
+ADF test statistic: -12.52512510712104
+p-value: 2.4984614126917664e-23
+Critical thresholds:
+	1%: -3.435770379276604
+	5%: -2.8639335727551223
+	10%: -2.5680443783356286
+
+ALB_Min Stationary Check
+ADF test statistic: -16.672556538192353
+p-value: 1.5404821875452745e-29
+Critical thresholds:
+	1%: -3.4355838322867998
+	5%: -2.863851267837805
+	10%: -2.5680005460145554
+
+LAC_Min Stationary Check
+ADF test statistic: -22.785470090130342
+p-value: 0.0
+Critical thresholds:
+	1%: -3.4355754676859886
+	5%: -2.8638475772391665
+	10%: -2.5679985805677017
+
+SQM_Min Stationary Check
+ADF test statistic: -36.04809811916285
+p-value: 0.0
+Critical thresholds:
+	1%: -3.4355671297788666
+	5%: -2.8638438984080117
+	10%: -2.5679966213893057
