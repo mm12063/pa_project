@@ -1,0 +1,28 @@
+ENS Stock Forecast
+
+EMA
+
+The MAPE using MACD for [ENS]: 0.021021313268614058
+The RMSE using MACD for [ENS]: 1.8568980291872001
+The Coefficient of Determination for [ENS]: 0.9523581224505727
+
+RSI
+MAPE using RSI_14 for [ENS]: 0.49130912946426614
+RMSE using RSI_14 for [ENS]: 0.18644390696633362
+Coefficient of Determination using RSI_14 for [ENS]: 0.12087066393848
+
+MACD
+The MAPE using MACD for [ENS]: 0.5616092724221499
+The RMSE using MACD for [ENS]: 0.18606671949790374
+The Coefficient of Determination for [ENS]: 0.07088457430832351
+
+MultiRegression ( EMA+RSI+MACD )
+The MAPE using EMA,RSI and MACD for [ENS]: 0.019103359719879565
+The RMSE using EMA,RSI and MACD for [ENS]: 0.013754614522507003
+The Coefficient of Determination for [ENS]: 0.9950595675673375
+
+MultiRegression ( RSI+MACD )
+ [The current Stock : ENS ]
+The MAPE using RSI and MACD for [ENS]:  0.5395590263298498
+The RMSE using RSI and MACD for [ENS]:  0.17913937708059827
+The Coefficient of Determination using RSI and MACD for [ENS]:  0.19710451647161042

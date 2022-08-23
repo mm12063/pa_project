@@ -1,0 +1,60 @@
+
+
+ [ALB] 
+
+The MAE using MACD for [ALB]: 0.13649672694109227
+The MAPE using MACD for [ALB]: 0.8905718886827062
+The RMSE using MACD for [ALB]: 0.18080000585872194
+The Coefficient of Determination for [ALB]: 0.06672562105094393
+
+
+
+
+ [LAC] 
+
+The MAE using MACD for [LAC]: 0.09986657085274754
+The MAPE using MACD for [LAC]: 0.2922211719016169
+The RMSE using MACD for [LAC]: 0.13322067518322012
+The Coefficient of Determination for [LAC]: 0.03811955237204967
+
+
+
+
+ [SQM] 
+
+The MAE using MACD for [SQM]: 0.1139386296038847
+The MAPE using MACD for [SQM]: 0.7616353573477341
+The RMSE using MACD for [SQM]: 0.1470682715953402
+The Coefficient of Determination for [SQM]: 0.017682675882917165
+
+
+
+
+ [CBAT] 
+
+The MAE using MACD for [CBAT]: 0.06934001413195451
+The MAPE using MACD for [CBAT]: 0.22415494864100885
+The RMSE using MACD for [CBAT]: 0.10922320958985368
+The Coefficient of Determination for [CBAT]: 0.09006064998727492
+
+
+
+
+ [ENS] 
+
+The MAE using MACD for [ENS]: 0.14518088253693479
+The MAPE using MACD for [ENS]: 0.5616092724221499
+The RMSE using MACD for [ENS]: 0.18606671949790374
+The Coefficient of Determination for [ENS]: 0.07088457430832351
+
+
+
+
+ [002466.SZ] 
+
+The MAE using MACD for [002466.SZ]: 0.1318589040231834
+The MAPE using MACD for [002466.SZ]: 0.8610177777865704
+The RMSE using MACD for [002466.SZ]: 0.170593314414523
+The Coefficient of Determination for [002466.SZ]: 0.015457399911752212
+
+

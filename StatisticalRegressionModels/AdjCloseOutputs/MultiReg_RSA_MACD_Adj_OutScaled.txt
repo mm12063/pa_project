@@ -1,0 +1,60 @@
+
+
+ [ALB] 
+
+The MAE using RSI and MACD for [ALB]: 0.19555496365578556
+The MAPE using RSI and MACD for [ALB]: 1.8123892981231375
+The RMSE using RSI and MACD for [ALB]: 0.23785284375087742
+The Coefficient of Determination for [ALB]: 0.020048724827844366
+
+
+
+
+ [LAC] 
+
+The MAE using RSI and MACD for [LAC]: 0.1286289921455771
+The MAPE using RSI and MACD for [LAC]: 9660446229560.58
+The RMSE using RSI and MACD for [LAC]: 0.17903228523257053
+The Coefficient of Determination for [LAC]: 0.11620659235080089
+
+
+
+
+ [SQM] 
+
+The MAE using RSI and MACD for [SQM]: 0.21683498424899728
+The MAPE using RSI and MACD for [SQM]: 6528616505068.923
+The RMSE using RSI and MACD for [SQM]: 0.25298981187478065
+The Coefficient of Determination for [SQM]: 0.006265434092292854
+
+
+
+
+ [CBAT] 
+
+The MAE using RSI and MACD for [CBAT]: 0.16977228168187578
+The MAPE using RSI and MACD for [CBAT]: 1.1771795762758508
+The RMSE using RSI and MACD for [CBAT]: 0.19271696131550778
+The Coefficient of Determination for [CBAT]: 0.04647346148983944
+
+
+
+
+ [ENS] 
+
+The MAE using RSI and MACD for [ENS]: 0.15090073165866955
+The MAPE using RSI and MACD for [ENS]: 0.5395590263298498
+The RMSE using RSI and MACD for [ENS]: 0.17913937708059827
+The Coefficient of Determination for [ENS]: 0.19710451647161042
+
+
+
+
+ [002466.SZ] 
+
+The MAE using RSI and MACD for [002466.SZ]: 0.1727891250468484
+The MAPE using RSI and MACD for [002466.SZ]: 7516140970248.587
+The RMSE using RSI and MACD for [002466.SZ]: 0.21866705778640894
+The Coefficient of Determination for [002466.SZ]: 0.022072438758539814
+
+

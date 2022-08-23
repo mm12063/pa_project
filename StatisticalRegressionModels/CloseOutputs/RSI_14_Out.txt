@@ -1,0 +1,60 @@
+
+
+ [ALB] 
+
+MAE using RSI_14 for [ALB]: 0.14604671756908752
+MAPE using RSI_14 for [ALB]: 0.3936648764263447
+RMSE using RSI_14 for [ALB]: 0.176350225587187
+Coefficient of Determination using RSI_14 for [ALB]: 0.14456587618253935
+
+
+
+
+ [LAC] 
+
+MAE using RSI_14 for [LAC]: 0.14236919718425672
+MAPE using RSI_14 for [LAC]: 0.4185648954226454
+RMSE using RSI_14 for [LAC]: 0.17358850518287622
+Coefficient of Determination using RSI_14 for [LAC]: 0.15418683696563174
+
+
+
+
+ [SQM] 
+
+MAE using RSI_14 for [SQM]: 0.14195009962802016
+MAPE using RSI_14 for [SQM]: 0.43499800487398826
+RMSE using RSI_14 for [SQM]: 0.17310542849457142
+Coefficient of Determination using RSI_14 for [SQM]: 0.09938322986061321
+
+
+
+
+ [CBAT] 
+
+MAE using RSI_14 for [CBAT]: 0.1535669732217194
+MAPE using RSI_14 for [CBAT]: 0.4147700915014584
+RMSE using RSI_14 for [CBAT]: 0.1839256271823058
+Coefficient of Determination using RSI_14 for [CBAT]: 0.17501927011960472
+
+
+
+
+ [ENS] 
+
+MAE using RSI_14 for [ENS]: 0.14466464590314818
+MAPE using RSI_14 for [ENS]: 0.3694128528959438
+RMSE using RSI_14 for [ENS]: 0.1754255512900475
+Coefficient of Determination using RSI_14 for [ENS]: 0.16797031929919648
+
+
+
+
+ [002466.SZ] 
+
+MAE using RSI_14 for [002466.SZ]: 0.14082039939369448
+MAPE using RSI_14 for [002466.SZ]: 7999611923702.366
+RMSE using RSI_14 for [002466.SZ]: 0.1742418769370676
+Coefficient of Determination using RSI_14 for [002466.SZ]: 0.1929996459538812
+
+
